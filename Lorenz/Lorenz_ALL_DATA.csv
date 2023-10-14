@@ -1,12 +1,12 @@
 ,Company_Name,Date_of_leak,Company_URL,Data_Type,Industry_Type,Company_Address,Company_Country
-1,AllCare Pharmacy,"Posted Oct 02, 2023.",https://www.allcarepharmacy.com/,"Customer Database with SSN, Cyber Insurance, ",Retail,"El Monte, CA",United States
+1,AllCare Pharmacy,"Posted Oct 02, 2023.",https://www.allcarepharmacy.com/,"Customer Database with SSN, Cyber Insurance",Retail,"El Monte, CA",United States
 2,Dee Sign,"Posted Sep 01, 2023.",https://deesign.com/,Customer Database,Real Estate,"West Chester, OH",United States
-3,"Felling Trailers, Inc.","Posted Jul 13, 2023.",https://www.felling.com/,"Unknown, Insurance Cards, Emails, ",Truck Transportation,"Sauk Centre, MN",United States
-4,Moore Engineering,"Posted Mar 31, 2023.",https://www.mooreengineeringinc.com/,"Unknown, Intranet Policy, IT budget Plan, IP Adresses, Infrastructure Transground XML, Hospital SDC XML, etc.",Civil Engineering,"West Fargo, ND",United States
-5,Intrasect Technologies,"Posted Mar 29, 2023.",https://www.intrasecttech.com/,"Unknown, Credit Reference Sheet, System Change Orders",IT Services and IT Consulting,"Wabash, Indiana",United States
-6,NGS Super,"Posted Mar 25, 2023.",https://www.ngssuper.com.au/,"Unknown, security access card system, Emails, Staff Induction Porcess, Annual Report, Passports, Driving Licence",Financial Services,"Sydney, NSW",Australia
-7,"Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa","Posted Mar 11, 2023.",https://joycone.com/,"Unknown, Emails, Non-Employee Control Policy, Harrassment Policy, Inspection Policy, Employer Portal Account Request",Manufacturing,"Hermitage, PA",United States
-8,"Tarolli, Sundheim, Covell & Tummino LLP","Posted Mar 14, 2023.",http://www.tarolli.com/,"Unknown, Chrome Passwords, password reset, password breakdown, passwords",Legal Services,"Cleveland, Ohio",United States
-9,Manning Building Supplies,"Posted Mar 13, 2023.",https://www.mbs-corp.com,"Unknown, Shareholds Share of income, deductions, credits etc. , Electrical plans, etc.",Construction,"Ocala, Florida",United States
-10,Hopsteiner,"Posted Feb 10, 2023.",https://www.hopsteiner.com/,"Unknown, union employee information, VersaMax PLC users manual",Food and Beverage Services,"Yakima, WA",United States
-11,AmerisourceBergen/Censora - MWI Animal Health,"Posted Jan 22, 2023.",https://www.amerisourcebergen.com/ https://www.mwiah.com/,"unknown, customer information, customer sales, service agreement, Confidential document, customer ",Veterinary Services,"Boise, ID",United States
+3,"Felling Trailers, Inc.","Posted Jul 13, 2023.",https://www.felling.com/,"Insurance Cards, Emails",Truck Transportation,"Sauk Centre, MN",United States
+4,Moore Engineering,"Posted Mar 31, 2023.",https://www.mooreengineeringinc.com/,"Intranet Policy, IT budget Plan, IP Adresses, Infrastructure Transground XML, Hospital SDC XML, etc.",Civil Engineering,"West Fargo, ND",United States
+5,Intrasect Technologies,"Posted Mar 29, 2023.",https://www.intrasecttech.com/,"Credit Reference Sheet, System Change Orders",IT Services and IT Consulting,"Wabash, Indiana",United States
+6,NGS Super,"Posted Mar 25, 2023.",https://www.ngssuper.com.au/,"security access card system, Emails, Staff Induction Porcess, Annual Report, Passports, Driving Licence",Financial Services,"Sydney, NSW",Australia
+7,"Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa","Posted Mar 11, 2023.",https://joycone.com/,"Emails, Non-Employee Control Policy, Harrassment Policy, Inspection Policy, Employer Portal Account Request",Manufacturing,"Hermitage, PA",United States
+8,"Tarolli, Sundheim, Covell & Tummino LLP","Posted Mar 14, 2023.",http://www.tarolli.com/,"Chrome Passwords, password reset, password breakdown, passwords",Legal Services,"Cleveland, Ohio",United States
+9,Manning Building Supplies,"Posted Mar 13, 2023.",https://www.mbs-corp.com,"Shareholds Share of income, deductions, credits etc. , Electrical plans, etc.",Construction,"Ocala, Florida",United States
+10,Hopsteiner,"Posted Feb 10, 2023.",https://www.hopsteiner.com/,"union employee information, VersaMax PLC users manual",Food and Beverage Services,"Yakima, WA",United States
+11,AmerisourceBergen/Censora - MWI Animal Health,"Posted Jan 22, 2023.",https://www.amerisourcebergen.com/ https://www.mwiah.com/,"customer information, customer sales, service agreement, Confidential document, customer ",Veterinary Services,"Boise, ID",United States
