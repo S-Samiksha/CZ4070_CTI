@@ -22,3 +22,13 @@ Lorenz = Lorenz[['Company_Name', 'Date_of_leak', 'Data_Type', 'Company_Address',
 llist = ["Lorenz"]\*Lorenz.shape[0]
 Lorenz['Ransomware_Group'] = llist
 ```
+
+
+## Interesting Information 
+
+### PLAY NEWS
+
+- There is on Singaporean company attacked
+- Government Data is stolen 
+- Projects, technical documentations, contracts, agreements 
+- Pizza recipe is an interesting one
