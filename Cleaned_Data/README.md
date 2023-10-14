@@ -31,4 +31,11 @@ Lorenz['Ransomware_Group'] = llist
 - There is on Singaporean company attacked
 - Government Data is stolen 
 - Projects, technical documentations, contracts, agreements 
-- Pizza recipe is an interesting one
+- Pizza recipe is an interesting one (why would they steal this?)
+
+
+### Lorenz 
+
+- VersaMax PLC users manual (I am not sure what is this or why they stole it)
+- Harrassment Policy, Inspection Policy (why would they steal this?) 
+- Cyber Insurance (irony...)
