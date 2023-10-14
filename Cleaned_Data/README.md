@@ -28,8 +28,8 @@ Lorenz['Ransomware_Group'] = llist
 
 ### PLAY NEWS
 
-- There is on Singaporean company attacked
-- Government Data is stolen 
+- There is one Singaporean company attacked
+- Government Data is stolen (defence sector information)
 - Projects, technical documentations, contracts, agreements 
 - Pizza recipe is an interesting one (why would they steal this?)
 
