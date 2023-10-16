@@ -1,0 +1,164 @@
+,Company_Name,Date_of_leak,Company_Address,Company_Country,Industry_Type,Personal Identifiable Information (PII),Financial Data,Healthcare Information,Employee and HR Data,Intellectual Property and Trade Secrets,Customer and Client Data,Legal Documents,Government and Defense Information,Educational Data,Credentials and Access Information,Databases,Website Data,Backup Data,Video and Surveillance Footage,Social Media Data,Utility and Infrastructure Data,Sensitive Communication,Ransomware_Group
+0,AllCare Pharmacy,2/10/2023,"El Monte, CA",United States,Retail,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Lorenz
+1,Dee Sign,1/10/2023,"West Chester, OH",United States,Real Estate,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+2,"Felling Trailers, Inc.",13/7/2023,"Sauk Centre, MN",United States,Truck Transportation,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lorenz
+3,Moore Engineering,31/3/2023,"West Fargo, ND",United States,Civil Engineering,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,Lorenz
+4,Intrasect Technologies,29/3/2023,"Wabash, Indiana",United States,IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+5,NGS Super,25/3/2023,"Sydney, NSW",Australia,Financial Services,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,Lorenz
+6,"Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa",11/3/2023,"Hermitage, PA",United States,Manufacturing,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,Lorenz
+7,"Tarolli, Sundheim, Covell & Tummino LLP",14/3/2023,"Cleveland, Ohio",United States,Legal Services,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Lorenz
+8,Manning Building Supplies,13/3/2023,"Ocala, Florida",United States,Construction,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+9,Hopsteiner,10/2/2023,"Yakima, WA",United States,Food and Beverage Services,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+10,AmerisourceBergen/Censora - MWI Animal Health,22/1/2023,"Boise, ID",United States,Veterinary Services,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lorenz
+0,KTUA Landscape Architecture and Planning,17/10/2023,"San Diego, CA",United States,Architecture and Planning,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+1,"Comtek Advanced Structures, a Latecoere Company",17/10/2023,"Burlington, Ontario",Canada,Aviation and Aerospace Component Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+2,ExdionInsurance,17/10/2023,"Plano, Texas",United States,Business Consulting and Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+3,Petersen Johnson,15/10/2023,"Phoenix, Arizona",United States,Law Practice,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+4,Ted Pella Inc.,10/10/2023,"Redding, CA",United States,Nanotechnology Research,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+5,Sabian Inc,10/10/2023,"Marshfield, Massachusetts",United States,Entertainment Providers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+6,Chula Vista Electric (CVE),6/10/2023,"Santee, California",United States,Construction,1,1,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
+7,C.F. Service and Supply,6/10/2023,,,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+8,Notel,5/10/2023,"Warsaw, Mazowieckie",Polska,Telecommunications,0,0,0,0,1,0,0,0,0,0,1,0,1,,,,,8Base
+9,Muenz-Engineered Sales,4/10/2023,"Summit, New Jersey",United States,Industrial Machinery Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+10,SUD TRADING COMPANY,3/10/2023,"Villetelle, Occitanie",France,Wholesale,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+11,WEBBER RESTAURANT GROUP,3/10/2023,"Groton, Ma",United States,Restaurants,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+12,Praxis Arndt und Langer,2/10/2023,,,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+13,Springer Eubank,2/10/2023,"Wilmington, North Carolina",United States,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+14,The Envelope Works Ltd,30/9/2023,"Blackburn, Lancashire",United Kingdom,Printing Services,1,1,0,0,0,1,0,0,0,0,1,0,0,,,,1,8Base
+15,FabricATE Engineering,30/9/2023,"Royal Oak, Michigan",United States,Mechanical Or Industrial Engineering,1,1,0,1,1,0,0,0,1,0,0,0,0,,,,1,8Base
+16,AraÃºjo e Policastro Advogados,25/9/2023,"SÃ£o Paulo, SP",Brasil,Legal Services,1,1,0,1,1,0,0,0,1,0,0,0,0,,,,,8Base
+17,Ford Covesa,18/9/2023,MOLLET DEL VALLÃˆS,EspaÃ±a,Retail,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+18,UNIVERSAL REALTY GROUP,15/9/2023,"Halifax, NS",Canada,Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+19,Conselho Superior da JustiÃ§a do Trabalho,14/9/2023,"BrasÃ­lia, DF",Brasil,Government Administration,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+20,FRESH TASTE PRODUCE USA AND ASSOCIATES INC.,13/9/2023,"Philadelphia, Pennsylvania",United States,Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+21,Prodegest Assessors,11/9/2023,"Terrassa, Barcelona",EspaÃ±a,Legal Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+22,VVandA,11/9/2023,Singapore,Singapore,Venture Capital and Private Equity Principals,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+23,Fenn Termite and Pest Control,7/9/2023,"Buena Park, CA",United States,Consumer Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+24,Petkus Brothers,6/9/2023,"Rocklin, California",United States,Construction,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+25,PRIDE GLOBAL CONSULTING SL,6/9/2023,"New York, New York",United States,Human Resources Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+26,PT. Cahaya Benteng Mas,5/9/2023,"Jakarta Pusat, DKI Jakarta",Indonesia,Wholesale Building Materials,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+27,"Shanghai FRP Research Institute Co., Ltd.",3/9/2023,"Shanghai, Shanghai",ä¸­å›½,Research Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+28,KLM Laboratories Pvt. Ltd,2/9/2023,"Mumbai, Maharashtra",India,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+29,Varna Packaging,2/9/2023,"Ratmalana, Western Province",à·à·Šâ€à¶»à·“ à¶½à¶‚à¶šà·à·€ à®‡à®²à®™à¯à®•à¯ˆ,Packaging & Containers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+30,SKYROOT,2/9/2023,"Hyderabad, Telangana",India,Space Research and Technology,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+31,Sydenham Laboratories,1/9/2023,"Dasmarinas City, Cavite",Philippines,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+32,FA Foundry,1/9/2023,"McAllen, Texas",United States,Industrial Machinery Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+33,INSTITUTO NACIONAL DE ELECTRIFICACION,1/9/2023,"Guatemala, Guatemala",Guatemala,Renewable Energy Semiconductor Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+34,HFH Capital,1/9/2023,,,,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+35,Bahamas Medical and Surgical Supplies,31/8/2023,Nassau,The Bahamas,Retail Health and Personal Care Products,1,1,0,0,1,0,0,0,1,0,0,0,0,,,,,8Base
+36,The Law Offices of Steven H. Heisler,31/8/2023,,,Law Practice,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+37,Kevills Solicitors,31/8/2023,"Chorley, Lancashire",United Kingdom,Law Practice,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+38,Mil-Ken Travel,31/8/2023,"Littleport, England",United Kingdom,Truck Transportation,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+39,Royal Oak Pet Clinic,31/8/2023,"Victoria, British Columbia",Canada,Veterinary,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+40,Hoosick Falls Central School District,31/8/2023,,,Primary and Secondary Education,1,1,0,1,0,0,0,0,1,0,0,1,0,,,,,8Base
+41,ToyotaLift Northeast,23/8/2023,"Phoenixville, Pennsylvania",United States,Machinery Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,,,,1,8Base
+42,Aspect Structural Engineers,22/8/2023,"Vancouver, BC",Canada,Civil Engineering,1,1,0,1,1,1,0,0,0,0,0,0,0,,,,,8Base
+43,ANS,22/8/2023,Manchester,United Kingdom,IT Services and IT Consulting,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+44,Keystone Insurance Services,22/8/2023,"Provo, Utah",United States,Insurance,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+45,MBS Equipment TTI,11/8/2023,"Los Angeles, CA",United States,Entertainment Providers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+46,SatCom Marketing,13/8/2023,"Brooklyn Park, MN",United States,Advertising Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+47,Oregon Sports Medicine,13/8/2023,"Wilsonville, Oregon",United States,Medical Practices,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+48,Delaney Browne Recruitment,13/8/2023,,,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+49,"Rossman Realty Group, inc.",10/8/2023,"Cape Coral, FL",United States,Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+50,"RevZero, Inc",10/8/2023,"Chanhassen, MN",United States,Medical Device,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+51,Jacklett Construction LLC,8/8/2023,"ALPHARETTA, Georgia",United States,Construction,1,1,0,1,1,1,0,0,1,0,0,0,0,,,,,8Base
+52,Danbury Public Schools,12/8/2023,,,Photography,1,0,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+53,BoomData |Data and Analytics Consultancy,1/8/2023,"North Sydney, NSW",Australia,IT Services and IT Consulting,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,1,8Base
+54,CROWD,1/8/2023,"Poole , Dorset",United Kingdom,Advertising Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+55,DV8 Technology Group,1/8/2023,"Houghton Estate, Gauteng",South Africa,Information Technology & Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+56,"FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD",1/8/2023,"Ho Chi Minh, Ho Chi Minh City",Viá»‡t Nam,Design Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+57,Kersey CO,1/8/2023,"Kersey, Colorado",United States,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+58,Institut Mensalus S.L.,1/8/2023,"Barcelona, Barcelona",EspaÃ±a,Wellness and Fitness Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+59,Miranda Brokerage,1/8/2023,,,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+60,Spectra Industrial,1/8/2023,,,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+61,EJM Engineered Systems,31/7/2023,"Shotton Colliery, Durham",United Kingdom,Mechanical Or Industrial Engineering,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+62,"Exbon Development, Inc",30/7/2023,"Garden Grove, CA",United States,Construction,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,1,8Base
+63,Chan and Associates,29/7/2023,,,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+64,"CashCall, Inc.",22/7/2023,"Orange, CA",United States,Financial Services,1,1,0,1,0,0,0,0,1,0,1,0,0,,,,1,8Base
+65,Venture Drilling Supply,18/7/2023,"Pflugerville, TX",United States,Mining,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+66,Info Salons,20/7/2023,Dubai,Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© Ø§Ù„Ù…ØªØ­Ø¯Ø©,Events Services,1,1,0,1,0,1,0,0,1,0,1,0,0,,,,,8Base
+67,CPA Advisors Group,21/7/2023,"Columbus, Ohio",United States,Accounting,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+68,BTU,17/7/2023,"North Billerica, Massachusetts",United States,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+69,ANL Packaging,17/7/2023,"Wellen, BelgiÃ«",BelgiÃ« / Belgique / Belgien,Packaging and Containers Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+70,Dental One Craigieburn,17/7/2023,Craigieburn,Australia,Medical Practices,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+71,Jadranka Group,17/7/2023,LEVES,France,,,1,0,1,0,0,0,0,,0,0,0,0,,,,,8Base
+72,The Traffic Tech,17/7/2023,"Chicago, Illinois",United States,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+73,Telepizza,17/7/2023,"San SebastiÃ¡n de los Reyes, Madrid",EspaÃ±a,Hospitality,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+74,Citelis Mobility,18/7/2023,"Morelia, MichoacÃ¡n",MÃ©xico,Commercial Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+75,Advanced Fiberglass Industries,15/7/2023,Umm Al Quawain,,Plastics Manufacturing,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+76,Weitkamp Â· Hirsch and Kollegen Steuerberatungsgesellschaft mbH,15/7/2023,,,,0,0,0,1,0,1,0,0,0,0,0,0,0,,,,1,8Base
+77,Pesquera Diamante S.A.,15/7/2023,"Lima, Lima",PerÃº,Food and Beverage Manufacturing,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,1,8Base
+78,Cabra Consulting Ltd,15/7/2023,"Calgary, Alberta",Canada,Oil and Gas,0,1,0,1,0,0,1,1,0,0,0,0,0,,,,,8Base
+79,ROBERT L BAYLESS PRODUCER LLC,14/7/2023,"Denver, Colorado",United States,Oil and Gas,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+80,KIRWIN FRYDAY MEDCALF Lawyers LLP,13/7/2023,"London, Ontario",Canada,Legal Services,1,1,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
+81,"Jeff Wyler Automotive Family, Inc.",11/7/2023,"Batavia, OH",United States,Automotive,1,1,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
+82,Polanglo,10/7/2023,"Warszawa, WojewÃ³dztwo mazowieckie",Polska,International Trade and Development,0,1,0,0,0,0,1,0,0,0,1,0,0,,,,,8Base
+83,CON-STRUCT,3/7/2023,"New York, NY",United States,Apparel & Fashion,0,1,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
+84,PORTERROOFING,3/7/2023,"McMinnville, TN",United States,Construction,1,0,0,1,0,1,0,0,0,0,1,0,0,,,,,8Base
+85,ISPE Connecting Pharmaceutical Knowledge,3/7/2023,"North Bethesda, Maryland",United States,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,0,0,1,0,0,,,,,8Base
+86,PNEUMAX,3/7/2023,"Lurano, (BG)",Italia,Automation Machinery Manufacturing,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+87,LEGALILAVORO,3/7/2023,"Milan, Lombardy",Italia,Legal Services,1,0,0,1,0,1,0,0,0,0,0,0,0,,,,,8Base
+88,Lysander Shipping,3/7/2023,New Malden,United Kingdom,Truck Transportation,0,1,0,1,0,0,0,0,0,0,1,0,0,,,,,8Base
+89,CLEAR MEDI HEALTHCARE,3/7/2023,"Gurgaon, Haryana",India,Hospitals and Health Care,1,1,0,1,0,1,0,0,0,0,1,0,0,,,,,8Base
+90,JOB-SA BETON J.O.B SA,3/7/2023,,,,1,1,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
+91,PORTBLUE,26/6/2023,"AlcÃºdia, Islas Baleares",EspaÃ±a,Hospitality,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+92,LOONGSON,26/6/2023,,,Computer Hardware,0,0,0,0,1,0,0,0,0,0,0,0,0,,,,,8Base
+93,Futura AgronegÃ³cios,26/6/2023,"Araguari, Minas Gerais",Brasil,Farming,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+94,BLUESAGE,26/6/2023,"Englewood Cliffs, New Jersey",United States,Software Development,1,1,0,0,0,0,0,0,1,0,0,0,0,,,,,8Base
+95,"PrintGlobe, Inc.",26/6/2023,"Austin, TX",United States,Advertising Services,1,1,0,0,0,0,0,0,0,0,1,0,0,,,,,8Base
+96,"TARLE LAW, P.C.",26/6/2023,,,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+97,Texas Hotel and Lodging Association,26/6/2023,"Austin, TX",United States,Travel Arrangements,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+98,Onsupport Corporation,26/6/2023,,,IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+99,The Akin Law LLC,26/6/2023,"Austin, Texas",United States,Law Practice,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+100,CYBERFREIGHT SYSTEMS MARITIMES INC.,25/6/2023,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+101,Law Offices of Sergio J. Siderman,22/6/2023,"Los Angeles, California",United States,,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+102,Studio Legale Ranchino,22/6/2023,"Rome, Latium",Italia,Law Practice,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+103,Ligas Gerais Industria E Comercio,22/6/2023,"Matozinhos, Minas Gerais",Brasil,Mining,1,0,0,0,0,0,1,0,0,0,0,0,0,,,,,8Base
+104,Stone Fox Ventures,22/6/2023,"Wyoming, Michigan",United States,Industrial Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+105,Hornbill,22/6/2023,London,United Kingdom,Software Development,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+106,"DANIEL C. HARRIS, O.D",22/6/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+107,Law Society of South Africa,21/6/2023,Pretoria,South Africa,Legal Services,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+108,Transprensa,19/6/2023,,,,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
+109,Ampla DivisÃ³rias,19/6/2023,"Belo Horizonte, Minas Gerais",Brasil,Architecture and Planning,1,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+110,RJP MEDICAL LTDA,19/6/2023,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+111,SINTTEL,19/6/2023,"Brasilia, Distrito Federal",Brasil,Non-profit Organizations,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+112,CLONARTE,19/6/2023,"Belo Horizonte, MG",Brasil,Printing Services,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+113,PREMIER HOSPITAL DIA,19/6/2023,"Belo Horizonte, Minas Gerais",Brasil,Hospitals and Health Care,1,0,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
+114,TECHCERT,19/6/2023,Dehiwala,à·à·Šâ€à¶»à·“ à¶½à¶‚à¶šà·à·€ à®‡à®²à®™à¯à®•à¯ˆ,Computer and Network Security,1,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+115,LUZBOA S.A,19/6/2023,Viseu,Portugal,Utilities,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+116,Defesa da Classe Trabalhadora (Declatra),19/6/2023,,,Non-profit Organizations,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+117,CEMAF PARTICIPACOES E ADMINISTRACAO DE BENS LTDA,19/6/2023,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+118,MAXIMUM PRIME ALIMENTOS EIRELI,19/6/2023,"Juiz De Fora, Minas Gerais",Brasil,Restaurants,1,0,0,0,0,0,0,0,0,0,1,0,0,,,,,8Base
+119,Bibliotheek Gouda,11/6/2023,Gouda,Nederland,Libraries,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+120,APIQROO,14/5/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+121,Good Oil Company,1/6/2023,"Winamac, Indiana",United States,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+122,Malkasian Accountancy,9/5/2023,"Sacramento, California",United States,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+123,SiComputer is a leader in the Italian information technology.,29/4/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+124,Asbestos-Inspections-Solution-Management,2/4/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+125,Just us lawyers,1/4/2023,"Kelvin Grove, Queensland",Australia,Legal Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+126,Csc Baixo Sul Assessoria e Consultoria Empresarial e Contabil LTDA,24/3/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+127,Artconta - Contabilidade e. AssistÃªncia Fiscal,24/3/2023,"Salvador, Bahia",Brasil,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+128,CONTASS,24/3/2023,"Montes Claros, Minas Gerais",Brasil,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+129,Ellard-Willson Engineering Ltd,19/3/2023,"Markham, Ontario",Canada,Industrial Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+130,General de Alimentos Nisa C.A. (GENICA),16/3/2023,"Maracaibo, Zulia",Venezuela,Food & Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+131,M Metzler &amp; Associates,25/2/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+132,Zenex,15/3/2023,"Santa Clara, CA",United States,Staffing and Recruiting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+133,Lake Cable,12/3/2023,"Bensenville, IL",United States,"Appliances, Electrical, and Electronics Manufacturing",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+134,Midway Ford,12/3/2023,"Roseville, MN",United States,Motor Vehicle Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+135,Thayer Academy,7/3/2023,"Braintree, MA",United States,Primary and Secondary Education,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+136,HELPHONE,5/3/2023,"Artica, Navarra",EspaÃ±a,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+137,SITARA,10/2/2023,"Woodside, ny",United States,Retail,0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,8Base
+138,Veal and Prasad,2/3/2023,Hillcrest,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+139,COMPAGNIE REGIONALE D'ALIMENTS (COREAL),23/2/2023,YFFINIAC,France,Food Production,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+140,Immobilienmakler in Oldenburg,18/2/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+141,IMASA,13/2/2023,"Oviedo, Asturias",EspaÃ±a,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+142,"MRO SUPPORT, INC",5/2/2023,"Boca Raton, Florida",United States,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+143,Richard W. Fuller CPA,25/1/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+144,La CanasterÃ­a,25/1/2023,,,Food and Beverage Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+145,Neighborhood Progress Fund,27/1/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+146,Print Globe,27/1/2023,"Austin, TX",United States,Advertising Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+147,China Export &amp; Credit Insurance Corporation,24/1/2023,"Beijing, China",ä¸­å›½,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+148,Conklin Benham,24/1/2023,,,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+149,FORMA ESPACOS IMOBILIARIOS LTDA,14/1/2023,"Bento Goncalves, Rio Grande Do Sul",Brasil,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+150,Ayers Mechanical Group,10/1/2023,"Van Wert, Ohio",United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+151,Brandao,6/9/2023,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
