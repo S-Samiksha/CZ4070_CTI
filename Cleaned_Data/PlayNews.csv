@@ -1,197 +1,1007 @@
-Company_Name,Date_of_leak,Date_of_attack,Company_URL,Company_Country,Company_Address,Industry_Type,"Company_Description (Important ones, interesting ones)","Notes, and Interesting things",Data_Type,Personal Identifiable Information (PII),Financial Data,Healthcare Information,Employee and HR Data,Intellectual Property and Trade Secrets,Customer and Client Data ,Legal Documents,Government and Defense Information,Educational Data,Credentials and Access Information,Databases,Website Data,Backup Data,Video and Surveillance Footage,Social Media Data,Utility and Infrastructure Data,Sensitive Communication
-Hughes Gill Cochrane Tinetti,14/10/2023,10/10/2023,www.hughes-gill.com,United States,"Walnut Creek, CA",Law Practice,,,"Private and personal confidential data, clients documents, contracts, HR, tax, finance information and etc",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Saltire Energy,14/10/2023,10/10/2023,www.saltire-energy.com,United Kingdom," Aberdeen, Aberdeenshire",Oil and Gas,,,"Private and personal confidential data, clients documents, contracts, HR, IDs, passports, payrolls, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Centek industries,13/10/2023,9/10/2023,www.centekindustries.com,United States," Thomasville, Georgia",Consumer Goods,,,"Private and personal confidential data, clients documents, contracts, IDs, passports, payroll, tax, finance information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-NachtExpress Austria GmbH,13/10/2023,9/10/2023,www.nox-nachtexpress.at,Austria,"Schwechat, Niederösterreich","Transportation, Logistics, Supply Chain and Storage",,,"Private and personal confidential data, clients documents, contracts, HR, IDs, passports, payroll, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-WCM Europe,13/10/2023,9/10/2023,www.wcm.com,United Kingdom," Basildon, Essex",Motor Vehicle Manufacturing,,,"Private and personal confidential data, clients documents, contracts, HR, IDs, payroll, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Starr Finley,13/10/2023,9/10/2023,www.starrfinley.com,United States," San Francisco, CA",Law Practice,,,"Private and personal confidential data, clients documents, contracts, HR, IDs, passports, payrolls , finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Metro Transit,12/10/2023,9/10/2023,www.metrostlouis.org,United States,"St. Louis, MO","Transportation, Logistics, Supply Chain and Storage",,,"Private and personal confidential data, clients documents, contracts, SSN, IDs, passports, payroll, tax, finance information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Stavanger Municipality,8/10/2023,4/10/2023,stavanger.kommune.no,Norway,Stavanger,Government Agency,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-CHARMANT Group,8/10/2023,4/10/2023,www.charmant.com,United States," Sabae City, Fukui Pref.","Retail, Apparel and Fashion",,,"Private and personal confidential data, clients and employee documents, IDs, invoices, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Cinepolis USA,8/10/2023,4/10/2023,www.cinepolisusa.com,United States," Dallas, Texas",Entertainment Providers,,,"Private and personal confidential data, clients and employee documents, IDs, clients db, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Filtration Control,8/10/2023,4/10/2023,www.filtrationcontrol.com,United Kingdom,BRACKMILLS,Motor Vehicle Manufacturing,,,"Private and personal confidential data, clients and employee documents, IDs, HR, payroll, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Security Instrument,8/10/2023,4/10/2023,www.securityinstrument.com,United States," Wilmington, Delaware",Security and Investigations,,,"Private and personal confidential data, clients and employee documents, IDs, payroll, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Roof Management,8/10/2023,4/10/2023,www.roof-management.com,United States,"  Marysville, Ohio",Real Estate,,,"Private and personal confidential data, clients and employee documents, IDs, budget, passports, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Wexas,2/10/2023,28/9/2023,www.wexas.com,United Kingdom,"London, United Kingdom",Travel,,,"Private and personal confidential data, clients and employee documents, IDs, tax, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Plumbase,2/10/2023,28/9/2023,www.plumbase.co.uk,United Kingdom," Milton Keynes, Buckinghamshire ",Wholesale Building Materials,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Kessler Collins,2/10/2023,28/9/2023,www.kesslercollins.com,United States,"Dallas, Texas",Law Practice,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Terralogic,2/10/2023,28/9/2023,www.terralogic.com,United States," San Jose, CA",Information Technology & Services,,Targetted: City of San diego,"Private and personal confidential data, clients and employee documents, IDs, passports, tax, HR, finance information , also data from one of the major clients, the city of San Diego",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Van Eck Transport,2/10/2023,28/9/2023,www.vanecktransport.nl,Netherlands,Veenendaal,Truck Transportation,,,"Private and personal confidential data, clients and employee documents, IDs, passports, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-BAMO,2/10/2023,28/9/2023,www.bamo.com,United States," San Francisco, CA",Architecture and Planning,,,"Private and personal confidential data, clients and employee documents, IDs, passports, projects, tax, HR, finance information and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Amanzi Marble & Granite,2/10/2023,28/9/2023,www.amanzigranite.com,United States," Kernersville, North Carolina",Construction,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Webb Landscape,5/10/2023,28/9/2023,www.webbland.com,United States,"  Bellevue, Idaho",Landscaping Services,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Robuck Homes,2/10/2023,28/9/2023,www.robuckhomes.com,United States,"North Carolina, United States",Construction,,Generationality owned business,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, conracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Jacobson,2/10/2023,28/9/2023,www.jacobsoncompany.com,United States,"New Jersey, United States",Construction,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-PASCHAL - Werk G Maier,22/9/2023,18/9/2023,www.paschal.de,Deutschland," Steinach, Deutschland",Construction,,,"Private and personal confidential data, clients and employee documents, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-TSC,22/9/2023,18/9/2023,www.t-s-c.com,United States,"Houston, Texas",Oil and Gas,,"Why did they steal projects? Were they confidential?
+﻿Company_Name,Date_of_leak,Date_of_attack,Company_URL,company_urls_Linkedin (to be dropped),Country_Site,NumViews,Country_2_Linkedin ,HQ,industry_linkedin,"Company_Description (Important ones, interesting ones)","Notes, and Interesting things",Data_Type,Personal Identifiable Information (PII),Financial Data,Healthcare Information,Employee and HR Data,Intellectual Property and Trade Secrets,Customer and Client Data,Legal Documents,Government and Defense Information,Educational Data,Credentials and Access Information,Databases,Website Data,Backup Data, Video and Surveillance Footage,Social Media Data,Utility and Infrastructure Data, Sensitive Communication
+Hughes Gill Cochrane Tinetti,14/10/2023,10/10/2023,www.hughes-gill.com,http://www.hughes-gill.com,"California, United States",944,United States,"Walnut Creek, CA",Law Practice,,,"Private and personal confidential data, clients documents, contracts, HR, tax, finance information and etc",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Saltire Energy,14/10/2023,10/10/2023,www.saltire-energy.com,http://www.saltire-energy.com,United Kingdom,1089,United Kingdom," Aberdeen, Aberdeenshire",Oil and Gas,,,"Private and personal confidential data, clients documents, contracts, HR, IDs, passports, payrolls, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Centek industries,13/10/2023,9/10/2023,www.centekindustries.com,www.centekindustries.com,"Georgia, United States",845,United States," Thomasville, Georgia",Consumer Goods,,,"Private and personal confidential data, clients documents, contracts, IDs, passports, payroll, tax, finance information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+NachtExpress Austria GmbH,13/10/2023,9/10/2023,www.nox-nachtexpress.at,https://www.nox-nachtexpress.at/,"Lower Austria, Austria",815,Austria,"Schwechat, Niederösterreich","Transportation, Logistics, Supply Chain and Storage",,,"Private and personal confidential data, clients documents, contracts, HR, IDs, passports, payroll, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+WCM Europe,13/10/2023,9/10/2023,www.wcm.com,http://www.wcm.com,"Essex, United Kingdom",895,United Kingdom," Basildon, Essex",Motor Vehicle Manufacturing,,,"Private and personal confidential data, clients documents, contracts, HR, IDs, payroll, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Starr Finley,13/10/2023,9/10/2023,www.starrfinley.com,http://www.starrfinley.com,"California, United States",973,United States," San Francisco, CA",Law Practice,,,"Private and personal confidential data, clients documents, contracts, HR, IDs, passports, payrolls , finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Metro Transit,12/10/2023,9/10/2023,www.metrostlouis.org,www.metrostlouis.org,"Missouri, United States",916,United States,"St. Louis, MO","Transportation, Logistics, Supply Chain and Storage",,,"Private and personal confidential data, clients documents, contracts, SSN, IDs, passports, payroll, tax, finance information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Stavanger Municipality,8/10/2023,4/10/2023,stavanger.kommune.no,https://stavanger.kommune.no,Norway,2056,Norway,Stavanger,Government Agency,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+CHARMANT Group,8/10/2023,4/10/2023,www.charmant.com,http://www.charmant.com,"New Jersey, 07950, United States",2014,United States," Sabae City, Fukui Pref.","Retail, Apparel and Fashion",,,"Private and personal confidential data, clients and employee documents, IDs, invoices, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Cinepolis USA,8/10/2023,4/10/2023,www.cinepolisusa.com,http://www.cinepolisusa.com,"Texas, United States",2085,United States," Dallas, Texas",Entertainment Providers,,,"Private and personal confidential data, clients and employee documents, IDs, clients db, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Filtration Control,8/10/2023,4/10/2023,www.filtrationcontrol.com,http://www.filtrationcontrol.com,United Kingdom,2309,United Kingdom,BRACKMILLS,Motor Vehicle Manufacturing,,,"Private and personal confidential data, clients and employee documents, IDs, HR, payroll, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Security Instrument,8/10/2023,4/10/2023,www.securityinstrument.com,http://www.securityinstrument.com/,"Delaware, United States",2445,United States," Wilmington, Delaware",Security and Investigations,,,"Private and personal confidential data, clients and employee documents, IDs, payroll, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Roof Management,8/10/2023,4/10/2023,www.roof-management.com,http://www.roof-management.com,"Ohio, United States",2159,United States,"  Marysville, Ohio",Real Estate,,,"Private and personal confidential data, clients and employee documents, IDs, budget, passports, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Wexas,2/10/2023,28/9/2023,www.wexas.com,www.wexas.com,United Kingdom,3339,nan,"London, United Kingdom",Travel,,,"Private and personal confidential data, clients and employee documents, IDs, tax, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Plumbase,2/10/2023,28/9/2023,www.plumbase.co.uk,http://www.plumbase.co.uk,United Kingdom,3423,United Kingdom," Milton Keynes, Buckinghamshire ",Wholesale Building Materials,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Kessler Collins,2/10/2023,28/9/2023,www.kesslercollins.com,https://www.kesslercollins.com,"Texas, United States",3277,United States,"Dallas, Texas",Law Practice,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Terralogic,2/10/2023,28/9/2023,www.terralogic.com,https://www.terralogic.com/,"Virginia, United States",3532,United States," San Jose, CA",Information Technology & Services,,Targetted: City of San diego,"Private and personal confidential data, clients and employee documents, IDs, passports, tax, HR, finance information , also data from one of the major clients, the city of San Diego",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Van Eck Transport,2/10/2023,28/9/2023,www.vanecktransport.nl,www.vanecktransport.nl,"Utrecht, Netherlands",3346,Nederland,Veenendaal,Truck Transportation,,,"Private and personal confidential data, clients and employee documents, IDs, passports, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+BAMO,2/10/2023,28/9/2023,www.bamo.com,http://www.bamo.com,"California, United States",3392,United States," San Francisco, CA",Architecture and Planning,,,"Private and personal confidential data, clients and employee documents, IDs, passports, projects, tax, HR, finance information and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Amanzi Marble & Granite,2/10/2023,28/9/2023,www.amanzigranite.com,http://www.amanzigranite.com,"North Carolina, United States",3263,United States," Kernersville, North Carolina",Construction,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Webb Landscape,5/10/2023,28/9/2023,www.webbland.com,http://www.webbland.com,"Idaho, United States",3169,United States,"  Bellevue, Idaho",Landscaping Services,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Robuck Homes,2/10/2023,28/9/2023,www.robuckhomes.com,www.robuckhomes.com,"North Carolina, United States",3215,United States,"
+Raleigh, NC",Construction,,Generationality owned business,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, conracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Jacobson,2/10/2023,28/9/2023,www.jacobsoncompany.com,www.jacobsoncompany.com,"New Jersey, United States",3270,United States,"
+Elizabeth, New Jersey",Construction,,,"Private and personal confidential data, clients and employee documents, IDs, tax, HR, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+PASCHAL - Werk G Maier,22/9/2023,18/9/2023,www.paschal.de,https://www.paschal.com,Germany,5350,Deutschland," Steinach, Deutschland",Construction,,,"Private and personal confidential data, clients and employee documents, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+TSC,22/9/2023,18/9/2023,www.t-s-c.com,http://tsc.ai,"Texas, United States",5395,United States,"Houston, Texas",Oil and Gas,,"Why did they steal projects? Were they confidential?
 They are merely a drilling contractor","Private and personal confidential data, clients and employee documents, contracts, IDs, projects, finance information and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Rea Magnet Wire,26/9/2023,18/9/2023,www.reawire.com,United States," Fort Wayne, IN",Appliances comma Electrical comma and Electronics Manufacturing,,,"Private and personal confidential data, clients and employee documents, IDs, tax, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-First Line,22/9/2023,18/9/2023,www.firstline.co.uk,United Kingdom,"Oxfordshire, United Kingdom",Automotive Components,,,"Private and personal confidential data, clients and employee documents, IDs, tax, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Vucke,22/9/2023,18/9/2023,www.vucke.sk,Slovakia,"Kosice, Slovak Republic",Tourism,,"Country is Slovakia
+Rea Magnet Wire,26/9/2023,18/9/2023,www.reawire.com,http://www.reawire.com,"Indiana, United States",5336,United States," Fort Wayne, IN",Appliances comma Electrical comma and Electronics Manufacturing,,,"Private and personal confidential data, clients and employee documents, IDs, tax, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+First Line,22/9/2023,18/9/2023,www.firstline.co.uk,https://firstlinesoftware.com,"Oxfordshire, United Kingdom",5388,United Kingdom,"Oxfordshire, United Kingdom",Automotive Components,,,"Private and personal confidential data, clients and employee documents, IDs, tax, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Vucke,22/9/2023,18/9/2023,www.vucke.sk,www.vucke.sk,Slovakia,5161,Slovakia,"Kosice, Slovak Republic",Tourism,,"Country is Slovakia
 Thats an interesting country","Private and personal confidential data, employee documents, IDs, passports, HR, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-Carpet One,18/9/2023,13/9/2023,www.stradwickscarpetonenorthbay.com,Canada,"North Bay, Ontario",Retail,,,"Private and personal confidential data, clients and employee documents, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Dpc & S,18/9/2023,13/9/2023,www.dpconsulting.com,United States,"Arizona, United States",Non-profit Organization Management,,They stole projects from a Non Profit Organization,"Private and personal confidential data, clients and employee documents, contracts, IDs, HR, projects, finance information and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Majestic Spice,8/9/2023,5/9/2023,www.majesticspice.com,United States," Los Angeles, California",Food Production,,,"Private and personal confidential data, clients and employee documents, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Bordelon Marine,8/9/2023,5/9/2023,www.bordelonmarine.com,United States," Houma, Louisiana",Maritime Transportation,,,"Private and personal confidential data, clients and employee documents, HR, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Master Interiors,8/9/2023,5/9/2023,www.masterinteriors.com,United States,"Delaware, United States",Interior Design,,,"Private and personal confidential data, clients and employee documents, HR, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Markentrainer Werbeagentur,9/9/2023,5/9/2023,www.micro-automation.de,Germany,"St. Leon-Rot, 68789, DE",Automation Machinery Manufacturing,,Technical documentation were stolen,"Private and personal confidential data, clients and employee documents, HR, IDs, taxes, a lot of technical documentation, finance information and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Kikkerland Design,9/9/2023,5/9/2023,www.kikkerland.com,United States," New York, NY",Design Services,,,"Private and personal confidential data, clients and employee documents, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Firmdale Hotels,5/9/2023,1/9/2023,www.firmdalehotels.com,United Kingdom,London,Hospitality,,What are client scans?,"Private and personal confidential data, clients and employee documents, contracts, IDs, passports, clients scans, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-"Alfagomma, Argus Fluidhandling Ltd",26/8/2023,22/8/2023,www.alfagomma.com www.hiflex-europe.com,United States,"Vimercate, Italy",Industrial Machinery Manufacturing,,technical documentation,"Private and personal confidential data, clients and employee documents, contracts, IDs, HR, finance information a lot of technical documentation and etc. For now partially published compressed 10gb. If there no reaction full dump will be uploaded.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Oneonline,24/8/2023,18/8/2023,www.oneonline.com,United States,"Utah, United States",Private Equity,,,"Private and personal confidential data, clients and employee documents, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Legends Limousine,24/8/2023,18/8/2023,www.legendslimousine.com,United States,"  Brooklyn, New York",Ground Passenger Transportation,,,"Private and personal confidential data, clients and employee documents, clients db, passports, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Bolton Group,24/8/2023,18/8/2023,www.boltongroup.net,Italy,Milan,Industria manifatturiera,,,"Private and personal confidential data, clients and employee documents, passports, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Stanford Transportation Inc,24/8/2023,18/8/2023,www.driveforstanford.com,United States," Bakersfield, California",Truck Transportation,,Clients Database and documents,"Private and personal confidential data, clients and employee documents, HR, SSN, clients db, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-BTC Power,24/8/2023,18/8/2023,www.btcpower.com,United States," Santa Ana, California",Appliances comman Electrical comman and Electronics Manufacturing,"BTC power is the leading manufacturer of electric vehicle charging systems in North America. Supplying a variety of DC and DC product lines to those in the Oil & Gas, Fleet, CPO, Government and C-Store Markets.",Clients Database and documents in a company that manufacturs EV charging systems,"Private and personal confidential data, clients and employee documents, payroll, clients db, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Miami Management,24/8/2023,18/8/2023,www.miamimanagement.com,United States,"Florida, United States",Management Company,,,"Private and personal confidential data, clients and employee documents, payroll, budget, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-DSA Law Pty Ltd,24/8/2023,18/8/2023,www.dsalaw.com.au,Australia," Melbourne, Victoria",Law Practice,,,"Private and personal confidential data, clients and employee documents, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-ABS Auto Auctions,30/8/2023,18/8/2023,www.absautoauctions.com,United States,"California, United States",Auction,,,"Private and personal confidential data, clients and employee documents, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-EAI,14/8/2023,10/8/2023,www.eaiweb.com,United States,United States,Oil and Gas,,,"Private and personal confidential data, clients and employee documents, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Algorry Zappia & Associates,16/8/2023,10/8/2023,www.algorryzappia.com.au,Australia," New South Wales, Australia",Construction,,,"Private and personal confidential data, clients and employee documents, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Top Light,14/8/2023,10/8/2023,www.top-light.de,Germany,"Spenge, Germany",Electric Lighting Equipment Manufacturing,,,"Private and personal confidential data, clients and employee documents, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-"Birch, Horton, Bittner & Cherot",6/8/2023,1/8/2023,www.birchhorton.com,United States," Anchorage, Alaska",Law Practice,,,"Private and personal confidential data, clients and employee documents,scans, IDs, contacts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Aapd,6/8/2023,1/8/2023,www.aapd.com.au,Australia,Australia,"Technology, Information and Media",,,"Private and personal confidential data, clients and employee documents, contracs, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-"Garage Living, The Dispenser USA",6/8/2023,1/8/2023," www.garageliving.com, www.dispenser.com",Canada,Ontario,Manufacturing,"Founded in 2005, Garage Living is a company that specializes in the construction and remodeling of garages. The dispenser USA is a company that operates in the consumer goods industry.",,"Private and personal confidential data, clients and employee documents, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Xplain,5/8/2023,29/7/2023,www.xplain.ch,Switzerland,"Interlaken, Switzerland",IT Services and IT Consulting,,"important government information.
+Carpet One,18/9/2023,13/9/2023,www.stradwickscarpetonenorthbay.com,www.stradwickscarpetonenorthbay.com,"Ontario, Canada",6437,Canada,"North Bay, Ontario",Retail,,,"Private and personal confidential data, clients and employee documents, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Dpc & S,18/9/2023,13/9/2023,www.dpconsulting.com,www.dpconsulting.com,"Arizona, United States",6430,United States,"Arizona, United States",Non-profit Organization Management,,They stole projects from a Non Profit Organization,"Private and personal confidential data, clients and employee documents, contracts, IDs, HR, projects, finance information and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Majestic Spice,8/9/2023,5/9/2023,www.majesticspice.com,https://www.majesticspice.com,"California, United States",7887,United States," Los Angeles, California",Food Production,,,"Private and personal confidential data, clients and employee documents, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Bordelon Marine,8/9/2023,5/9/2023,www.bordelonmarine.com,https://www.bordelonmarine.com,"Louisiana, United States",7898,United States," Houma, Louisiana",Maritime Transportation,,,"Private and personal confidential data, clients and employee documents, HR, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Master Interiors,8/9/2023,5/9/2023,www.masterinteriors.com,http://masterinteriors.fi,"Delaware, United States",7947,United States,"Delaware, United States",Interior Design,,,"Private and personal confidential data, clients and employee documents, HR, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Markentrainer Werbeagentur,9/9/2023,5/9/2023,www.micro-automation.de,www.micro-automation.de,Germany,7863,Germany,"St. Leon-Rot, 68789, DE","
+Automation Machinery Manufacturing",,Technical documentation were stolen,"Private and personal confidential data, clients and employee documents, HR, IDs, taxes, a lot of technical documentation, finance information and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Kikkerland Design,9/9/2023,5/9/2023,www.kikkerland.com,http://www.kikkerland.com,"New York, United States",7853,United States," New York, NY",Design Services,,,"Private and personal confidential data, clients and employee documents, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Firmdale Hotels,5/9/2023,1/9/2023,www.firmdalehotels.com,http://www.firmdalehotels.com,"London, United Kingdom",8653,United Kingdom,London,Hospitality,,What are client scans?,"Private and personal confidential data, clients and employee documents, contracts, IDs, passports, clients scans, HR, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+"Alfagomma, Argus Fluidhandling Ltd",26/8/2023,22/8/2023,www.alfagomma.com www.hiflex-europe.com,www.alfagomma.com www.hiflex-europe.com," Iowa, United States",10893,United States,"Vimercate, Italy",Industrial Machinery Manufacturing,,technical documentation,"Private and personal confidential data, clients and employee documents, contracts, IDs, HR, finance information a lot of technical documentation and etc. For now partially published compressed 10gb. If there no reaction full dump will be uploaded.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Oneonline,24/8/2023,18/8/2023,www.oneonline.com,http://www.oneweb.net," Utah, United States",11651,United States,"Utah, United States",Private Equity,,,"Private and personal confidential data, clients and employee documents, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Legends Limousine,24/8/2023,18/8/2023,www.legendslimousine.com,https://www.legendslimousine.com/," New York, United States",11692,United States,"  Brooklyn, New York",Ground Passenger Transportation,,,"Private and personal confidential data, clients and employee documents, clients db, passports, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Bolton Group,24/8/2023,18/8/2023,www.boltongroup.net,http://www.boltongroup.net,Italy,11658,Italy,Milan,Industria manifatturiera,,,"Private and personal confidential data, clients and employee documents, passports, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Stanford Transportation Inc,24/8/2023,18/8/2023,www.driveforstanford.com,www.driveforstanford.com,USA,11740,United States," Bakersfield, California",Truck Transportation,,Clients Database and documents,"Private and personal confidential data, clients and employee documents, HR, SSN, clients db, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+BTC Power,24/8/2023,18/8/2023,www.btcpower.com,http://btcpower.com," California, United States",11574,United States," Santa Ana, California",Appliances comman Electrical comman and Electronics Manufacturing,"BTC power is the leading manufacturer of electric vehicle charging systems in North America. Supplying a variety of DC and DC product lines to those in the Oil & Gas, Fleet, CPO, Government and C-Store Markets.",Clients Database and documents in a company that manufacturs EV charging systems,"Private and personal confidential data, clients and employee documents, payroll, clients db, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Miami Management,24/8/2023,18/8/2023,www.miamimanagement.com,nan," Florida, United States",11446,United States,"Florida, United States",Management Company,,,"Private and personal confidential data, clients and employee documents, payroll, budget, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+DSA Law Pty Ltd,24/8/2023,18/8/2023,www.dsalaw.com.au,http://www.dsalaw.com.au,Victoria Australia,11766,Australia," Melbourne, Victoria",Law Practice,,,"Private and personal confidential data, clients and employee documents, contracts, IDs, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+ABS Auto Auctions,30/8/2023,18/8/2023,www.absautoauctions.com,nan," California, United States",11551,United States,"California, United States",Auction,,,"Private and personal confidential data, clients and employee documents, contracts, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+EAI,14/8/2023,10/8/2023,www.eaiweb.com,www.eaiweb.com,USA,12890,United States,United States,Oil and Gas,,,"Private and personal confidential data, clients and employee documents, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Algorry Zappia & Associates,16/8/2023,10/8/2023,www.algorryzappia.com.au,http://algorryzappia.com.au," New South Wales, Australia",12888,Australia," New South Wales, Australia",Construction,,,"Private and personal confidential data, clients and employee documents, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Top Light,14/8/2023,10/8/2023,www.top-light.de,nan,"  Nordrhein Westfalen, Germany",12809,Germany,"Spenge, Germany",Electric Lighting Equipment Manufacturing,,,"Private and personal confidential data, clients and employee documents, IDs, finance, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+"Birch, Horton, Bittner & Cherot",6/8/2023,1/8/2023,www.birchhorton.com,https://www.birchhorton.com,"  Alaska, United States",14764,United States," Anchorage, Alaska",Law Practice,,,"Private and personal confidential data, clients and employee documents,scans, IDs, contacts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Aapd,6/8/2023,1/8/2023,www.aapd.com.au,www.aapd.com.au,Australia,14822,Australia,Australia,"Technology, Information and Media",,,"Private and personal confidential data, clients and employee documents, contracs, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+"Garage Living, The Dispenser USA",6/8/2023,1/8/2023," www.garageliving.com, www.dispenser.com"," www.garageliving.com, www.dispenser.com"," Ontario, Canada",14821,Canada,Ontario,Manufacturing,"Founded in 2005, Garage Living is a company that specializes in the construction and remodeling of garages. The dispenser USA is a company that operates in the consumer goods industry.",,"Private and personal confidential data, clients and employee documents, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Xplain,5/8/2023,29/7/2023,www.xplain.ch,www.xplain.ch,Switzerland,36993,Switzerland,"Interlaken, Switzerland",IT Services and IT Consulting,,"important government information.
 
 Company info:
 Xplain is a leading manufacturer of standard software solutions for all areas and areas of application within the so-called area of « Homeland Security ».","Private and personal confidential data, finance, taxes, clients private and important government information.",1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,0
-Grupo MH,29/7/2023,24/7/2023,www.grupmh.com,Spain," Barcelona, Spain",Facilities Services,,,"Private and personal confidential data, clients and employee documents, contracs, finance, tax, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Primoteq,29/7/2023,24/7/2023,www.primoteq.com,Netherlands,Hengelo OV,Machinery Manufacturing,,,"Private and personal confidential data, clients and employee documents, projects, contracs, finance, tax, and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Scharco Elektronik,29/7/2023,24/7/2023,www.scharco.eu,Germany," Wuppertal, North Rhine-Westphalia","Appliances, Electrical, and Electronics Manufacturing",,,"Private and personal confidential data, clients and employee documents, passports, IDs, scans, contracs, finance, tax, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-John Mulder Heating & Air Conditioning,29/7/2023,24/7/2023,www.johnmulderheating.ca,Canada," British Columbia, Canada",Utilities,,,"Private and personal confidential data, clients and employee documents, HR, IDs, scans, contracs, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Centennial Management,25/7/2023,19/7/2023,www.centennialinvestments.com,United States,"  Florida, United States",Financial Services,,,"Private and personal confidential data, clients and employee documents, IDs, contracts, finance, tax, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Sea Force IX,25/7/2023,19/7/2023,www.seaforceboats.com,United States,"  Florida, United States",Shipbuilding,,,"Private and personal confidential data, clients and employee documents, tax, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Woodbine Hospitality,25/7/2023,19/7/2023,www.woodbinehospitality.com,United States," Syracuse, New York",Hospitality,,projects,"Private and personal confidential data, clients and employee documents, tax, finance, projects, IDs, and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-ECS Technology Group,25/7/2023,19/7/2023,www.ecstechgroup.com,United States," Mansfield, TX",Information Technology & Services,,Clients Database and Documents,"Private and personal confidential data, clients and employee documents, passports, clients db, tax, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Fernmoor Homes,25/7/2023,19/7/2023,www.fernmoorhomes.com,United States," Jackson, NJ",Construction,,,"Private and personal confidential data, clients and employee documents, passports, contracs, payroll, tax, clients full info, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Kensington Publishing,25/7/2023,19/7/2023,www.kensingtonbooks.com,United States," New York, United States",Book and Periodical Publishing,,Press releases?,"Private and personal confidential data, clients and employee documents, passports, scans, sql db, contracs, press releases, finance and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Texas Heat Treating,15/7/2023,11/7/2023,www.texasheattreating.com,United States," Round Rock, Texas",Machinery Manufacturing,,"lab, and technical documentations","Private and personal confidential data, clients and employee documents, IDs, contracts, finance, tax, lab, a lot of technical documentation and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Lawer SpA,13/7/2023,7/7/2023,www.lawer.com,Italy," Piedmont, Italy",Industrial Automation,,,"Private and personal confidential data, clients and employee documents, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Indiana Dimension,13/7/2023,7/7/2023,www.indianadimension.com,United States,"Logansport, IN",Paper and Forest Product Manufacturing,,,"Private and personal confidential data, clients and employee documents, passports, HR, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Star Island Resort,13/7/2023,7/7/2023,www.star-island.com,United States," Kissimmee, FL",Hospitality,,,"Private and personal confidential data, clients and employee documents, passports, HR, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Lazer Tow,13/7/2023,7/7/2023,www.lazertow.com,United States,"Grandview, Missouri",Individual and Family Services,,,"Private and personal confidential data, clients and employee documents, clients base, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Intoximeters,11/7/2023,7/7/2023,www.intox.com,United States," St.Louis, MO",Consumer Services,,,"Private and personal confidential data, clients and employee documents, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Safety Network,12/7/2023,6/7/2023,www.safetynetworkinc.com,United States," Granite Bay, California",Construction,,,"Private and personal confidential data, clients and employee documents, contracts, finance, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Capacity LLC,12/7/2023,6/7/2023,www.capacityllc.com,United States," North Brunswick, NJ",Transportation comman Logistics comma Supply Chain and Storage,,,"Private and personal confidential data, clients and employee documents, passports, IDs, contracts, tax, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Betty Lou's,12/7/2023,6/7/2023,www.bettylousinc.com,United States," McMinnville, Oregon",Food Production,,,"Private and personal confidential data, clients and employee documents, passports, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-MUJI Europe Holdings Limited,12/7/2023,6/7/2023,www.muji.eu,United States," London, London",Retail,,connection refused: date 14 Oct,"Private and personal confidential data, clients and employee documents, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Geneva Software,12/7/2023,6/7/2023,www.genevasi.com,United States," Herndon, VA",IT Services and IT Consulting,,,"Private and personal confidential data, clients and employee documents, contracts, taxes, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Uniquify,12/7/2023,6/7/2023,www.uniquify.com,United States," San Jose, CA",Semiconductor Manufacturing,,Technical documentation,"Private and personal confidential data, clients and employee documents, a lot of technical documentation, contracts and etc.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-NST Attorneys at Law,12/7/2023,6/7/2023,www.nstlaw.com,United States," Memphis, TN",Legal Services,,"Insurance, lawsuits at a Law firm","Private and personal confidential data, clients and employee documents, passports, IDs, SSNs, insurance, contracts, lawsuits and etc.",1,0,0,1,0,1,1,0,0,0,0,0,0,,,0,0
-Cambridge Group of Clubs,3/7/2023,27/6/2023,www.cambridgegroupofclubs.com,Canada," Toronto, Ontario",Wellness and Fitness Services,,,"Private and personal confidential data, clients and employee documents, finance, passports, clients db, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Algotech,3/7/2023,27/6/2023,www.algotech.cz,Czech Republic,Prague 8 - Karlín,IT Services and IT Consulting,,Czech Republic,"Private and personal confidential data, clients and employee documents.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Wolfs Block Management Limited,27/6/2023,21/6/2023,www.wolfsproperty.co.uk,United Kingdom,"Birmingham, United Kingdom",Real Estate,Wolfs Block Management Limited is a dissolved company that was located in Birmingham. It operated in the management of real estate on a fee or contract basis sector.,,"Private and personal confidential data, clients and employee documents, passports, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Lorclon,27/6/2023,21/6/2023,www.lorclon.com,United Kingdom,"London, United Kingdom",Civil Engineering,,commercial information,"Private and personal confidential data, clients and employee documents, passports, contracts, taxes, commercial information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Allpro Consulting Group,27/6/2023,21/6/2023,www.allprocgi.com,United States," Dallas, Texas",Telecommunications,,,"Private and personal confidential data, clients and employee documents, passports, contracts, scans, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Luís Simoes,27/6/2023,21/6/2023,www.luis-simoes.com,Portugal,"Loures, Lisbon, Portugal","Transportation, Logistics, Supply Chain and Storage",,logistics,"Private and personal confidential data, clients and employee documents, passports, contracts, logistic, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Federation Francaise de Rugby,27/6/2023,21/6/2023,www.ffr.fr,France," Marcoussis, France",Sports devant spectateurs,,,"Private and personal confidential data, clients and employee documents, passports, hr and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-PWI Engineering,27/6/2023,21/6/2023,www.pwius.com,United States," Cherry Hill, NJ",Mechanical Or Industrial Engineering,,projects,"Private and personal confidential data, clients and employee documents, projects, passports, finance and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-OMNIPOL,27/6/2023,21/6/2023,www.omnipol.com,Czech Republic,Czech Republic,Defense and Space Manufacturing,,secret infromation from a defence and security solutions industry,"Private and personal confidential data, clients and employee documents, passports, finance, project, secret informaion and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Summit Hut,27/6/2023,21/6/2023,www.summithut.com,United States," Tucson, Arizona",Retail,,,"Private and personal confidential data, clients and employee documents, passports, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Dancie Perugini Ware Public Relations,27/6/2023,21/6/2023,www.dpwpr.com,United States," Houston, Texas",Public Relations and Communications Services,,,"Private and personal confidential data, clients and employee documents, passports, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Peter Mark,27/6/2023,21/6/2023,www.petermark.ie,Ireland," Leinster, Ireland",Retail Apparel and Fashion,,,"Private and personal confidential data, clients and employee documents, passports, cliens base, hr, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Twai,27/6/2023,21/6/2023,www.twai.com,United States," Southfield, Michigan",IT Services and IT Consulting,,,"Private and personal confidential data, clients and employee documents, passports, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Pacte Novation,27/6/2023,21/6/2023,www.pactenovation.fr,France,ISSY LES MOULINEAUX,IT Services and IT Consulting,,projects from a software engineering company in france,"Private and personal confidential data, clients and employee documents, passports, projects, fincane, tax and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Dameron Alloy Foundries,28/6/2023,21/6/2023,www.dameron.net,United States,"Compton, California",Mining,,"projects 
+Grupo MH,29/7/2023,24/7/2023,www.grupmh.com,nan," Barcelona, Spain",16431,Spain," Barcelona, Spain",Facilities Services,,,"Private and personal confidential data, clients and employee documents, contracs, finance, tax, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Scharco Elektronik,29/7/2023,24/7/2023,www.scharco.eu,http://www.scharco.eu," Nordrhein-Westfalen, Germany",16454,Germany," Wuppertal, North Rhine-Westphalia","Appliances, Electrical, and Electronics Manufacturing",,,"Private and personal confidential data, clients and employee documents, passports, IDs, scans, contracs, finance, tax, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+John Mulder Heating & Air Conditioning,29/7/2023,24/7/2023,www.johnmulderheating.ca,www.johnmulderheating.ca," British Columbia, Canada",16581,Canada," British Columbia, Canada",Utilities,,,"Private and personal confidential data, clients and employee documents, HR, IDs, scans, contracs, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Centennial Management,25/7/2023,19/7/2023,www.centennialinvestments.com,www.centennialinvestments.com,"  Florida, United States",17501,United States,"  Florida, United States",Financial Services,,,"Private and personal confidential data, clients and employee documents, IDs, contracts, finance, tax, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Woodbine Hospitality,25/7/2023,19/7/2023,www.woodbinehospitality.com,http://www.woodbinehospitality.com/," New York, United States",17300,United States," Syracuse, New York",Hospitality,,projects,"Private and personal confidential data, clients and employee documents, tax, finance, projects, IDs, and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+ECS Technology Group,25/7/2023,19/7/2023,www.ecstechgroup.com,http://www.ecstechgroup.com," Texas, United States",17329,United States," Mansfield, TX",Information Technology & Services,,Clients Database and Documents,"Private and personal confidential data, clients and employee documents, passports, clients db, tax, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Fernmoor Homes,25/7/2023,19/7/2023,www.fernmoorhomes.com,http://www.fernmoorhomes.com," New Jersey, United States",17257,United States," Jackson, NJ",Construction,,,"Private and personal confidential data, clients and employee documents, passports, contracs, payroll, tax, clients full info, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Kensington Publishing,25/7/2023,19/7/2023,www.kensingtonbooks.com,https://www.kensingtonbooks.com/," New York, United States",17358,United States," New York, United States",Book and Periodical Publishing,,Press releases?,"Private and personal confidential data, clients and employee documents, passports, scans, sql db, contracs, press releases, finance and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Texas Heat Treating,15/7/2023,11/7/2023,www.texasheattreating.com,https://texasheattreating.com/,"  Texas, United States",19062,United States," Round Rock, Texas",Machinery Manufacturing,,"lab, and technical documentations","Private and personal confidential data, clients and employee documents, IDs, contracts, finance, tax, lab, a lot of technical documentation and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Lawer SpA,13/7/2023,7/7/2023,www.lawer.com,www.lawer.com," Piedmont, Italy",20136,Italy," Piedmont, Italy",Industrial Automation,,,"Private and personal confidential data, clients and employee documents, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Indiana Dimension,13/7/2023,7/7/2023,www.indianadimension.com,http://www.indianadimension.com," Indiana, United States",20113,United States,"Logansport, IN",Paper and Forest Product Manufacturing,,,"Private and personal confidential data, clients and employee documents, passports, HR, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Star Island Resort,13/7/2023,7/7/2023,www.star-island.com,http://www.star-island.com," Florida, United States",19992,United States," Kissimmee, FL",Hospitality,,,"Private and personal confidential data, clients and employee documents, passports, HR, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Lazer Tow,13/7/2023,7/7/2023,www.lazertow.com,www.lazertow.com," Missouri, United States",20057,United States,"Grandview, Missouri",Individual and Family Services,,,"Private and personal confidential data, clients and employee documents, clients base, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Intoximeters,11/7/2023,7/7/2023,www.intox.com,http://www.intox.com," Missouri, United States",19743,United States," St.Louis, MO",Consumer Services,,,"Private and personal confidential data, clients and employee documents, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Safety Network,12/7/2023,6/7/2023,www.safetynetworkinc.com,http://www.safetynetworkinc.com/," California, United States",19898,United States," Granite Bay, California",Construction,,,"Private and personal confidential data, clients and employee documents, contracts, finance, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Capacity LLC,12/7/2023,6/7/2023,www.capacityllc.com,https://www.capacityllc.com," New Jersey, United States",19915,United States," North Brunswick, NJ",Transportation comman Logistics comma Supply Chain and Storage,,,"Private and personal confidential data, clients and employee documents, passports, IDs, contracts, tax, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Betty Lou's,12/7/2023,6/7/2023,www.bettylousinc.com,http://www.bettylousinc.com," Oregon, United States",20113,United States," McMinnville, Oregon",Food Production,,,"Private and personal confidential data, clients and employee documents, passports, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+MUJI Europe Holdings Limited,12/7/2023,6/7/2023,www.muji.eu,http://www.muji.eu/," London, England",20045,United States," London, London",Retail,,connection refused: date 14 Oct,"Private and personal confidential data, clients and employee documents, passports, contracts, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Geneva Software,12/7/2023,6/7/2023,www.genevasi.com,https://genevasi.com," Virginia, United States",19803,United States," Herndon, VA",IT Services and IT Consulting,,,"Private and personal confidential data, clients and employee documents, contracts, taxes, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Uniquify,12/7/2023,6/7/2023,www.uniquify.com,http://www.uniquify.com," California, United States",20743,United States," San Jose, CA",Semiconductor Manufacturing,,Technical documentation,"Private and personal confidential data, clients and employee documents, a lot of technical documentation, contracts and etc.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+NST Attorneys at Law,12/7/2023,6/7/2023,www.nstlaw.com,http://www.nstlaw.com," Tennessee, United States",19972,United States," Memphis, TN",Legal Services,,"Insurance, lawsuits at a Law firm","Private and personal confidential data, clients and employee documents, passports, IDs, SSNs, insurance, contracts, lawsuits and etc.",1,0,0,1,0,1,1,0,0,0,0,0,0,,,0,0
+Cambridge Group of Clubs,3/7/2023,27/6/2023,www.cambridgegroupofclubs.com,https://cambridgegroupofclubs.com/," Ontario, Canada",21641,Canada," Toronto, Ontario",Wellness and Fitness Services,,,"Private and personal confidential data, clients and employee documents, finance, passports, clients db, IDs, taxes, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Algotech,3/7/2023,27/6/2023,www.algotech.cz,www.algotech.cz," Praha, Czech Republic",21636,Czech Republic,Prague 8 - Karlín,"
+IT Services and IT Consulting",,Czech Republic,"Private and personal confidential data, clients and employee documents.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Wolfs Block Management Limited,27/6/2023,21/6/2023,www.wolfsproperty.co.uk,Dissolved company,United Kingdom,United Kingdom,United Kingdom,"Birmingham, United Kingdom",Real Estate,Wolfs Block Management Limited is a dissolved company that was located in Birmingham. It operated in the management of real estate on a fee or contract basis sector.,,"Private and personal confidential data, clients and employee documents, passports, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Lorclon,27/6/2023,21/6/2023,www.lorclon.com,www.lorclon.com,United Kingdom,United Kingdom,United Kingdom,"London, United Kingdom",Civil Engineering,,commercial information,"Private and personal confidential data, clients and employee documents, passports, contracts, taxes, commercial information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Allpro Consulting Group,27/6/2023,21/6/2023,www.allprocgi.com,http://www.allprocgi.com," Texas, United States",23083,United States," Dallas, Texas",Telecommunications,,,"Private and personal confidential data, clients and employee documents, passports, contracts, scans, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Luís Simoes,27/6/2023,21/6/2023,www.luis-simoes.com,www.luis-simoes.com,Portugal,Portugal,Portugal,"Loures, Lisbon, Portugal","Transportation, Logistics, Supply Chain and Storage",,logistics,"Private and personal confidential data, clients and employee documents, passports, contracts, logistic, taxes and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Federation Francaise de Rugby,27/6/2023,21/6/2023,www.ffr.fr,http://www.ffr.fr,France,23153,France," Marcoussis, France",Sports devant spectateurs,,,"Private and personal confidential data, clients and employee documents, passports, hr and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+PWI Engineering,27/6/2023,21/6/2023,www.pwius.com,http://www.pwius.com," New Jersey, United States",23125,United States," Cherry Hill, NJ",Mechanical Or Industrial Engineering,,projects,"Private and personal confidential data, clients and employee documents, projects, passports, finance and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Summit Hut,27/6/2023,21/6/2023,www.summithut.com,http://www.summithut.com," Arizona, United States",23104,United States," Tucson, Arizona",Retail,,,"Private and personal confidential data, clients and employee documents, passports, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Dancie Perugini Ware Public Relations,27/6/2023,21/6/2023,www.dpwpr.com,http://www.dpwpr.com/," Texas, United States",22964,United States," Houston, Texas",Public Relations and Communications Services,,,"Private and personal confidential data, clients and employee documents, passports, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Peter Mark,27/6/2023,21/6/2023,www.petermark.ie,nan," Leinster, Ireland",23081,Ireland," Leinster, Ireland",Retail Apparel and Fashion,,,"Private and personal confidential data, clients and employee documents, passports, cliens base, hr, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Twai,27/6/2023,21/6/2023,www.twai.com,http://www.twai.com,"  Michigan, United States",23214,United States," Southfield, Michigan",IT Services and IT Consulting,,,"Private and personal confidential data, clients and employee documents, passports, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Pacte Novation,27/6/2023,21/6/2023,www.pactenovation.fr,https://www.pactenovation.fr,France,23298,France,ISSY LES MOULINEAUX,IT Services and IT Consulting,,projects from a software engineering company in france,"Private and personal confidential data, clients and employee documents, passports, projects, fincane, tax and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Dameron Alloy Foundries,28/6/2023,21/6/2023,www.dameron.net,https://www.linkedin.com/company/dameron-alloy-foundries/," California, United States",22861,United States,"Compton, California",Mining,,"projects 
 Description:
 metal parts 
 15 years of asia manufacturing experience","Private and personal confidential data, clients and employee documents, passports, projects, ssn, IDs, finance, tax and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Mesa Cold Storage,27/6/2023,21/6/2023,www.mesacold.com,United States,"Tolleson, Arizona",Transportation comma Logistics comma Supply Chain and Storage,,,"Private and personal confidential data, clients and employee documents, passports, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Salins Group,27/6/2023,21/6/2023,www.salins.com,France," Clichy, France",Mining,,,"Private and personal confidential data, clients and employee documents, hr, passports, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Novasoft,27/6/2023,21/6/2023,www.novasoft.at,Dubai,Dubai,IT Services and IT Consulting,,projects,"Private and personal confidential data, clients and employee documents, projects and etc.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Nubus,27/6/2023,21/6/2023,www.nubus.be,United States," Schaumburg, USA",IT Services and IT Consulting,,technical documents from a Information Technology and Services Industry,"Private and personal confidential data, clients and employee documents, finance, technical documentation and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Shows & Artists,11/6/2023,2/6/2023,www.shows-artists.com,Germany,Germany,Events Services,,,"Private and personal confidential data, clients and employee documents, finance, hr and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-NORANET - CZ,11/6/2023,2/6/2023,www.noranet.cz,Czech Republic,"Prague, Czechia",Telecommunications,,,"Private and personal confidential data, clients and employee documents, contracts and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Abeko,11/6/2023,2/6/2023,www.abeko.nl,Netherlands,"Beverwijk, Netherlands",Civil Engineering,,,"Private and personal confidential data, clients and employee documents, contracts, hr and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Buffalo Niagara Association,11/6/2023,2/6/2023,www.bnar.org,United States," Amherst, NY",Real Estate,"Full name - Buffalo Niagara Association of REALTORS, Inc.",,"Private and personal confidential data, clients and employee documents, IDs, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-BMD Systemhaus,11/6/2023,2/6/2023,www.bmd.com,Austria,"Steyr, Oberösterreich",Software Development,Full name - BMD Systemhaus GesmbH,bank reports,"Private and personal confidential data, clients and employee documents, IDs, passports, bank reports, taxes, contracts, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-CS Cargo Group,14/6/2023,2/6/2023,www.cscargo.cz,Czech Republic,Prague 4,Truck Transportation,,logistic information,"Private and personal confidential data, clients and employee documents, passports, logistic information, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Alberta Newsprint,11/6/2023,2/6/2023,www.albertanewsprint.com,Canada," Whitecourt, Alberta",Paper and Forest Product Manufacturing,,,"Private and personal confidential data, clients and employee documents, passports, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-"Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe",11/6/2023,2/6/2023,unico.ch insys.ch pathe.ch pbswisstools.com boess.ch,Switzerland,nan,nan,,"After being introduced into the Unico company, we processed and took away the files of the organizations that it serves.","Private and personal confidential data, clients and employee documents, passports, contracts, and many others.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Fortress Paper,11/6/2023,2/6/2023,www.fortressge.com,Canada," Thurso, QC",Paper & Forest Products,New name - Fortress Global Enterprises Inc,,"Private and personal confidential data, clients and employee documents, passports, contracts, and many others.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Globalcaja,11/6/2023,2/6/2023,www.globalcaja.es,Spain," Albacete, Albacete",Financial Services,,,"Private and personal confidential data, clients and employee documents, passports, contracts,",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Soroc,2/6/2023,30/5/2023,www.soroc.com,Canada," Woodbridge, ON",Information Technology & Services,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Aria Online,1/6/2023,23/5/2023,www.ariaonline.com,United States,"Louisiana, United States",Retail,,,"Private and personal confidential data, finance, taxes, clients and employee information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Optimus Steel,1/6/2023,23/5/2023,www.optimus-steelusa.com,United States," Vidor, Texas",Mining,,,"Private and personal confidential data, clients and employee passports, finance, taxes, clients private information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Studioline Photography,1/6/2023,23/5/2023,www.studioline.de,Germany,"Dänischenhagen, Schleswig-Holstein",Photography,,,"Private and personal confidential data, clients and employee documents, projects, finance, taxes, and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Grupo Corporacion Control,1/6/2023,23/5/2023,www.ccontrol.com.mx,Mexico,"Monterrey, Nuevo León",Retail,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Mayberry Investments,1/6/2023,23/5/2023,www.mayberryinv.com,Jamaica,Kingston,Investment Banking,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Paragon Software Lanka,1/6/2023,23/5/2023,www.paragonsoft.net,Sri Lanka,Nugegoda,IT Services and IT Consulting,,why sri lanka out of nowhere,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Black Cat Networks,26/5/2023,23/5/2023,www.blackcat-networks.de,Germany,Singen,Information Technology & Services,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Poly,31/5/2023,22/5/2023,www.poly.com,United States," Santa Cruz, California",Telecommunications,,"global communications company
-budget was stolen?","Private and personal confidential data, employee documents, SSNs, IDs, passports, budget, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-Royal Centre,31/5/2023,22/5/2023,www.royalcentre.com,Canada,"Vancouver, Canada",Retails,,,"Private and personal confidential data, HR, finance, clients, employee information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-SOWITEC,25/5/2023,16/5/2023,www.sowitec.com,Germany,"Sonnenbühl, Deutschland",Renewables & Environment,,budget,"Private and personal confidential data, employee documents, passports, budget, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-Germany,26/5/2023,10/5/2023,www.gtai.de,Germany,Berlin,International Trade and Development,Full name - Germany Trade and Invest,"Germany Trade & Invest (GTAI)
+Mesa Cold Storage,27/6/2023,21/6/2023,www.mesacold.com,http://WWW.MesaCold.com," Arizona, United States",23029,United States,"Tolleson, Arizona",Transportation comma Logistics comma Supply Chain and Storage,,,"Private and personal confidential data, clients and employee documents, passports, finance, tax and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Salins Group,27/6/2023,21/6/2023,www.salins.com,http://www.salins.com," Clichy, France",22959,France," Clichy, France",Mining,,,"Private and personal confidential data, clients and employee documents, hr, passports, finance and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Novasoft,27/6/2023,21/6/2023,www.novasoft.at,http://www.novasoft.global,Austria,25030,Dubai,Dubai,IT Services and IT Consulting,,projects,"Private and personal confidential data, clients and employee documents, projects and etc.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Nubus,27/6/2023,21/6/2023,www.nubus.be,https://nubustechno.com," Flanders, Belgium",22956,United States," Schaumburg, USA",IT Services and IT Consulting,,technical documents from a Information Technology and Services Industry,"Private and personal confidential data, clients and employee documents, finance, technical documentation and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Shows & Artists,11/6/2023,2/6/2023,www.shows-artists.com,https://www.linkedin.com/company/shows-&-artists-gmbh/,Germany,Germany,Germany,"München, Bayern",Events Services,,,"Private and personal confidential data, clients and employee documents, finance, hr and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+NORANET - CZ,11/6/2023,2/6/2023,www.noranet.cz,www.noranet.cz,Czech Republic,Czech Republic,Czech Republic,"Prague, Czechia",Telecommunications,,,"Private and personal confidential data, clients and employee documents, contracts and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Abeko,11/6/2023,2/6/2023,www.abeko.nl,www.abeko.nl,Netherlands,Netherlands,Netherlands,"Beverwijk, Netherlands",Civil Engineering,,,"Private and personal confidential data, clients and employee documents, contracts, hr and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Buffalo Niagara Association,11/6/2023,2/6/2023,www.bnar.org,https://www.linkedin.com/company/buffalo-niagara-association-of-realtors-inc./,United States,United States,United States," Amherst, NY",Real Estate,"Full name - Buffalo Niagara Association of REALTORS, Inc.",,"Private and personal confidential data, clients and employee documents, IDs, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+BMD Systemhaus,11/6/2023,2/6/2023,www.bmd.com,https://www.linkedin.com/company/bmd-systemhaus-gesmbh/,Austria,Austria,Austria,"Steyr, Oberösterreich",Software Development,Full name - BMD Systemhaus GesmbH,bank reports,"Private and personal confidential data, clients and employee documents, IDs, passports, bank reports, taxes, contracts, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+CS Cargo Group,14/6/2023,2/6/2023,www.cscargo.cz,https://www.linkedin.com/company/c-s-cargo-management/about/,Czech Republic,Czech Republic,Czech Republic,Prague 4,Truck Transportation,,logistic information,"Private and personal confidential data, clients and employee documents, passports, logistic information, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Alberta Newsprint,11/6/2023,2/6/2023,www.albertanewsprint.com,https://www.linkedin.com/company/alberta-newsprint-company/,Canada,27297,Canada," Whitecourt, Alberta",Paper and Forest Product Manufacturing,,,"Private and personal confidential data, clients and employee documents, passports, contracts, and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Fortress Paper,11/6/2023,2/6/2023,www.fortressge.com,http://www.fortresscell.ca,Canada,Canada,Canada," Thurso, QC",Paper & Forest Products,New name - Fortress Global Enterprises Inc,,"Private and personal confidential data, clients and employee documents, passports, contracts, and many others.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Globalcaja,11/6/2023,2/6/2023,www.globalcaja.es,https://www.linkedin.com/company/somosglobalcaja/,Spain,Spain,Spain," Albacete, Albacete",Financial Services,,,"Private and personal confidential data, clients and employee documents, passports, contracts,",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Soroc,2/6/2023,30/5/2023,www.soroc.com,https://www.linkedin.com/company/soroc-technology/?originalSubdomain=ca,Canada,Canada,Canada," Woodbridge, ON",Information Technology & Services,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Aria Online,1/6/2023,23/5/2023,www.ariaonline.com,http://apps.aria-networks.com," Louisiana, United States"," Louisiana, United States"," Louisiana, United States","Louisiana, United States",Retail,,,"Private and personal confidential data, finance, taxes, clients and employee information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Optimus Steel,1/6/2023,23/5/2023,www.optimus-steelusa.com,https://www.linkedin.com/company/optimussteel-usa/,United States,United States,United States," Vidor, Texas",Mining,,,"Private and personal confidential data, clients and employee passports, finance, taxes, clients private information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Studioline Photography,1/6/2023,23/5/2023,www.studioline.de,https://www.linkedin.com/company/studioline-photography/,Germany,Germany,Germany,"Dänischenhagen, Schleswig-Holstein",Photography,,,"Private and personal confidential data, clients and employee documents, projects, finance, taxes, and etc.",1,1,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Grupo Corporacion Control,1/6/2023,23/5/2023,www.ccontrol.com.mx,https://www.linkedin.com/company/grupo-corporaci-n-control/,Mexico,Mexico,Mexico,"Monterrey, Nuevo León",Retail,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Mayberry Investments,1/6/2023,23/5/2023,www.mayberryinv.com,https://www.linkedin.com/company/mayberry-investments-ltd./,Jamaica,Jamaica,Jamaica,Kingston,Investment Banking,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Paragon Software Lanka,1/6/2023,23/5/2023,www.paragonsoft.net,http://www.paragonsoft.net,Sri Lanka,Sri Lanka,Sri Lanka,Nugegoda,IT Services and IT Consulting,,why sri lanka out of nowhere,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Black Cat Networks,26/5/2023,23/5/2023,www.blackcat-networks.de,http://blackcat.bz,Germany,Germany,Germany,Singen,Information Technology & Services,,,"Private and personal confidential data, clients and employee documents, finance, taxes, and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Royal Centre,31/5/2023,22/5/2023,www.royalcentre.com,www.royalcentre.com,Canada,28951,Canada,"Vancouver, Canada",Retails,,,"Private and personal confidential data, HR, finance, clients, employee information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+SOWITEC,25/5/2023,16/5/2023,www.sowitec.com,https://www.linkedin.com/company/sowitec-international-gmbh/,Germany,Germany,Germany,"Sonnenbühl, Deutschland",Renewables & Environment,,budget,"Private and personal confidential data, employee documents, passports, budget, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
+Germany,26/5/2023,10/5/2023,www.gtai.de,nan," Berlin, Germany",31689,Germany,Berlin,International Trade and Development,Full name - Germany Trade and Invest,"Germany Trade & Invest (GTAI)
 economic promotion agency of Germany
 Budget stolen","Private and personal confidential data, employee documents, passports, budget, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-JP Maguire & Associates,19/5/2023,10/5/2023,www.jpmaguire.com,United States," Waterbury, Connecticut",Construction,,backups,"Private and personal confidential data, backups, employee documents, passports, finance information.",1,1,0,1,0,0,0,0,0,0,0,0,1,,,0,0
-Sauerbruch Hutton,19/5/2023,10/5/2023,www.sauerbruchhutton.de,Germany,"Berlin, Berlin",Architecture and Planning,,"backups, budget, projects
+JP Maguire & Associates,19/5/2023,10/5/2023,www.jpmaguire.com,https://www.linkedin.com/company/jp-maguire-property-damage-cleanup-and-restoration/about/," Connecticut, United States",31226,United States," Waterbury, Connecticut",Construction,,backups,"Private and personal confidential data, backups, employee documents, passports, finance information.",1,1,0,1,0,0,0,0,0,0,0,0,1,,,0,0
+Sauerbruch Hutton,19/5/2023,10/5/2023,www.sauerbruchhutton.de,http://www.sauerbruchhutton.com," Berlin, Germany",31141,Germany,"Berlin, Berlin",Architecture and Planning,,"backups, budget, projects
 Description: International agency for architecture, urbanism and design","Private and personal confidential data, backups, employee documents, passports, budget, projects, finance information and etc.",1,1,0,1,1,0,0,0,0,0,0,0,1,,,0,0
-KLC Network Services,18/5/2023,9/5/2023,www.klcnetworks.com,United States,"Herndon, Virginia",Defense and Space Manufacturing,"KLC Started as an information technology and audio visual company and has since expanded its offerings to include Software Engineering, Digital Forensics, Cyber and Analytic Solutions. We have enjoyed many years of success and owed largely to a combination of highly-skilled and motivated staff, sensible business practices and maintaining positive lines of communications with our valued customers
+KLC Network Services,18/5/2023,9/5/2023,www.klcnetworks.com,https://www.linkedin.com/company/klc-network-services-inc./," Virginia, United States",31494,United States,"Herndon, Virginia",Defense and Space Manufacturing,"KLC Started as an information technology and audio visual company and has since expanded its offerings to include Software Engineering, Digital Forensics, Cyber and Analytic Solutions. We have enjoyed many years of success and owed largely to a combination of highly-skilled and motivated staff, sensible business practices and maintaining positive lines of communications with our valued customers
 In fact, this organization government contractor, fulfils orders from DoD, US Army and other Agencies","Major company, which is a government contractor, fulfils orders from DoD, US Army, and other agencies. ","Full dumps of all disks and storages, mail server. Profiles of employees, with all the information, permits, passing a polygraph for access to classified information, former places of work, positions, among them there are also employees with experience in the NSA TAO. Orders from agencies for software development,communication setup and maintenance. Source codes, classified information, firmware for communication devices and etc. For now partially published compressed 8gb. If there no reaction full dump will be uploaded.",0,0,0,1,1,0,0,0,0,0,1,1,0,,,0,1
-Vocalcom,11/5/2023,3/5/2023,www.vocalcom.com,France,Paris,Software Development,,technical information,"Private and personal confidential data, finance, passports, clients data, technical information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Negma Business Solutions,11/5/2023,3/5/2023,www.negma.net,United States," Dallas, Texas",IT Services and IT Consulting,neGma is now Mobius Partners,,"Private and personal confidential data, finance, taxes, passports, employee and clients documents.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Commune de Saxon,12/5/2023,3/5/2023,www.saxon.ch, Switzerland," Saxon, Switzerland",nan,,,"Private and personal confidential data, finance, hr, contracts, employee documents.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Libra Virtua,11/5/2023,3/5/2023,www.libravirtua.hu,Hungary,Hungary,IT Services and IT Consulting,,databases,"Private and personal confidential data, finance, hr, contracts, databases, clients documents and files.",1,1,0,1,0,1,0,0,0,0,1,0,0,,,0,0
-DGC,11/5/2023,3/5/2023,www.dgc.se,Sweden," Stockholm, Stockholm County",IT Services and IT Consulting,,,"Private and personal confidential data, finance, taxes, clients and employee information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-City of Lowell,11/5/2023,3/5/2023,www.lowellma.gov,United States," Lowell, Massachusetts",Government Administration,,,"Private and personal confidential data, finance, taxes, clients and employee information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Nova Group,11/5/2023,3/5/2023,www.novagroup.com.au,Australia,South Australia,Business Consulting and Services,,technical documentation,"Private and personal confidential data, passports, employee information, technical documentation.",1,0,0,1,1,0,0,0,0,0,0,0,0,,,0,0
-"SIVSA, Coremain",11/5/2023,3/5/2023," www.sivsa.com, www.coremain.com",Spain,nan,nan,,,"Private and personal confidential data, employee and client information.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-UECC,2/5/2023,22/4/2023,www.uecc.com,Norway,Oslo,Maritime Transportation,,,"Private and personal confidential data, finance, contracts, employee information and etc. Each of the archives can be used independently.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Groupe Gambetta,2/5/2023,22/4/2023,www.groupegambetta.fr,France,CHOLET,Real Estate,,,"Private and personal confidential data, finance, contracts, clients and employee information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Structab AB (MegTax),28/4/2023,18/4/2023,structab.se,Sweden,Halmstad,Information Technology & Services,,,"Private and personal confidential data, projects, finance, tax, employee information and etc.",1,1,0,1,1,0,0,0,0,0,0,0,0,,,0,0
-Corrib Oil,28/4/2023,18/4/2023,www.corriboil.com,Ireland,Ireland,Retail,,,"Private and personal confidential data, employee information and etc.Each of the archives can be used independently.",1,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-Coldiretti,28/4/2023,18/4/2023,www.coldiretti.it,Italy,Rome,Food Production,,,"Private and personal confidential data, finance, contracts, employee and clients information.Each of the archives can be used independently.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Huissiers,28/4/2023,18/4/2023,www.huissiers-cambron.com,France,Singapore,Photography,,,"Private and personal confidential data, fincance, tax, contracts, employee and clients information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Bang IT Solutions,28/4/2023,18/4/2023,www.bangitsolutions.com,Australia," Sydney, NSW",Information Technology & Services,,,"Private and personal confidential data, finance, employee information and etc.Each of the archives can be used independently.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-PESA Bydgoszcz,14/4/2023,11/4/2023,www.pesa.pl,Poland,Bydgoszcz,Industrial Machinery Manufacturing,,,"Private and personal confidential data, clients documents, contracts, finance information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-CH Media,3/5/2023,10/4/2023,chmedia.ch nzz.ch vsdruck.ch azmedien.ch,Switzerland,"Aarau, Aargau",Media Production,,"projects, payrolls","Private and personal confidential data, projects, payrol, employee information and etc.",1,0,0,1,1,0,0,0,0,0,0,0,0,,,0,0
-Schirm,21/4/2023,9/4/2023,www.schirm.com,Germany,"Schönebeck, Saxony-Anhalt",Chemical Manufacturing,,,"Private and personal confidential data, employee documents, finance information and etc. Each of the archives can be used independently.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-Vleeswarenfabriek Jac Michiels,21/4/2023,9/4/2023,www.michiels-vleeswaren.be,Belgium,Antwerpen,Food and Beverage Manufacturing,,,"Private and personal confidential data, employee documents, tax, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-Legion Aero,21/4/2023,9/4/2023,www.legionaero.com,United States,United States,Airlines and Aviation,,,"Private and personal confidential data, employee documents, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-PKF Antares,21/4/2023,9/4/2023,www.pkfantares.com,Canada," Calgary, Alberta",Accounting,,,"Private and personal confidential data, employee and clients documents, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Palo Alto County Sheriff,29/4/2023,9/4/2023,www.paloaltosheriff.com,United States," Iowa, United States",Government Administration,,"Country Sheriff 
+Vocalcom,11/5/2023,3/5/2023,www.vocalcom.com,https://www.vocalcom.com,France,32644,France,Paris,Software Development,,technical information,"Private and personal confidential data, finance, passports, clients data, technical information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Negma Business Solutions,11/5/2023,3/5/2023,www.negma.net,https://mobiuspartners.com/acquires-negma-business-solutions/,"  Texas, United States",32526,United States," Dallas, Texas",IT Services and IT Consulting,neGma is now Mobius Partners,,"Private and personal confidential data, finance, taxes, passports, employee and clients documents.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Libra Virtua,11/5/2023,3/5/2023,www.libravirtua.hu,www.libravirtua.hu,Hungary,Hungary,Hungary,Hungary,IT Services and IT Consulting,,databases,"Private and personal confidential data, finance, hr, contracts, databases, clients documents and files.",1,1,0,1,0,1,0,0,0,0,1,0,0,,,0,0
+City of Lowell,11/5/2023,3/5/2023,www.lowellma.gov,https://www.linkedin.com/company/city-of-lowell/," Lowell, Massachusetts, United States",32501,United States," Lowell, Massachusetts",Government Administration,,,"Private and personal confidential data, finance, taxes, clients and employee information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Nova Group,11/5/2023,3/5/2023,www.novagroup.com.au,https://www.linkedin.com/company/nova-systems-anz/,Australia,32485,Australia,South Australia,Business Consulting and Services,,technical documentation,"Private and personal confidential data, passports, employee information, technical documentation.",1,0,0,1,1,0,0,0,0,0,0,0,0,,,0,0
+UECC,2/5/2023,22/4/2023,www.uecc.com,https://www.linkedin.com/company/uecc/,Norway,34614,Norway,Oslo,Maritime Transportation,,,"Private and personal confidential data, finance, contracts, employee information and etc. Each of the archives can be used independently.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Groupe Gambetta,2/5/2023,22/4/2023,www.groupegambetta.fr,http://www.groupegambetta.fr,France,34559,France,CHOLET,Real Estate,,,"Private and personal confidential data, finance, contracts, clients and employee information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Structab AB (MegTax),28/4/2023,18/4/2023,structab.se,https://www.linkedin.com/company/structab-ab/,Sweden,35375,Sweden,Halmstad,Information Technology & Services,,,"Private and personal confidential data, projects, finance, tax, employee information and etc.",1,1,0,1,1,0,0,0,0,0,0,0,0,,,0,0
+Corrib Oil,28/4/2023,18/4/2023,www.corriboil.com,https://www.linkedin.com/company/corrib-oil-company-limited/,Ireland,35183,Ireland,Ireland,Retail,,,"Private and personal confidential data, employee information and etc.Each of the archives can be used independently.",1,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0
+Coldiretti,28/4/2023,18/4/2023,www.coldiretti.it,https://www.coldiretti.it,Italy,35796,Italy,Rome,Food Production,,,"Private and personal confidential data, finance, contracts, employee and clients information.Each of the archives can be used independently.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Huissiers,28/4/2023,18/4/2023,www.huissiers-cambron.com,http://www.Huissier.co,France,35091,France,Singapore,Photography,,,"Private and personal confidential data, fincance, tax, contracts, employee and clients information.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Bang IT Solutions,28/4/2023,18/4/2023,www.bangitsolutions.com,https://www.linkedin.com/company/bang-it-solutions-pty-ltd/about/,Australia,34986,Australia," Sydney, NSW",Information Technology & Services,,,"Private and personal confidential data, finance, employee information and etc.Each of the archives can be used independently.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
+PESA Bydgoszcz,14/4/2023,11/4/2023,www.pesa.pl,https://www.linkedin.com/company/pojazdy-szynowe-pesa-bydgoszcz-s-a-/,Poland,Poland,Poland,Bydgoszcz,Industrial Machinery Manufacturing,,,"Private and personal confidential data, clients documents, contracts, finance information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+CH Media,3/5/2023,10/4/2023,chmedia.ch nzz.ch vsdruck.ch azmedien.ch,https://www.linkedin.com/company/ch-media/,Switzerland,Switzerland,Switzerland,"Aarau, Aargau",Media Production,,"projects, payrolls","Private and personal confidential data, projects, payrol, employee information and etc.",1,0,0,1,1,0,0,0,0,0,0,0,0,,,0,0
+Schirm,21/4/2023,9/4/2023,www.schirm.com,https://www.linkedin.com/company/schirm-gmbh/,Germany,Germany,Germany,"Schönebeck, Saxony-Anhalt",Chemical Manufacturing,,,"Private and personal confidential data, employee documents, finance information and etc. Each of the archives can be used independently.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
+Vleeswarenfabriek Jac Michiels,21/4/2023,9/4/2023,www.michiels-vleeswaren.be,www.michiels-vleeswaren.be,Belgium,Belgium,Belgium,Antwerpen,Food and Beverage Manufacturing,,,"Private and personal confidential data, employee documents, tax, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
+Legion Aero,21/4/2023,9/4/2023,www.legionaero.com,www.legionaero.com,United States,United States,United States,United States,Airlines and Aviation,,,"Private and personal confidential data, employee documents, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
+PKF Antares,21/4/2023,9/4/2023,www.pkfantares.com,https://www.linkedin.com/company/pkfantares/,Canada,Canada,Canada," Calgary, Alberta",Accounting,,,"Private and personal confidential data, employee and clients documents, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Palo Alto County Sheriff,29/4/2023,9/4/2023,www.paloaltosheriff.com,www.paloaltosheriff.com," Iowa, United States",37147,United States," Iowa, United States",Government Administration,,"Country Sheriff 
 But there is no police category","Private and personal confidential data, employee documents, finance information and etc.",1,1,0,1,0,0,0,0,0,0,0,0,0,,,0,0
-Jablite,8/4/2023,28/3/2023,www.jablite.co.uk,United Kingdom," Hindley Green, England",Construction,,,"Private and personal confidential data, employes documents, IDs, taxes, contracts, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-BMW France,9/4/2023,28/3/2023,www.bmw.fr,France,"Montigny-le-Bretonneux, Île-de-France",Motor Vehicle Manufacturing,,,"Private and personal confidential data, clients documents, contracts, finance information and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Pizza 73,7/4/2023,27/3/2023,www.pizza73.com,Canada,"Alberta, Canada",Food and Beverage Services,,Pizza recipes,"Private and personal confidential data, employes documents, pizza recipes, contracts, finance information.",1,1,0,0,1,1,0,0,0,0,0,0,0,,,0,0
-Kk Mehta Cpa Associates,7/4/2023,27/3/2023,www.kkmehtacpa.com,United States," Albany, New York",Accounting,Full name - KKM CPA Associates ,,"Private and personal confidential data, employes and clients documents, IDs, taxes, contracts, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Picou Builders Supply,7/4/2023,27/3/2023,www.picoulumber.com,United States," Louisiana, United States",Construction,,,"Private and personal confidential data, employes and clients documents, IDs, taxes, contracts, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Guyana Goldfields,6/4/2023,26/3/2023,www.guygold.com,Canada," Toronto, Ontario",Mining,"Guyana Goldfields company focused on the exploration and development of gold deposits in Guyana, South America.",agreements,"Private and personal confidential data, employes and clients passports, full info, agreements,",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-TAC,6/4/2023,26/3/2023,tac.eu.com,Austria," Midview City, Singapore",Non-profit Organizations,,,"Private and personal confidential data, employes and clients documents,IDs, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Lysander Associates,6/4/2023,26/3/2023,www.lysander.com,United Kingdom,Godalming,Construction,,,"Private and personal confidential data, employes and clients documents, IDs, contracts, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Optica,6/4/2023,26/3/2023,www.optica.org,United States," Washington, DC",Non-profit Organizations,,,"Private and personal confidential data, employee and clients documents, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-draftPros,28/3/2023,17/3/2023,www.draftpros.com,United States," Miami Lakes, Florida",Telecommunications,,,"Private and personal confidential data, IDs, passports, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-TaxAssist Accountants,28/3/2023,17/3/2023,www.taxassist.co.uk,United Kingdom," Norwich, Norfolk",Accounting,,,"Private and personal confidential data,IDs, passports, more thah 500 clients full info packs.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Norman Shutters,28/3/2023,17/3/2023,www.normanusa.com,United States,"Albion, Queensland",Wholesale,,,"Private and personal confidential data, IDs, passports, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Pine Tree Commercial Realty,28/3/2023,17/3/2023,www.pinetree.com,United States," Northbrook, IL",Real Estate,,,"Private and personal confidential data, passports, clients information, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Berga Recycling,28/3/2023,17/3/2023,www.bergarecycling.com,Canada,"Laval, Canada",Wholesale Import and Export,,,"Private and personal confidential data, passports, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-A&T group of companies,28/3/2023,17/3/2023,www.atglobalsolutions.eu,Poland,,,,big company,"Private and personal confidential data, passports, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Stanley Steemer,28/3/2023,17/3/2023,www.stanleysteemer.com,United States,"Dublin, OH",Consumer Services,,,"Private and personal confidential data, accounting, budget, tax, banking, ssn, passports, contracts and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Royal Dirkzwager,16/3/2023,13/3/2023,www.dirkzwager.com,Netherlands," Maassluis, South Holland",Maritime Transportation,,,"Private and personal confidential data, employee IDs, passports, contracts and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Russell Finex,18/3/2023,10/3/2023,www.russellfinex.com,United Kingdom," Feltham, MIddx",Mechanical Or Industrial Engineering,,,"Private and personal confidential data, passports, financial information.",1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0
-Secure Wrap,19/3/2023,10/3/2023,www.securewrap.com,United States," Miami, FL",Consumer Services,,,"Private and personal confidential data, financial information.",1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0
-Leemock,20/3/2023,10/3/2023,www.leemock.com,United States,"Seoul, South Korea",Legal Services,"Full name - Y.P.Lee, Mock & Partners",,"Private and personal confidential data, financial information, contracts and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Real Pro,20/3/2023,10/3/2023,www.realpro.com,United States,"Fort Lauderdale, Florida",Real Estate,,,"Private and personal confidential data, financial information, contracts and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Oakland,4/3/2023,1/3/2023,www.oaklandca.gov,United States," Oakland, California",Government Administration,,Human rights violation information,"Private and personal confidential data, financial information. IDs, passports, employee full info, human rights violation information.",1,1,0,1,0,0,1,0,0,0,0,0,0,,,0,0
-InPro electric,25/2/2023,21/2/2023,www.inpro-electric.de,Germany,Wolfsburg,Automation Machinery Manufacturing,,technical documents and agreements,"Private and personal confidential data, a lot of technical documentation, IDs, passports, agreements. For now partially published compressed 8gb with 50 passports, If there no reaction full dump will be uploaded.",1,0,0,0,1,1,0,0,0,0,0,0,0,,,0,0
-Energie Pool Schweiz,20/2/2023,14/2/2023,www.energie-pool.ch,Switzerland,"Zurich, Zürich",Utilities,,agreements,"Private and personal confidential data, IDs, passports, agreements, employee and client documents.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-A10,14/2/2023,9/2/2023,www.a10networks.com,United States,"San Jose, California",Computer Networking Products,,technical documents and agreements,"Private and personal confidential data, a lot of technical documentation, agreements, employee and client documents.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Microgame SpA,15/2/2023,9/2/2023,www.microgame.it,Italy,"Benevento, Italy",Software Development,,agreements,"Private and personal confidential data, a lot of ID, credit cards, clients documents, agreements.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-ACS,14/2/2023,6/2/2023,www.acscm.com,United States,"Verona, Wisconsin",Construction,,technical documents and agreements,"Private and personal confidential data, agreements, employee and client documents, a lot of technical documentation.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
-Cave Beblenheim,12/2/2023,6/2/2023,www.cave-beblenheim.com,France,"Beblenheim, Grand Est",Beverage Manufacturing,,,"Private and personal confidential data, agreements, employee and client documents.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Helicar,2/2/2023,28/1/2023,www.helicar.cz,Czech Republic,Prague,Truck Transportation,,,"Private and personal confidential data, a lot of passports, contacts, and identifying documents of employees from different European countries, finance information, agreements.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Arnold Clark,17/1/2023,11/1/2023,www.arnoldclark.com,United Kingdom," Edinburgh, United Kingdom",Motor Vehicle Manufacturing,,"confidential contracts, agreements, leasing contracts
+Jablite,8/4/2023,28/3/2023,www.jablite.co.uk,https://www.jackon.co.uk/,United Kingdom,39621,United Kingdom," Hindley Green, England",Construction,,,"Private and personal confidential data, employes documents, IDs, taxes, contracts, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Pizza 73,7/4/2023,27/3/2023,www.pizza73.com,https://www.linkedin.com/company/pizza73/," Alberta, Canada",40112,Canada,"Alberta, Canada",Food and Beverage Services,,Pizza recipes,"Private and personal confidential data, employes documents, pizza recipes, contracts, finance information.",1,1,0,0,1,1,0,0,0,0,0,0,0,,,0,0
+Kk Mehta Cpa Associates,7/4/2023,27/3/2023,www.kkmehtacpa.com,http://www.kkmehtacpa.com," New York, United States",40090,United States," Albany, New York",Accounting,Full name - KKM CPA Associates ,,"Private and personal confidential data, employes and clients documents, IDs, taxes, contracts, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Guyana Goldfields,6/4/2023,26/3/2023,www.guygold.com,https://www.linkedin.com/company/guyana-goldfields-inc-/," Ontario, Canada",39506,Canada," Toronto, Ontario",Mining,"Guyana Goldfields company focused on the exploration and development of gold deposits in Guyana, South America.",agreements,"Private and personal confidential data, employes and clients passports, full info, agreements,",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Lysander Associates,6/4/2023,26/3/2023,www.lysander.com,https://www.linkedin.com/company/lysander-associates-ltd/,"  London, United Kingdom",39205,United Kingdom,Godalming,Construction,,,"Private and personal confidential data, employes and clients documents, IDs, contracts, finance information.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Optica,6/4/2023,26/3/2023,www.optica.org,https://www.linkedin.com/company/optica-worldwide/," District of Columbia, United States",39317,United States," Washington, DC",Non-profit Organizations,,,"Private and personal confidential data, employee and clients documents, tax, finance information and etc.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+draftPros,28/3/2023,17/3/2023,www.draftpros.com,http://draftpros.com," Florida, United States",41025,United States," Miami Lakes, Florida",Telecommunications,,,"Private and personal confidential data, IDs, passports, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+TaxAssist Accountants,28/3/2023,17/3/2023,www.taxassist.co.uk,https://www.linkedin.com/company/taxassist-accountants/," Norfolk, United Kingdom",45051,United Kingdom," Norwich, Norfolk",Accounting,,,"Private and personal confidential data,IDs, passports, more thah 500 clients full info packs.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Norman Shutters,28/3/2023,17/3/2023,www.normanusa.com,https://www.linkedin.com/company/norman-australia-pty-ltd/," Texas, United States",40797,United States,"Albion, Queensland",Wholesale,,,"Private and personal confidential data, IDs, passports, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Pine Tree Commercial Realty,28/3/2023,17/3/2023,www.pinetree.com,https://www.linkedin.com/company/pine-tree-cre/,"  Illinois, United States",40467,United States," Northbrook, IL",Real Estate,,,"Private and personal confidential data, passports, clients information, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Berga Recycling,28/3/2023,17/3/2023,www.bergarecycling.com,https://www.linkedin.com/company/berga-recycling-by-bewi/," Quebec, Canada",40480,Canada,"Laval, Canada",Wholesale Import and Export,,,"Private and personal confidential data, passports, contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Stanley Steemer,28/3/2023,17/3/2023,www.stanleysteemer.com,https://www.linkedin.com/company/stanley-steemer/," Ohio, United States",40499,United States,"Dublin, OH",Consumer Services,,,"Private and personal confidential data, accounting, budget, tax, banking, ssn, passports, contracts and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Royal Dirkzwager,16/3/2023,13/3/2023,www.dirkzwager.com,https://www.linkedin.com/company/royal-dirkzwager/,Netherlands,41236,Netherlands," Maassluis, South Holland",Maritime Transportation,,,"Private and personal confidential data, employee IDs, passports, contracts and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Russell Finex,18/3/2023,10/3/2023,www.russellfinex.com,https://www.linkedin.com/company/russell-finex-ltd/,United Kingdom,41867,United Kingdom," Feltham, MIddx",Mechanical Or Industrial Engineering,,,"Private and personal confidential data, passports, financial information.",1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0
+Secure Wrap,19/3/2023,10/3/2023,www.securewrap.com,https://www.linkedin.com/company/securewrapofficial/,United States,41800,United States," Miami, FL",Consumer Services,,,"Private and personal confidential data, financial information.",1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0
+Leemock,20/3/2023,10/3/2023,www.leemock.com,http://www.leemock.com/attorney/attorney_view.asp?id=leesy,United States,45373,United States,"Seoul, South Korea",Legal Services,"Full name - Y.P.Lee, Mock & Partners",,"Private and personal confidential data, financial information, contracts and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Real Pro,20/3/2023,10/3/2023,www.realpro.com,https://www.linkedin.com/company/realproinc/,United States,41251,United States,"Fort Lauderdale, Florida",Real Estate,,,"Private and personal confidential data, financial information, contracts and etc.",1,1,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Oakland,4/3/2023,1/3/2023,www.oaklandca.gov,http://oaklandca.gov,United States,42953,United States," Oakland, California",Government Administration,,Human rights violation information,"Private and personal confidential data, financial information. IDs, passports, employee full info, human rights violation information.",1,1,0,1,0,0,1,0,0,0,0,0,0,,,0,0
+InPro electric,25/2/2023,21/2/2023,www.inpro-electric.de,https://www.linkedin.com/company/inpro-electric/,Germany,44916,Germany,Wolfsburg,Automation Machinery Manufacturing,,technical documents and agreements,"Private and personal confidential data, a lot of technical documentation, IDs, passports, agreements. For now partially published compressed 8gb with 50 passports, If there no reaction full dump will be uploaded.",1,0,0,0,1,1,0,0,0,0,0,0,0,,,0,0
+Energie Pool Schweiz,20/2/2023,14/2/2023,www.energie-pool.ch,https://www.linkedin.com/company/energie-pool-schweiz-ag/," Zurich, Switzerland",49938,Switzerland,"Zurich, Zürich",Utilities,,agreements,"Private and personal confidential data, IDs, passports, agreements, employee and client documents.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+A10,14/2/2023,9/2/2023,www.a10networks.com,https://www.linkedin.com/company/a10networks/," California, United States",47565,United States,"San Jose, California",Computer Networking Products,,technical documents and agreements,"Private and personal confidential data, a lot of technical documentation, agreements, employee and client documents.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Microgame SpA,15/2/2023,9/2/2023,www.microgame.it,http://www.microgame.it,Italy,47366,Italy,"Benevento, Italy",Software Development,,agreements,"Private and personal confidential data, a lot of ID, credit cards, clients documents, agreements.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+ACS,14/2/2023,6/2/2023,www.acscm.com,https://www.linkedin.com/company/acs-affiliated-construction-services-/," Verona, Wisconsin, United States",48050,United States,"Verona, Wisconsin",Construction,,technical documents and agreements,"Private and personal confidential data, agreements, employee and client documents, a lot of technical documentation.",1,0,0,1,1,1,0,0,0,0,0,0,0,,,0,0
+Cave Beblenheim,12/2/2023,6/2/2023,www.cave-beblenheim.com,https://www.linkedin.com/company/cave-beblenheim/,France,47859,France,"Beblenheim, Grand Est",Beverage Manufacturing,,,"Private and personal confidential data, agreements, employee and client documents.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Helicar,2/2/2023,28/1/2023,www.helicar.cz,http://www.helicar.cz,Czech Republic,50217,Czech Republic,Prague,Truck Transportation,,,"Private and personal confidential data, a lot of passports, contacts, and identifying documents of employees from different European countries, finance information, agreements.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Arnold Clark,17/1/2023,11/1/2023,www.arnoldclark.com,https://www.linkedin.com/company/arnold-clark/," Edinburgh, United Kingdom",54772,United Kingdom," Edinburgh, United Kingdom",Motor Vehicle Manufacturing,,"confidential contracts, agreements, leasing contracts
 description
 car dealer","Private and personal data, passports, IDs,confidential contracts, agreements, leasing contracts, finance information and many others.",1,1,0,0,0,1,1,0,0,0,0,0,0,,,0,0
-DAYTON PROGRESS,17/1/2023,11/1/2023,www.daytonprogress.de,United Kingdom,United States,Machinery Manufacturing,,"stamping schemes, agreements","Private and personal confidential data,customer documents, stampings schemes, passports, agreements, finance and many others.",1,1,0,0,1,1,0,0,0,0,0,0,0,,,0,0
-CDER,8/1/2023,1/1/2023,www.cder.fr,France,"Châlons-en-Champagne, Grand Est",Financial Services,,,"Personal, private data, clients documents, agreements, passports, id and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-SUNY Polytechnic Institute,4/1/2023,1/1/2023,www.sunypoly.edu,United States,"Utica, ny",Higher Education,,,"Private, personal data, SSN, IDs, passports, confident contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Furetank,4/1/2023,1/1/2023,www.furetank.se,Sweden," Donso, Vaestra Goetaland, Sweden",Maritime Transportation,,"forms, agreements, shipment information, piratec incident reports","Personal documents, private data, forms, agreement, contracts, IDs, shipment informaton, piratec incidents records.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
-Sirius Shipping,4/1/2023,1/1/2023,www.siriusshipping.eu,Sweden," Donso, Vaestra Goetaland, Sweden",Maritime Transportation,,"forms, agreement, crew list, shipment information","Personal documents, private data, forms, agreement,passports, crew lists, contracts, IDs, shipment informaton,",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-H-Hotels,4/1/2023,18/12/2022,www.h-hotels.com,Germany,"Bad Arolsen, Deutschland",Hospitality,,,"Private, personal data, clients documents, passports, IDs, employee information, customers records and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-OPUS IT Services,4/1/2023,18/12/2022,www.opusit.com.sg,Singapore," Singapore , Singapore",IT Services and IT Consulting,,"software, source code","Private, personal data, software, source code.",1,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0
-Stratacache,4/1/2023,16/12/2022,www.stratacache.com,United States," Dayton, Ohio ",Software Development,,"tax forms, i-9, w-4, confidential agreements","Personal, private data, tax forms, employee forms, i-9, w-4, passports, SSN, confidential agreements.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
-Tarntank Ship Management,4/1/2023,1/1/2023,www.tarntank.com,Sweden,"Skagen, Denmark",Maritime Transportation,,"waybills, cargo information, agreemnets, ship certificates","Waybills, cargo information, personal documents, private data, contracts, agreements, passports, IDs, ship certificates and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,1,0
+DAYTON PROGRESS,17/1/2023,11/1/2023,www.daytonprogress.de,http://www.daytonprogress.com," Honiley, United Kingdom",53872,United Kingdom,United States,Machinery Manufacturing,,"stamping schemes, agreements","Private and personal confidential data,customer documents, stampings schemes, passports, agreements, finance and many others.",1,1,0,0,1,1,0,0,0,0,0,0,0,,,0,0
+CDER,8/1/2023,1/1/2023,www.cder.fr,https://www.linkedin.com/company/cder-expertise-comptable-et-conseil/," Fere-Champenoise, France",55925,France,"Châlons-en-Champagne, Grand Est",Financial Services,,,"Personal, private data, clients documents, agreements, passports, id and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+SUNY Polytechnic Institute,4/1/2023,1/1/2023,www.sunypoly.edu,https://www.linkedin.com/school/suny-polytechnic-institute/," Utica, New York, USA",55465,United States,"Utica, ny",Higher Education,,,"Private, personal data, SSN, IDs, passports, confident contracts and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Furetank,4/1/2023,1/1/2023,www.furetank.se,http://www.furetank.se," Donso, Vaestra Goetaland, Sweden",57351,Sweden," Donso, Vaestra Goetaland, Sweden",Maritime Transportation,,"forms, agreements, shipment information, piratec incident reports","Personal documents, private data, forms, agreement, contracts, IDs, shipment informaton, piratec incidents records.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,0,0
+Sirius Shipping,4/1/2023,1/1/2023,www.siriusshipping.eu,www.siriusshipping.eu," Donso, Vaestra Goetaland, Sweden",56728,Sweden," Donso, Vaestra Goetaland, Sweden",Maritime Transportation,,"forms, agreement, crew list, shipment information","Personal documents, private data, forms, agreement,passports, crew lists, contracts, IDs, shipment informaton,",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+H-Hotels,4/1/2023,18/12/2022,www.h-hotels.com,www.h-hotels.com," Bad Arolsen, Germany",56503,Germany,"Bad Arolsen, Deutschland",Hospitality,,,"Private, personal data, clients documents, passports, IDs, employee information, customers records and etc.",1,0,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+OPUS IT Services,4/1/2023,18/12/2022,www.opusit.com.sg,https://www.opusit.com.sg/,"Singapore, Singapore",56080,Singapore," Singapore , Singapore",IT Services and IT Consulting,,"software, source code","Private, personal data, software, source code.",1,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0
+Stratacache,4/1/2023,16/12/2022,www.stratacache.com,http://www.stratacache.com/solutions/digital-signage/,"Dayton, Ohio, United States",55516,United States," Dayton, Ohio ",Software Development,,"tax forms, i-9, w-4, confidential agreements","Personal, private data, tax forms, employee forms, i-9, w-4, passports, SSN, confidential agreements.",1,1,0,1,0,1,0,0,0,0,0,0,0,,,0,0
+Tarntank Ship Management,4/1/2023,1/1/2023,www.tarntank.com,http://tarntank.com,Sweden,51740,Sweden,"Skagen, Denmark",Maritime Transportation,,"waybills, cargo information, agreemnets, ship certificates","Waybills, cargo information, personal documents, private data, contracts, agreements, passports, IDs, ship certificates and etc.",1,0,0,0,0,1,0,0,0,0,0,0,0,,,1,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
