@@ -1,421 +1,1080 @@
-Company_Name,Date_of_leak,Company_Address,Company_Country,Industry_Type,Personal Identifiable Information (PII),Financial Data,Healthcare Information,Employee and HR Data,Intellectual Property and Trade Secrets,Customer and Client Data,Legal Documents,Government and Defense Information,Educational Data,Credentials and Access Information,Databases,Website Data,Backup Data,Video and Surveillance Footage,Social Media Data,Utility and Infrastructure Data,Sensitive Communication,Ransomware_Group
-AllCare Pharmacy,2/10/2023,"El Monte, CA",United States,Retail,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Lorenz
-Dee Sign,1/10/2023,"West Chester, OH",United States,Real Estate,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lorenz
-"Felling Trailers, Inc.",13/7/2023,"Sauk Centre, MN",United States,Truck Transportation,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lorenz
-Moore Engineering,31/3/2023,"West Fargo, ND",United States,Civil Engineering,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,Lorenz
-Intrasect Technologies,29/3/2023,"Wabash, Indiana",United States,IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
-NGS Super,25/3/2023,"Sydney, NSW",Australia,Financial Services,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,Lorenz
-"Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa",11/3/2023,"Hermitage, PA",United States,Manufacturing,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,Lorenz
-"Tarolli, Sundheim, Covell & Tummino LLP",14/3/2023,"Cleveland, Ohio",United States,Legal Services,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Lorenz
-Manning Building Supplies,13/3/2023,"Ocala, Florida",United States,Construction,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
-Hopsteiner,10/2/2023,"Yakima, WA",United States,Food and Beverage Services,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
-AmerisourceBergen/Censora - MWI Animal Health,22/1/2023,"Boise, ID",United States,Veterinary Services,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lorenz
-KTUA Landscape Architecture and Planning,17/10/2023,"San Diego, CA",United States,Architecture and Planning,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-"Comtek Advanced Structures, a Latecoere Company",17/10/2023,"Burlington, Ontario",Canada,Aviation and Aerospace Component Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-ExdionInsurance,17/10/2023,"Plano, Texas",United States,Business Consulting and Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Petersen Johnson,15/10/2023,"Phoenix, Arizona",United States,Law Practice,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Ted Pella Inc.,10/10/2023,"Redding, CA",United States,Nanotechnology Research,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Sabian Inc,10/10/2023,"Marshfield, Massachusetts",United States,Entertainment Providers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Chula Vista Electric (CVE),6/10/2023,"Santee, California",United States,Construction,1,1,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
-C.F. Service and Supply,6/10/2023,C F Service & Supply,United States,Oil and Gas,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Notel,5/10/2023,"Warsaw, Mazowieckie",Polska,Telecommunications,0,0,0,0,1,0,0,0,0,0,1,0,1,,,,,8Base
-Muenz-Engineered Sales,4/10/2023,"Summit, New Jersey",United States,Industrial Machinery Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-SUD TRADING COMPANY,3/10/2023,"Villetelle, Occitanie",France,Wholesale,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-WEBBER RESTAURANT GROUP,3/10/2023,"Groton, Ma",United States,Restaurants,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Praxis Arndt und Langer,2/10/2023,Darmstadt,Germany,Dentistry,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Springer Eubank,2/10/2023,"Wilmington, North Carolina",United States,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-The Envelope Works Ltd,30/9/2023,"Blackburn, Lancashire",United Kingdom,Printing Services,1,1,0,0,0,1,0,0,0,0,1,0,0,,,,1,8Base
-Ford Covesa,18/9/2023,MOLLET DEL VALLÃˆS,EspaÃ±a,Retail,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-UNIVERSAL REALTY GROUP,15/9/2023,"Halifax, NS",Canada,Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Conselho Superior da JustiÃ§a do Trabalho,14/9/2023,"BrasÃ­lia, DF",Brasil,Government Administration,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-FRESH TASTE PRODUCE USA AND ASSOCIATES INC.,13/9/2023,"Philadelphia, Pennsylvania",United States,Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Prodegest Assessors,11/9/2023,"Terrassa, Barcelona",EspaÃ±a,Legal Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-VVandA,11/9/2023,Singapore,Singapore,Venture Capital and Private Equity Principals,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Fenn Termite and Pest Control,7/9/2023,"Buena Park, CA",United States,Consumer Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Petkus Brothers,6/9/2023,"Rocklin, California",United States,Construction,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-PRIDE GLOBAL CONSULTING SL,6/9/2023,"New York, New York",United States,Human Resources Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-PT. Cahaya Benteng Mas,5/9/2023,"Jakarta Pusat, DKI Jakarta",Indonesia,Wholesale Building Materials,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-"Shanghai FRP Research Institute Co., Ltd.",3/9/2023,"Shanghai, Shanghai",ä¸­å›½,Research Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-KLM Laboratories Pvt. Ltd,2/9/2023,"Mumbai, Maharashtra",India,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Varna Packaging,2/9/2023,"Ratmalana, Western Province",à·à·Šâ€à¶»à·“ à¶½à¶‚à¶šà·à·€ à®‡à®²à®™à¯à®•à¯ˆ,Packaging & Containers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-SKYROOT,2/9/2023,"Hyderabad, Telangana",India,Space Research and Technology,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Sydenham Laboratories,1/9/2023,"Dasmarinas City, Cavite",Philippines,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-FA Foundry,1/9/2023,"McAllen, Texas",United States,Industrial Machinery Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-INSTITUTO NACIONAL DE ELECTRIFICACION,1/9/2023,"Guatemala, Guatemala",Guatemala,Renewable Energy Semiconductor Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-HFH Capital,1/9/2023,"Philadelphia, Pennsylvania",United States,Business Consulting and Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-Bahamas Medical and Surgical Supplies,31/8/2023,Nassau,The Bahamas,Retail Health and Personal Care Products,1,1,0,0,1,0,0,0,1,0,0,0,0,,,,,8Base
-The Law Offices of Steven H. Heisler,31/8/2023,"1011 N Calvert St, Baltimore, MD 21202, United States",United States,Law Practice,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-Kevills Solicitors,31/8/2023,"Chorley, Lancashire",United Kingdom,Law Practice,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-Mil-Ken Travel,31/8/2023,"Littleport, England",United Kingdom,Truck Transportation,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Royal Oak Pet Clinic,31/8/2023,"Victoria, British Columbia",Canada,Veterinary,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Hoosick Falls Central School District,31/8/2023,New York,United States,Primary and Secondary Education,1,1,0,1,0,0,0,0,1,0,0,1,0,,,,,8Base
-ToyotaLift Northeast,23/8/2023,"Phoenixville, Pennsylvania",United States,Machinery Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,,,,1,8Base
-Aspect Structural Engineers,22/8/2023,"Vancouver, BC",Canada,Civil Engineering,1,1,0,1,1,1,0,0,0,0,0,0,0,,,,,8Base
-ANS,22/8/2023,Manchester,United Kingdom,IT Services and IT Consulting,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Keystone Insurance Services,22/8/2023,"Provo, Utah",United States,Insurance,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-MBS Equipment TTI,11/8/2023,"Los Angeles, CA",United States,Entertainment Providers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-SatCom Marketing,13/8/2023,"Brooklyn Park, MN",United States,Advertising Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Oregon Sports Medicine,13/8/2023,"Wilsonville, Oregon",United States,Medical Practices,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-Delaney Browne Recruitment,13/8/2023,"Berkshire, Suite 53 London St, Reading RG1 4QD, United Kingdom",United Kingdom,Job Recruitment,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-"Rossman Realty Group, inc.",10/8/2023,"Cape Coral, FL",United States,Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-"RevZero, Inc",10/8/2023,"Chanhassen, MN",United States,Medical Device,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-Jacklett Construction LLC,8/8/2023,"ALPHARETTA, Georgia",United States,Construction,1,1,0,1,1,1,0,0,1,0,0,0,0,,,,,8Base
-Danbury Public Schools,12/8/2023,Massachusetts,United States,Photography,1,0,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-BoomData |Data and Analytics Consultancy,1/8/2023,"North Sydney, NSW",Australia,IT Services and IT Consulting,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,1,8Base
-CROWD,1/8/2023,"Poole , Dorset",United Kingdom,Advertising Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-DV8 Technology Group,1/8/2023,"Houghton Estate, Gauteng",South Africa,Information Technology & Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-"FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD",1/8/2023,"Ho Chi Minh, Ho Chi Minh City",Viá»‡t Nam,Design Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-Kersey CO,1/8/2023,"Kersey, Colorado",United States,Agricultural Community,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Institut Mensalus S.L.,1/8/2023,"Barcelona, Barcelona",EspaÃ±a,Wellness and Fitness Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Spectra Industrial,1/8/2023,Zambia,Zambia,Oil and Gas,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-EJM Engineered Systems,31/7/2023,"Shotton Colliery, Durham",United Kingdom,Mechanical Or Industrial Engineering,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-"Exbon Development, Inc",30/7/2023,"Garden Grove, CA",United States,Construction,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,1,8Base
-"CashCall, Inc.",22/7/2023,"Orange, CA",United States,Financial Services,1,1,0,1,0,0,0,0,1,0,1,0,0,,,,1,8Base
-Venture Drilling Supply,18/7/2023,"Pflugerville, TX",United States,Mining,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Info Salons,20/7/2023,Dubai,Ø§Ù„Ø¥Ù…Ø§Ø±Ø§Øª Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© Ø§Ù„Ù…ØªØ­Ø¯Ø©,Events Services,1,1,0,1,0,1,0,0,1,0,1,0,0,,,,,8Base
-CPA Advisors Group,21/7/2023,"Columbus, Ohio",United States,Accounting,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-BTU,17/7/2023,"North Billerica, Massachusetts",United States,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-ANL Packaging,17/7/2023,"Wellen, BelgiÃ«",BelgiÃ« / Belgique / Belgien,Packaging and Containers Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Dental One Craigieburn,17/7/2023,Craigieburn,Australia,Medical Practices,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Jadranka Group,17/7/2023,LEVES,France,Tourisma and Hospitality,,1,0,1,0,0,0,0,,0,0,0,0,,,,,8Base
-The Traffic Tech,17/7/2023,"Chicago, Illinois",United States,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Telepizza,17/7/2023,"San SebastiÃ¡n de los Reyes, Madrid",EspaÃ±a,Hospitality,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Citelis Mobility,18/7/2023,"Morelia, MichoacÃ¡n",MÃ©xico,Commercial Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-Advanced Fiberglass Industries,15/7/2023,Umm Al Quawain,United Arab Emirates,Plastics Manufacturing,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-Weitkamp Â· Hirsch and Kollegen Steuerberatungsgesellschaft mbH,15/7/2023,"Schleswig, Schleswig-Holstein, Germany",Germany,Tax Consulting,0,0,0,1,0,1,0,0,0,0,0,0,0,,,,1,8Base
-Pesquera Diamante S.A.,15/7/2023,"Lima, Lima",PerÃº,Food and Beverage Manufacturing,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,1,8Base
-Cabra Consulting Ltd,15/7/2023,"Calgary, Alberta",Canada,Oil and Gas,0,1,0,1,0,0,1,1,0,0,0,0,0,,,,,8Base
-ROBERT L BAYLESS PRODUCER LLC,14/7/2023,"Denver, Colorado",United States,Oil and Gas,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
-KIRWIN FRYDAY MEDCALF Lawyers LLP,13/7/2023,"London, Ontario",Canada,Legal Services,1,1,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
-"Jeff Wyler Automotive Family, Inc.",11/7/2023,"Batavia, OH",United States,Automotive,1,1,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
-Polanglo,10/7/2023,"Warszawa, WojewÃ³dztwo mazowieckie",Polska,International Trade and Development,0,1,0,0,0,0,1,0,0,0,1,0,0,,,,,8Base
-CON-STRUCT,3/7/2023,"New York, NY",United States,Apparel & Fashion,0,1,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
-PORTERROOFING,3/7/2023,"McMinnville, TN",United States,Construction,1,0,0,1,0,1,0,0,0,0,1,0,0,,,,,8Base
-ISPE Connecting Pharmaceutical Knowledge,3/7/2023,"North Bethesda, Maryland",United States,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,0,0,1,0,0,,,,,8Base
-PNEUMAX,3/7/2023,"Lurano, (BG)",Italia,Automation Machinery Manufacturing,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
-LEGALILAVORO,3/7/2023,"Milan, Lombardy",Italia,Legal Services,1,0,0,1,0,1,0,0,0,0,0,0,0,,,,,8Base
-Lysander Shipping,3/7/2023,New Malden,United Kingdom,Truck Transportation,0,1,0,1,0,0,0,0,0,0,1,0,0,,,,,8Base
-CLEAR MEDI HEALTHCARE,3/7/2023,"Gurgaon, Haryana",India,Hospitals and Health Care,1,1,0,1,0,1,0,0,0,0,1,0,0,,,,,8Base
-PORTBLUE,26/6/2023,"AlcÃºdia, Islas Baleares",EspaÃ±a,Hospitality,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-LOONGSON,26/6/2023,China,China,Computer Hardware,0,0,0,0,1,0,0,0,0,0,0,0,0,,,,,8Base
-Futura AgronegÃ³cios,26/6/2023,"Araguari, Minas Gerais",Brasil,Farming,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-BLUESAGE,26/6/2023,"Englewood Cliffs, New Jersey",United States,Software Development,1,1,0,0,0,0,0,0,1,0,0,0,0,,,,,8Base
-"PrintGlobe, Inc.",26/6/2023,"Austin, TX",United States,Advertising Services,1,1,0,0,0,0,0,0,0,0,1,0,0,,,,,8Base
-"TARLE LAW, P.C.",26/6/2023,Southern California,United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Texas Hotel and Lodging Association,26/6/2023,"Austin, TX",United States,Travel Arrangements,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Onsupport Corporation,26/6/2023,"Austin, TX",United States,IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-The Akin Law LLC,26/6/2023,"Austin, Texas",United States,Law Practice,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-CYBERFREIGHT SYSTEMS MARITIMES INC.,25/6/2023,Saint John,United States,Maritime Industry,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Law Offices of Sergio J. Siderman,22/6/2023,"Los Angeles, California",United States,,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Studio Legale Ranchino,22/6/2023,"Rome, Latium",Italia,Law Practice,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Ligas Gerais Industria E Comercio,22/6/2023,"Matozinhos, Minas Gerais",Brasil,Mining,1,0,0,0,0,0,1,0,0,0,0,0,0,,,,,8Base
-Stone Fox Ventures,22/6/2023,"Wyoming, Michigan",United States,Industrial Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Hornbill,22/6/2023,London,United Kingdom,Software Development,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-"DANIEL C. HARRIS, O.D",22/6/2023,"Cincinnati, OH",United States,Optometry,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Law Society of South Africa,21/6/2023,Pretoria,South Africa,Legal Services,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Transprensa,19/6/2023,"Cra. 5 #19-53, COMUNA 3, Cali, Valle del Cauca",Colombia,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
-Ampla DivisÃ³rias,19/6/2023,"Belo Horizonte, Minas Gerais",Brasil,Architecture and Planning,1,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-RJP MEDICAL LTDA,19/6/2023,Belo Horizonte,Brazil,,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-SINTTEL,19/6/2023,"Brasilia, Distrito Federal",Brasil,Non-profit Organizations,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-CLONARTE,19/6/2023,"Belo Horizonte, MG",Brasil,Printing Services,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-PREMIER HOSPITAL DIA,19/6/2023,"Belo Horizonte, Minas Gerais",Brasil,Hospitals and Health Care,1,0,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
-TECHCERT,19/6/2023,Dehiwala,à·à·Šâ€à¶»à·“ à¶½à¶‚à¶šà·à·€ à®‡à®²à®™à¯à®•à¯ˆ,Computer and Network Security,1,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-LUZBOA S.A,19/6/2023,Viseu,Portugal,Utilities,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-MAXIMUM PRIME ALIMENTOS EIRELI,19/6/2023,"Juiz De Fora, Minas Gerais",Brasil,Restaurants,1,0,0,0,0,0,0,0,0,0,1,0,0,,,,,8Base
-Bibliotheek Gouda,11/6/2023,Gouda,Nederland,Libraries,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Good Oil Company,1/6/2023,"Winamac, Indiana",United States,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Malkasian Accountancy,9/5/2023,"Sacramento, California",United States,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-SiComputer is a leader in the Italian information technology.,29/4/2023,"Via della Dogana, 8/2 48022 Lugo (RA) Italy",Italy,Computer Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Asbestos-Inspections-Solution-Management,2/4/2023,Texas,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Just us lawyers,1/4/2023,"Kelvin Grove, Queensland",Australia,Legal Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Csc Baixo Sul Assessoria e Consultoria Empresarial e Contabil LTDA,24/3/2023,Ituberá / BA,Brasil,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Artconta - Contabilidade e. AssistÃªncia Fiscal,24/3/2023,"Salvador, Bahia",Brasil,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-CONTASS,24/3/2023,"Montes Claros, Minas Gerais",Brasil,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-General de Alimentos Nisa C.A. (GENICA),16/3/2023,"Maracaibo, Zulia",Venezuela,Food & Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Zenex,15/3/2023,"Santa Clara, CA",United States,Staffing and Recruiting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Lake Cable,12/3/2023,"Bensenville, IL",United States,"Appliances, Electrical, and Electronics Manufacturing",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Midway Ford,12/3/2023,"Roseville, MN",United States,Motor Vehicle Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Thayer Academy,7/3/2023,"Braintree, MA",United States,Primary and Secondary Education,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-HELPHONE,5/3/2023,"Artica, Navarra",EspaÃ±a,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-SITARA,10/2/2023,"Woodside, ny",United States,Retail,0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,8Base
-Veal and Prasad,2/3/2023,Hillcrest,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-COMPAGNIE REGIONALE D'ALIMENTS (COREAL),23/2/2023,YFFINIAC,France,Food Production,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-IMASA,13/2/2023,"Oviedo, Asturias",EspaÃ±a,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-"MRO SUPPORT, INC",5/2/2023,"Boca Raton, Florida",United States,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Richard W. Fuller CPA,25/1/2023,"Glens Fall, NY",United States,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Neighborhood Progress Fund,27/1/2023,PHILADELPHIA,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Print Globe,27/1/2023,"Austin, TX",United States,Advertising Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-China Export &amp; Credit Insurance Corporation,24/1/2023,"Beijing, China",China,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Conklin Benham,24/1/2023,"Bingham Farms, MI",United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-FORMA ESPACOS IMOBILIARIOS LTDA,14/1/2023,"Bento Goncalves, Rio Grande Do Sul",Brasil,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Ayers Mechanical Group,10/1/2023,"Van Wert, Ohio",United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
-Hughes Gill Cochrane Tinetti,14/10/2023,"Walnut Creek, CA",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Saltire Energy,14/10/2023," Aberdeen, Aberdeenshire",United Kingdom,Oil and Gas,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Centek industries,13/10/2023," Thomasville, Georgia",United States,Consumer Goods,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-NachtExpress Austria GmbH,13/10/2023,"Schwechat, Niederösterreich",Austria,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-WCM Europe,13/10/2023," Basildon, Essex",United Kingdom,Motor Vehicle Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Starr Finley,13/10/2023," San Francisco, CA",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Metro Transit,12/10/2023,"St. Louis, MO",United States,"Transportation, Logistics, Supply Chain and Storage",1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Stavanger Municipality,8/10/2023,Stavanger,Norway,Government Agency,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-CHARMANT Group,8/10/2023," Sabae City, Fukui Pref.",United States,"Retail, Apparel and Fashion",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Cinepolis USA,8/10/2023," Dallas, Texas",United States,Entertainment Providers,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Filtration Control,8/10/2023,BRACKMILLS,United Kingdom,Motor Vehicle Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Security Instrument,8/10/2023," Wilmington, Delaware",United States,Security and Investigations,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Roof Management,8/10/2023,"  Marysville, Ohio",United States,Real Estate,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Wexas,2/10/2023,"London, United Kingdom",,Travel,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Plumbase,2/10/2023," Milton Keynes, Buckinghamshire ",United Kingdom,Wholesale Building Materials,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Kessler Collins,2/10/2023,"Dallas, Texas",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Terralogic,2/10/2023," San Jose, CA",United States,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Van Eck Transport,2/10/2023,Veenendaal,Nederland,Truck Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-BAMO,2/10/2023," San Francisco, CA",United States,Architecture and Planning,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Amanzi Marble & Granite,2/10/2023," Kernersville, North Carolina",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Webb Landscape,5/10/2023,"  Bellevue, Idaho",United States,Landscaping Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Robuck Homes,2/10/2023,"
-Raleigh, NC",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Jacobson,2/10/2023,"
-Elizabeth, New Jersey",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-PASCHAL - Werk G Maier,22/9/2023," Steinach, Deutschland",Deutschland,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-TSC,22/9/2023,"Houston, Texas",United States,Oil and Gas,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Rea Magnet Wire,26/9/2023," Fort Wayne, IN",United States,Appliances comma Electrical comma and Electronics Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-First Line,22/9/2023,"Oxfordshire, United Kingdom",United Kingdom,Automotive Components,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Vucke,22/9/2023,"Kosice, Slovak Republic",Slovakia,Tourism,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Carpet One,18/9/2023,"North Bay, Ontario",Canada,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Dpc & S,18/9/2023,"Arizona, United States",United States,Non-profit Organization Management,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Majestic Spice,8/9/2023," Los Angeles, California",United States,Food Production,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Bordelon Marine,8/9/2023," Houma, Louisiana",United States,Maritime Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Master Interiors,8/9/2023,"Delaware, United States",United States,Interior Design,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Markentrainer Werbeagentur,9/9/2023,"St. Leon-Rot, 68789, DE",Germany,"
-Automation Machinery Manufacturing",1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Kikkerland Design,9/9/2023," New York, NY",United States,Design Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Firmdale Hotels,5/9/2023,London,United Kingdom,Hospitality,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-"Alfagomma, Argus Fluidhandling Ltd",26/8/2023,"Vimercate, Italy",United States,Industrial Machinery Manufacturing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Oneonline,24/8/2023,"Utah, United States",United States,Private Equity,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Legends Limousine,24/8/2023,"  Brooklyn, New York",United States,Ground Passenger Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Bolton Group,24/8/2023,Milan,Italy,Industria manifatturiera,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Stanford Transportation Inc,24/8/2023," Bakersfield, California",United States,Truck Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-BTC Power,24/8/2023," Santa Ana, California",United States,Appliances comman Electrical comman and Electronics Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Miami Management,24/8/2023,"Florida, United States",United States,Management Company,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-DSA Law Pty Ltd,24/8/2023," Melbourne, Victoria",Australia,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-ABS Auto Auctions,30/8/2023,"California, United States",United States,Auction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-EAI,14/8/2023,United States,United States,Oil and Gas,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Algorry Zappia & Associates,16/8/2023," New South Wales, Australia",Australia,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Top Light,14/8/2023,"Spenge, Germany",Germany,Electric Lighting Equipment Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-"Birch, Horton, Bittner & Cherot",6/8/2023," Anchorage, Alaska",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Aapd,6/8/2023,Australia,Australia,"Technology, Information and Media",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-"Garage Living, The Dispenser USA",6/8/2023,Ontario,Canada,Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Xplain,5/8/2023,"Interlaken, Switzerland",Switzerland,IT Services and IT Consulting,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,PlayNews
-Grupo MH,29/7/2023," Barcelona, Spain",Spain,Facilities Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Scharco Elektronik,29/7/2023," Wuppertal, North Rhine-Westphalia",Germany,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-John Mulder Heating & Air Conditioning,29/7/2023," British Columbia, Canada",Canada,Utilities,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Centennial Management,25/7/2023,"  Florida, United States",United States,Financial Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Woodbine Hospitality,25/7/2023," Syracuse, New York",United States,Hospitality,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-ECS Technology Group,25/7/2023," Mansfield, TX",United States,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Fernmoor Homes,25/7/2023," Jackson, NJ",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Kensington Publishing,25/7/2023," New York, United States",United States,Book and Periodical Publishing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Texas Heat Treating,15/7/2023," Round Rock, Texas",United States,Machinery Manufacturing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Lawer SpA,13/7/2023," Piedmont, Italy",Italy,Industrial Automation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Indiana Dimension,13/7/2023,"Logansport, IN",United States,Paper and Forest Product Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Star Island Resort,13/7/2023," Kissimmee, FL",United States,Hospitality,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Lazer Tow,13/7/2023,"Grandview, Missouri",United States,Individual and Family Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Intoximeters,11/7/2023," St.Louis, MO",United States,Consumer Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Safety Network,12/7/2023," Granite Bay, California",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Capacity LLC,12/7/2023," North Brunswick, NJ",United States,Transportation comman Logistics comma Supply Chain and Storage,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Betty Lou's,12/7/2023," McMinnville, Oregon",United States,Food Production,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-MUJI Europe Holdings Limited,12/7/2023," London, London",United States,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Geneva Software,12/7/2023," Herndon, VA",United States,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Uniquify,12/7/2023," San Jose, CA",United States,Semiconductor Manufacturing,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-NST Attorneys at Law,12/7/2023," Memphis, TN",United States,Legal Services,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,PlayNews
-Cambridge Group of Clubs,3/7/2023," Toronto, Ontario",Canada,Wellness and Fitness Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Algotech,3/7/2023,Prague 8 - Karlín,Czech Republic,"
-IT Services and IT Consulting",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Wolfs Block Management Limited,27/6/2023,"Birmingham, United Kingdom",United Kingdom,Real Estate,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Lorclon,27/6/2023,"London, United Kingdom",United Kingdom,Civil Engineering,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Allpro Consulting Group,27/6/2023," Dallas, Texas",United States,Telecommunications,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Luís Simoes,27/6/2023,"Loures, Lisbon, Portugal",Portugal,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Federation Francaise de Rugby,27/6/2023," Marcoussis, France",France,Sports devant spectateurs,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-PWI Engineering,27/6/2023," Cherry Hill, NJ",United States,Mechanical Or Industrial Engineering,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Summit Hut,27/6/2023," Tucson, Arizona",United States,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Dancie Perugini Ware Public Relations,27/6/2023," Houston, Texas",United States,Public Relations and Communications Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Peter Mark,27/6/2023," Leinster, Ireland",Ireland,Retail Apparel and Fashion,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Twai,27/6/2023," Southfield, Michigan",United States,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Pacte Novation,27/6/2023,ISSY LES MOULINEAUX,France,IT Services and IT Consulting,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Dameron Alloy Foundries,28/6/2023,"Compton, California",United States,Mining,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Mesa Cold Storage,27/6/2023,"Tolleson, Arizona",United States,Transportation comma Logistics comma Supply Chain and Storage,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Salins Group,27/6/2023," Clichy, France",France,Mining,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Novasoft,27/6/2023,Dubai,Dubai,IT Services and IT Consulting,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Nubus,27/6/2023," Schaumburg, USA",United States,IT Services and IT Consulting,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Shows & Artists,11/6/2023,"München, Bayern",Germany,Events Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-NORANET - CZ,11/6/2023,"Prague, Czechia",Czech Republic,Telecommunications,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Abeko,11/6/2023,"Beverwijk, Netherlands",Netherlands,Civil Engineering,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Buffalo Niagara Association,11/6/2023," Amherst, NY",United States,Real Estate,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-BMD Systemhaus,11/6/2023,"Steyr, Oberösterreich",Austria,Software Development,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-CS Cargo Group,14/6/2023,Prague 4,Czech Republic,Truck Transportation,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Alberta Newsprint,11/6/2023," Whitecourt, Alberta",Canada,Paper and Forest Product Manufacturing,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Fortress Paper,11/6/2023," Thurso, QC",Canada,Paper & Forest Products,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Globalcaja,11/6/2023," Albacete, Albacete",Spain,Financial Services,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Soroc,2/6/2023," Woodbridge, ON",Canada,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Aria Online,1/6/2023,"Louisiana, United States"," Louisiana, United States",Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Optimus Steel,1/6/2023," Vidor, Texas",United States,Mining,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Studioline Photography,1/6/2023,"Dänischenhagen, Schleswig-Holstein",Germany,Photography,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Grupo Corporacion Control,1/6/2023,"Monterrey, Nuevo León",Mexico,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Mayberry Investments,1/6/2023,Kingston,Jamaica,Investment Banking,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Paragon Software Lanka,1/6/2023,Nugegoda,Sri Lanka,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Black Cat Networks,26/5/2023,Singen,Germany,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Royal Centre,31/5/2023,"Vancouver, Canada",Canada,Retails,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-SOWITEC,25/5/2023,"Sonnenbühl, Deutschland",Germany,Renewables & Environment,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Germany,26/5/2023,Berlin,Germany,International Trade and Development,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-JP Maguire & Associates,19/5/2023," Waterbury, Connecticut",United States,Construction,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,PlayNews
-Sauerbruch Hutton,19/5/2023,"Berlin, Berlin",Germany,Architecture and Planning,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,PlayNews
-KLC Network Services,18/5/2023,"Herndon, Virginia",United States,Defense and Space Manufacturing,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,PlayNews
-Vocalcom,11/5/2023,Paris,France,Software Development,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Negma Business Solutions,11/5/2023," Dallas, Texas",United States,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Libra Virtua,11/5/2023,Hungary,Hungary,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,PlayNews
-City of Lowell,11/5/2023," Lowell, Massachusetts",United States,Government Administration,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Nova Group,11/5/2023,South Australia,Australia,Business Consulting and Services,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-UECC,2/5/2023,Oslo,Norway,Maritime Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Groupe Gambetta,2/5/2023,CHOLET,France,Real Estate,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Structab AB (MegTax),28/4/2023,Halmstad,Sweden,Information Technology & Services,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Corrib Oil,28/4/2023,Ireland,Ireland,Retail,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Coldiretti,28/4/2023,Rome,Italy,Food Production,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Huissiers,28/4/2023,Singapore,France,Photography,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Bang IT Solutions,28/4/2023," Sydney, NSW",Australia,Information Technology & Services,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-PESA Bydgoszcz,14/4/2023,Bydgoszcz,Poland,Industrial Machinery Manufacturing,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-CH Media,3/5/2023,"Aarau, Aargau",Switzerland,Media Production,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Schirm,21/4/2023,"Schönebeck, Saxony-Anhalt",Germany,Chemical Manufacturing,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Vleeswarenfabriek Jac Michiels,21/4/2023,Antwerpen,Belgium,Food and Beverage Manufacturing,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Legion Aero,21/4/2023,United States,United States,Airlines and Aviation,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-PKF Antares,21/4/2023," Calgary, Alberta",Canada,Accounting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Palo Alto County Sheriff,29/4/2023," Iowa, United States",United States,Government Administration,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Jablite,8/4/2023," Hindley Green, England",United Kingdom,Construction,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Pizza 73,7/4/2023,"Alberta, Canada",Canada,Food and Beverage Services,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Kk Mehta Cpa Associates,7/4/2023," Albany, New York",United States,Accounting,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Guyana Goldfields,6/4/2023," Toronto, Ontario",Canada,Mining,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Lysander Associates,6/4/2023,Godalming,United Kingdom,Construction,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Optica,6/4/2023," Washington, DC",United States,Non-profit Organizations,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-draftPros,28/3/2023," Miami Lakes, Florida",United States,Telecommunications,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-TaxAssist Accountants,28/3/2023," Norwich, Norfolk",United Kingdom,Accounting,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Norman Shutters,28/3/2023,"Albion, Queensland",United States,Wholesale,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Pine Tree Commercial Realty,28/3/2023," Northbrook, IL",United States,Real Estate,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Berga Recycling,28/3/2023,"Laval, Canada",Canada,Wholesale Import and Export,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Stanley Steemer,28/3/2023,"Dublin, OH",United States,Consumer Services,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Royal Dirkzwager,16/3/2023," Maassluis, South Holland",Netherlands,Maritime Transportation,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Russell Finex,18/3/2023," Feltham, MIddx",United Kingdom,Mechanical Or Industrial Engineering,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Secure Wrap,19/3/2023," Miami, FL",United States,Consumer Services,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Leemock,20/3/2023,"Seoul, South Korea",United States,Legal Services,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Real Pro,20/3/2023,"Fort Lauderdale, Florida",United States,Real Estate,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Oakland,4/3/2023," Oakland, California",United States,Government Administration,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,PlayNews
-InPro electric,25/2/2023,Wolfsburg,Germany,Automation Machinery Manufacturing,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Energie Pool Schweiz,20/2/2023,"Zurich, Zürich",Switzerland,Utilities,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-A10,14/2/2023,"San Jose, California",United States,Computer Networking Products,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Microgame SpA,15/2/2023,"Benevento, Italy",Italy,Software Development,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-ACS,14/2/2023,"Verona, Wisconsin",United States,Construction,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Cave Beblenheim,12/2/2023,"Beblenheim, Grand Est",France,Beverage Manufacturing,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Helicar,2/2/2023,Prague,Czech Republic,Truck Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Arnold Clark,17/1/2023," Edinburgh, United Kingdom",United Kingdom,Motor Vehicle Manufacturing,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,PlayNews
-DAYTON PROGRESS,17/1/2023,United States,United Kingdom,Machinery Manufacturing,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-CDER,8/1/2023,"Châlons-en-Champagne, Grand Est",France,Financial Services,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-SUNY Polytechnic Institute,4/1/2023,"Utica, ny",United States,Higher Education,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Furetank,4/1/2023," Donso, Vaestra Goetaland, Sweden",Sweden,Maritime Transportation,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Sirius Shipping,4/1/2023," Donso, Vaestra Goetaland, Sweden",Sweden,Maritime Transportation,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-H-Hotels,4/1/2023,"Bad Arolsen, Deutschland",Germany,Hospitality,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-OPUS IT Services,4/1/2023," Singapore , Singapore",Singapore,IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PlayNews
-Stratacache,4/1/2023," Dayton, Ohio ",United States,Software Development,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-Tarntank Ship Management,4/1/2023,"Skagen, Denmark",Sweden,Maritime Transportation,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,PlayNews
-Somagic,3/10/2023,"La GenÃ¨te, SaÃ´ne-et-Loire",France,Consumer Goods,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Windak,2/10/2023,"Peetri, Harjumaa",Eesti,Industrial Automation,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Medusa
-Karam Chand Thapar & Bros Coal Sales,2/10/2023,"Kolkata, West Bengal",India,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Acoustic Center,25/9/2023,PARIS,France,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Medusa
-Philippine Health Insurance,23/9/2023,"Citystate Centre, 709 Shaw Boulevard, Oranbo, Pasig",Philippines,Hospitals and Health Care,1,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,Medusa
-"Franktronics, Inc",23/9/2023,"HAYES, Virginia",United States,Information Technology & Services,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,Medusa
-Gulf American Lines,20/9/2023,"Berkeley Heights, New Jersey",United States,Transportation/Trucking/Railroad,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Chait,20/9/2023,"LOS ANGELES, CA  91605",United States,Architecture and Planning,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
-Auckland Transport,18/9/2023,"Auckland, Auckland",New Zealand / Aotearoa,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Medusa
-Steripharma,11/9/2023,Casablanca,Morocco,Pharmaceutical Manufacturing,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Wave Hill,11/9/2023,"Bronx, New York",United States,"Museums, Historical Sites, and Zoos",1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Jules B,4/9/2023,"Newcastle Upon Tyne, Tyne & Wear",United Kingdom,Retail Apparel and Fashion,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Betton France,4/9/2023,"PLACE CHARLES DE GAULLE, Betton, Bretagne 35831, FR",France,Government Administration,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,Medusa
-Skynet,30/8/2023,"6630 Fm 1463 Rd 255 Step 500, Katy, Texas, 77494",United States,Internet Marketplace Platforms,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Medusa
-Aranui Cruises,30/8/2023,"PAPEETE, TAHITI",France,Travel Arrangements,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Axis Elevators,25/8/2023,"Unit G1. Blackfriars Foundry Annexe. 65 Glasshill Street. London,  SE1 0QR. United Kingdom, GB",United Kingdom,Industrial Machinery Manufacturing,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Medusa
-Durham Fasteners,25/8/2023,"Pickering, ON",Canada,Wholesale Import and Export,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Medusa
-LEN Italia,25/8/2023,Via Golfo dei Poeti 1/A - 43126 Parma,Italy,Professional Training and Coaching,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
-Sartrouville France,19/8/2023,Sartrouville,France,Government Administration,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
-The International Civil Defense Organization,19/8/2023,Geneva,Schweiz/Suisse/Svizzera/Svizra,Government Relations Services,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,Medusa
-Novi Pazar put ad,19/8/2023,"36300 Novi Pazar, Serbia",Serbia,Civil Engineering,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,Medusa
-Postel SpA,15/8/2023,Roma,Italia,IT Services and IT Consulting,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
-Borets (Levare.com),14/8/2023,"Level 8, Burj Daman Dubai International Financial Centre",United Arab Emirates,Oil and Gas,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,Medusa
-CB Energy Australlia,14/8/2023,"Beenleigh, Queensland",Australia,"Electric Power Transmission, Control, and Distribution",1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,Medusa
-Emerson School District,8/8/2023,"Emerson, Bergen County, New Jersey, 07630",United States,Primary and Secondary Education,1,1,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,Medusa
-St Landry Parish School Board,31/7/2023,"Opelusas, Louisiana",United States,Education Administration Programs,1,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,Medusa
-Ace Micromatic Group,31/7/2023,"Bangalore, Karnataka",India,Machinery Manufacturing,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,Medusa
-The Sinbad Club,25/7/2023,"10 Elmenya Street, Cairo, Cairo, HELIOPOLIS",Egypt,Hospitality,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
-Cafe Britt,23/7/2023,"2960 NW 72nd Ave, Miami, Florida, 33122",United States,Manufacturing,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,1,1,Medusa
-Sun Pain Management,23/7/2023,"Phoenix, Arizona",United States,Medical Practices,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
-DTD Express,18/7/2023,"Leicesteer, Leicestershire",United Kingdom,Consumer Services,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
-Nini Collection Ltd (Nini's Jewels),18/7/2023,"Westheimer Rd Ste 330, Houston, Texas, 77056",United States,Retail Luxury Goods and Jewelry,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,Medusa
-Tracker de Colombia SAS,7/7/2023,CARRERA 7 156 78 TORRE 2 OFICINAS 1202 Y 1203 BOGOTA,Colombia,Information Technology & Services,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Yunus Emre Institute Turkey,4/7/2023,Ankara,Turkey,Non-profit Organizations,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,Medusa
-Luna Hotels & Resorts,3/7/2023,"Lote H1 Avenida Da Marina, Vilamoura, Faro, 8125-401",Portugal,Hospitality,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
-Mutuelle LMP,3/7/2023,"Versailles, ÃŽle-de-France",France,Insurance,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,1,1,Medusa
-Universitas Matthiae Belii association,25/6/2023,"12 Narodná, Majer, Banskobystricky, 974 01",Slovakia,Higher Education,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,Medusa
-Real Estate Systems Integrator,25/6/2023,"560 Lincoln Rd Ste 203, Miami Beach, Florida, 33139",United States,"Technology, Information and Internet",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Medusa
-Kramer Enterprises,23/6/2023,"Fort Atkinson, WI 53190",United States,Building Construction,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,Medusa
-Comision Nacional de Valores,11/6/2023,25 de Mayo 175 - CABA,Argentina,Capital Markets,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
-GAE Construction,11/6/2023,JUBILEE INDUSTRIAL ESTATE ASHINGTON NE63 8UB,United Kingdom,Building Construction,1,1,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
-Tour Partner Group,7/6/2023,"66-68 College Rd Fl 5, London, Essex, CO1 1BE",United Kingdom,Travel Arrangements,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Concremat constructions,5/6/2023,"Rio de Janeiro, RJ",Brazil,Civil Engineering,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
-Farmacias Los Hidalgos,5/6/2023,Avenue 27 de Febrero No. 241,Dominican Republic,Wellness and Fitness Services,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,Medusa
-BilgeAdam Software,29/5/2023,"Level 39, One Canada Square, Canary Wharf, London, E14 5AB",United Kingdom,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,1,1,0,1,0,0,1,Medusa
-Fiduagraria,27/5/2023,Bogota,Colombia,Financial Services,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
-Trabzonspor Football Club,24/5/2023,Trabzon,Turkey,Sports Teams and Clubs,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Leland Campbell LLP law firm,23/5/2023,"Yorkton, Saskatchewan",Canada,Legal Services,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,Medusa
-Amaszonas S.A.,23/5/2023,"La Paz, NA",United States,Airlines and Aviation,1,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,Medusa
-SIGMA,22/5/2023,"Quebec, Canada",Canada,Pharmaceutical Manufacturing,0,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,Medusa
-Al Tamimi Law Firm,19/5/2023,Dubai,United Arab Emirates,Law Practice,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Wallick Communities,19/5/2023,"New Albany , OH",United States,Real Estate,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,Medusa
-BAMSI,19/5/2023,"Brockton, Ma",United States,Individual and Family Services,1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,Medusa
-HostAfrica,13/5/2023,"Somerset West, Cape Town",South Africa,IT Services and IT Consulting,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,Medusa
-Cooperativa de Ahorro y CrÃ©dito Ahorrocoop Ltda,10/5/2023,"Talca, Talca",Chile,Financial Services,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,0,Medusa
-Sonda (Duplicate with update),5/5/2023,"Santiago,Chile",Chile,IT Services and IT Consulting,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,Medusa
-The Crown Princess Mary Cancer Centre,4/5/2023,Westmead,Australia,Hospitals and Health Care,0,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Polat Yol Yap,2/5/2023,"Ä°stanbul, KadÄ±kÃ¶y",Turkey,Construction,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Alto Calore Servizi S.p.A.,2/5/2023,"AVELLINO, Avellino",Italia,Consumer Services,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,Medusa
-Bevan Group,26/4/2023,"Wednesbury, West Midlands",United Kingdom,Truck Transportation,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,Medusa
-Magnolia Care Center,25/4/2023,"San Jose, California",United States,Hospitals and Health Care,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
-Bentham & Holroyd Ltd,24/4/2023,"Bradford, West Workshire",United Kingdom,Industrial Machinery Manufacturing,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,Medusa
-WestcoastSmile Dental Studio,23/4/2023,"Vancouver, Canada",Canada,Hospitals and Health Care,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,Medusa
-Uniondale School District,17/4/2023,"Uniondale, New York",United States,Education Administration Programs,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,Medusa
-Arandell Corp,15/4/2023,"Menomonee Falls, WI",United States,Printing Services,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,Medusa
-"Allimand, France",15/4/2023,"Rives, Auvergne-RhÃ´ne-Alpes",France,Machinery Manufacturing,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,Medusa
-"Scantibodies Laboratory, Inc.",10/4/2023,"Santee, California",United States,Biotechnology,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,Medusa
-Atlantic International University,7/4/2023,"Honolulu, Hawaii",United States,Higher Education,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,Medusa
-Open University of Cyprus,6/4/2023,Nicosia,Cyprus,Higher Education,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,Medusa
-Sonda,3/4/2023,Santiago,Costa Rica,Information Technology & Services,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,Medusa
-Gujarat Mineral,24/3/2023,"AHMEDABAD, Gujarat",India,Mining,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Atlas Security,21/3/2023,"Abu Dhabi, Abu Dhabi",United Arab Emirates,IT Services and IT Consulting,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,1,0,Medusa
-National Institute of Ocean Technology,16/3/2023,"Tamil Nadu, Chennai",India,Engineering Services,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Medusa
-Bishop Luffa School,13/3/2023,"West Sussex, England",United Kingdom,Primary and Secondary Education,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,Medusa
-National Business Furniture,9/3/2023,"Milwaukee, WI",United States,Furniture and Home Furnishings Manufacturing,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Garbarino SAICeI,9/3/2023,Buenos Aires,Argentina,Retail,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,Medusa
-Minneapolis Public Schools,7/3/2023,"Minneapolis, Minnesota",United States,Education Administration Programs,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,Medusa
-The Institute of Space Technology,6/3/2023,Islamabad,Pakistan,Higher Education,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Medusa
-Kenya Airports Authority,1/3/2023,"Nairobi, Nairobi",Kenya,Aviation and Aerospace Component Manufacturing,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,Medusa
-Bank of Africa,25/2/2023,"Casablanca, Casablanca - Settat",Morocco,Banking,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
-"Moose, Martin, Haynes & Lundy",22/2/2023,North Carolina,United States,Financial Services,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Medusa
-RAYAB Consulting Engineers,22/2/2023,Tehran,Iran,Civil Engineering,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Medusa
-International Center of Photography,19/2/2023,"New York, New York",United States,Photography,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Medusa
-AP Emissions Technologies,17/2/2023,"Goldsboro, NC",United States,Motor Vehicle Manufacturing,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,Medusa
-Foamtec International,16/2/2023,"Waco, Texas",United States,Environmental Services,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Medusa
-PetroChina Indonesia,15/2/2023,Jakarta,Indonesia,Oil and Gas,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
-Tonga Communications,11/2/2023,Nukualofa,Tonga,Telecommunications,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Medusa
-Diethelm Keller Aviation Pte Ltd,9/2/2023,Singapore,Singapore,Airlines and Aviation,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,Medusa
-Eureka Casino Resort,4/2/2023,"Mesquite, NV",United States,Gambling Facilities and Casinos,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-EnCom,3/2/2023,Center City - California,United States,IT Services and IT Consulting,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-PFA Systems,3/2/2023,"Newberry, Florida",United States,Truck Transportation,1,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,Medusa
-Elim Clinic,3/2/2023,"Johannesburg, Gauteng",South Africa,Non-profit Organization Management,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
-Elektro Richter,3/2/2023,"Hildburghausen, Thuringia",Germany,"Appliances, Electrical, and Electronics Manufacturing",0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-European Window,2/2/2023,"Melboune, Victoria",Australia,Wholesale Building Materials,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-EightPixelsSquare,25/1/2023,Derby,United Kingdom,Software Development,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Medusa
-Aglobis,20/1/2023,Zug,Switzeland,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
-Integerity Tax,11/1/2023,"Long Beach, California",United States,Accounting,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Medusa
-Grace Church International,11/1/2023,"Wichita Falls, Texas",United States,Religious Institutions,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Medusa
+﻿,Company_Name,Date_of_leak,Company_Address,Company_Country,Industry_Type,Personal Identifiable Information (PII),Financial Data,Healthcare Information,Employee and HR Data,Intellectual Property and Trade Secrets,Customer and Client Data,Legal Documents,Government and Defense Information,Educational Data,Credentials and Access Information,Databases,Website Data,Backup Data,Video and Surveillance Footage,Social Media Data,Utility and Infrastructure Data,Sensitive Communication,Ransomware_Group
+0,AllCare Pharmacy,2/10/2023,"El Monte, CA",United States,Retail,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Lorenz
+1,Dee Sign,1/10/2023,"West Chester, OH",United States,Real Estate,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+2,"Felling Trailers, Inc.",13/7/2023,"Sauk Centre, MN",United States,Truck Transportation,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lorenz
+3,Moore Engineering,31/3/2023,"West Fargo, ND",United States,Civil Engineering,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,Lorenz
+4,Intrasect Technologies,29/3/2023,"Wabash, Indiana",United States,IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+5,NGS Super,25/3/2023,"Sydney, NSW",Australia,Financial Services,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,Lorenz
+6,"Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa",11/3/2023,"Hermitage, PA",United States,Manufacturing,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,Lorenz
+7,"Tarolli, Sundheim, Covell & Tummino LLP",14/3/2023,"Cleveland, Ohio",United States,Legal Services,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Lorenz
+8,Manning Building Supplies,13/3/2023,"Ocala, Florida",United States,Construction,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+9,Hopsteiner,10/2/2023,"Yakima, WA",United States,Food and Beverage Services,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Lorenz
+10,AmerisourceBergen/Censora - MWI Animal Health,22/1/2023,"Boise, ID",United States,Veterinary Services,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lorenz
+0,KTUA Landscape Architecture and Planning,17/10/2023,"San Diego, CA",United States,Architecture and Planning,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+1,"Comtek Advanced Structures, a Latecoere Company",17/10/2023,"Burlington, Ontario",Canada,Aviation and Aerospace Component Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+2,ExdionInsurance,17/10/2023,"Plano, Texas",United States,Business Consulting and Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+3,Petersen Johnson,15/10/2023,"Phoenix, Arizona",United States,Law Practice,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+4,Ted Pella Inc.,10/10/2023,"Redding, CA",United States,Nanotechnology Research,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+5,Sabian Inc,10/10/2023,"Marshfield, Massachusetts",United States,Entertainment Providers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+6,Chula Vista Electric (CVE),6/10/2023,"Santee, California",United States,Construction,1,1,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
+7,C.F. Service and Supply,6/10/2023,C F Service & Supply,United States,Oil and Gas,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+8,Notel,5/10/2023,"Warsaw, Mazowieckie",Polska,Telecommunications,0,0,0,0,1,0,0,0,0,0,1,0,1,,,,,8Base
+9,Muenz-Engineered Sales,4/10/2023,"Summit, New Jersey",United States,Industrial Machinery Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+10,SUD TRADING COMPANY,3/10/2023,"Villetelle, Occitanie",France,Wholesale,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+11,WEBBER RESTAURANT GROUP,3/10/2023,"Groton, Ma",United States,Restaurants,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+12,Praxis Arndt und Langer,2/10/2023,Darmstadt,Germany,Dentistry,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+13,Springer Eubank,2/10/2023,"Wilmington, North Carolina",United States,,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+14,The Envelope Works Ltd,30/9/2023,"Blackburn, Lancashire",United Kingdom,Printing Services,1,1,0,0,0,1,0,0,0,0,1,0,0,,,,1,8Base
+15,UNIVERSAL REALTY GROUP,15/9/2023,"Halifax, NS",Canada,Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+16,Conselho Superior da JustiÃƒÂ§a do Trabalho,14/9/2023,"BrasÃƒÂ­lia, DF",Brasil,Government Administration,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+17,FRESH TASTE PRODUCE USA AND ASSOCIATES INC.,13/9/2023,"Philadelphia, Pennsylvania",United States,Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+18,Prodegest Assessors,11/9/2023,"Terrassa, Barcelona",Spain,Legal Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+19,VVandA,11/9/2023,Singapore,Singapore,Venture Capital and Private Equity Principals,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+20,Fenn Termite and Pest Control,7/9/2023,"Buena Park, CA",United States,Consumer Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+21,Petkus Brothers,6/9/2023,"Rocklin, California",United States,Construction,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+22,PRIDE GLOBAL CONSULTING SL,6/9/2023,"New York, New York",United States,Human Resources Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+23,PT. Cahaya Benteng Mas,5/9/2023,"Jakarta Pusat, DKI Jakarta",Indonesia,Wholesale Building Materials,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+24,"Shanghai FRP Research Institute Co., Ltd.",3/9/2023,"Shanghai, Shanghai",China,Research Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+25,KLM Laboratories Pvt. Ltd,2/9/2023,"Mumbai, Maharashtra",India,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+26,Varna Packaging,2/9/2023,"Ratmalana, Western Province",Sri Lanka,Packaging & Containers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+27,SKYROOT,2/9/2023,"Hyderabad, Telangana",India,Space Research and Technology,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+28,Sydenham Laboratories,1/9/2023,"Dasmarinas City, Cavite",Philippines,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+29,FA Foundry,1/9/2023,"McAllen, Texas",United States,Industrial Machinery Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+30,INSTITUTO NACIONAL DE ELECTRIFICACION,1/9/2023,"Guatemala, Guatemala",Guatemala,Renewable Energy Semiconductor Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+31,HFH Capital,1/9/2023,"Philadelphia, Pennsylvania",United States,Business Consulting and Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+32,Bahamas Medical and Surgical Supplies,31/8/2023,Nassau,The Bahamas,Retail Health and Personal Care Products,1,1,0,0,1,0,0,0,1,0,0,0,0,,,,,8Base
+33,The Law Offices of Steven H. Heisler,31/8/2023,"1011 N Calvert St, Baltimore, MD 21202, United States",United States,Law Practice,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+34,Kevills Solicitors,31/8/2023,"Chorley, Lancashire",United Kingdom,Law Practice,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+35,Mil-Ken Travel,31/8/2023,"Littleport, England",United Kingdom,Truck Transportation,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+36,Royal Oak Pet Clinic,31/8/2023,"Victoria, British Columbia",Canada,Veterinary,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+37,Hoosick Falls Central School District,31/8/2023,New York,United States,Primary and Secondary Education,1,1,0,1,0,0,0,0,1,0,0,1,0,,,,,8Base
+38,ToyotaLift Northeast,23/8/2023,"Phoenixville, Pennsylvania",United States,Machinery Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,,,,1,8Base
+39,Aspect Structural Engineers,22/8/2023,"Vancouver, BC",Canada,Civil Engineering,1,1,0,1,1,1,0,0,0,0,0,0,0,,,,,8Base
+40,ANS,22/8/2023,Manchester,United Kingdom,IT Services and IT Consulting,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+41,Keystone Insurance Services,22/8/2023,"Provo, Utah",United States,Insurance,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+42,MBS Equipment TTI,11/8/2023,"Los Angeles, CA",United States,Entertainment Providers,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+43,SatCom Marketing,13/8/2023,"Brooklyn Park, MN",United States,Advertising Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+44,Oregon Sports Medicine,13/8/2023,"Wilsonville, Oregon",United States,Medical Practices,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+45,Delaney Browne Recruitment,13/8/2023,"Berkshire, Suite 53 London St, Reading RG1 4QD, United Kingdom",United Kingdom,Job Recruitment,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+46,"Rossman Realty Group, inc.",10/8/2023,"Cape Coral, FL",United States,Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+47,"RevZero, Inc",10/8/2023,"Chanhassen, MN",United States,Medical Device,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+48,Jacklett Construction LLC,8/8/2023,"ALPHARETTA, Georgia",United States,Construction,1,1,0,1,1,1,0,0,1,0,0,0,0,,,,,8Base
+49,Danbury Public Schools,12/8/2023,Massachusetts,United States,Photography,1,0,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+50,BoomData |Data and Analytics Consultancy,1/8/2023,"North Sydney, NSW",Australia,IT Services and IT Consulting,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,1,8Base
+51,CROWD,1/8/2023,"Poole , Dorset",United Kingdom,Advertising Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+52,DV8 Technology Group,1/8/2023,"Houghton Estate, Gauteng",South Africa,Information Technology & Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+53,"FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD",1/8/2023,"Ho Chi Minh, Ho Chi Minh City",Vietnam,Design Services,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+54,Kersey CO,1/8/2023,"Kersey, Colorado",United States,Agricultural Community,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+55,Institut Mensalus S.L.,1/8/2023,"Barcelona, Barcelona",Spain,Wellness and Fitness Services,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+56,Spectra Industrial,1/8/2023,Zambia,Zambia,Oil and Gas,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+57,EJM Engineered Systems,31/7/2023,"Shotton Colliery, Durham",United Kingdom,Mechanical Or Industrial Engineering,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+58,"Exbon Development, Inc",30/7/2023,"Garden Grove, CA",United States,Construction,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,1,8Base
+59,"CashCall, Inc.",22/7/2023,"Orange, CA",United States,Financial Services,1,1,0,1,0,0,0,0,1,0,1,0,0,,,,1,8Base
+60,Venture Drilling Supply,18/7/2023,"Pflugerville, TX",United States,Mining,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+61,Info Salons,20/7/2023,Dubai,United Arab Emirates,Events Services,1,1,0,1,0,1,0,0,1,0,1,0,0,,,,,8Base
+62,CPA Advisors Group,21/7/2023,"Columbus, Ohio",United States,Accounting,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+63,BTU,17/7/2023,"North Billerica, Massachusetts",United States,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+64,ANL Packaging,17/7/2023,"Wellen, BelgiÃƒÂ«",Belgium,Packaging and Containers Manufacturing,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+65,Dental One Craigieburn,17/7/2023,Craigieburn,Australia,Medical Practices,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+66,Jadranka Group,17/7/2023,LEVES,France,Tourisma and Hospitality,,1,0,1,0,0,0,0,,0,0,0,0,,,,,8Base
+67,The Traffic Tech,17/7/2023,"Chicago, Illinois",United States,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+68,Telepizza,17/7/2023,"San SebastiÃƒÂ¡n de los Reyes, Madrid",Spain,Hospitality,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+69,Citelis Mobility,18/7/2023,"Morelia, MichoacÃƒÂ¡n",Mexico,Commercial Real Estate,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+70,Advanced Fiberglass Industries,15/7/2023,Umm Al Quawain,United Arab Emirates,Plastics Manufacturing,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+71,Weitkamp Ã‚Â· Hirsch and Kollegen Steuerberatungsgesellschaft mbH,15/7/2023,"Schleswig, Schleswig-Holstein, Germany",Germany,Tax Consulting,0,0,0,1,0,1,0,0,0,0,0,0,0,,,,1,8Base
+72,Pesquera Diamante S.A.,15/7/2023,"Lima, Lima",PerÃƒÂº,Food and Beverage Manufacturing,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,1,8Base
+73,Cabra Consulting Ltd,15/7/2023,"Calgary, Alberta",Canada,Oil and Gas,0,1,0,1,0,0,1,1,0,0,0,0,0,,,,,8Base
+74,ROBERT L BAYLESS PRODUCER LLC,14/7/2023,"Denver, Colorado",United States,Oil and Gas,1,1,0,1,0,1,0,0,1,0,0,0,0,,,,,8Base
+75,KIRWIN FRYDAY MEDCALF Lawyers LLP,13/7/2023,"London, Ontario",Canada,Legal Services,1,1,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
+76,"Jeff Wyler Automotive Family, Inc.",11/7/2023,"Batavia, OH",United States,Automotive,1,1,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
+77,Polanglo,10/7/2023,"Warszawa, WojewÃƒÂ³dztwo mazowieckie",Polska,International Trade and Development,0,1,0,0,0,0,1,0,0,0,1,0,0,,,,,8Base
+78,CON-STRUCT,3/7/2023,"New York, NY",United States,Apparel & Fashion,0,1,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
+79,PORTERROOFING,3/7/2023,"McMinnville, TN",United States,Construction,1,0,0,1,0,1,0,0,0,0,1,0,0,,,,,8Base
+80,ISPE Connecting Pharmaceutical Knowledge,3/7/2023,"North Bethesda, Maryland",United States,Pharmaceutical Manufacturing,1,1,0,1,0,0,0,0,0,0,1,0,0,,,,,8Base
+81,PNEUMAX,3/7/2023,"Lurano, (BG)",Italy,Automation Machinery Manufacturing,1,0,0,1,0,0,0,0,1,0,0,0,0,,,,,8Base
+82,LEGALILAVORO,3/7/2023,"Milan, Lombardy",Italy,Legal Services,1,0,0,1,0,1,0,0,0,0,0,0,0,,,,,8Base
+83,Lysander Shipping,3/7/2023,New Malden,United Kingdom,Truck Transportation,0,1,0,1,0,0,0,0,0,0,1,0,0,,,,,8Base
+84,CLEAR MEDI HEALTHCARE,3/7/2023,"Gurgaon, Haryana",India,Hospitals and Health Care,1,1,0,1,0,1,0,0,0,0,1,0,0,,,,,8Base
+85,PORTBLUE,26/6/2023,"AlcÃƒÂºdia, Islas Baleares",EspaÃƒÂ±a,Hospitality,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+86,LOONGSON,26/6/2023,China,China,Computer Hardware,0,0,0,0,1,0,0,0,0,0,0,0,0,,,,,8Base
+87,Futura AgronegÃƒÂ³cios,26/6/2023,"Araguari, Minas Gerais",Brasil,Farming,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+88,BLUESAGE,26/6/2023,"Englewood Cliffs, New Jersey",United States,Software Development,1,1,0,0,0,0,0,0,1,0,0,0,0,,,,,8Base
+89,"PrintGlobe, Inc.",26/6/2023,"Austin, TX",United States,Advertising Services,1,1,0,0,0,0,0,0,0,0,1,0,0,,,,,8Base
+90,"TARLE LAW, P.C.",26/6/2023,Southern California,United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+91,Texas Hotel and Lodging Association,26/6/2023,"Austin, TX",United States,Travel Arrangements,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+92,Onsupport Corporation,26/6/2023,"Austin, TX",United States,IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+93,The Akin Law LLC,26/6/2023,"Austin, Texas",United States,Law Practice,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+94,CYBERFREIGHT SYSTEMS MARITIMES INC.,25/6/2023,Saint John,United States,Maritime Industry,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+95,Law Offices of Sergio J. Siderman,22/6/2023,"Los Angeles, California",United States,,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+96,Studio Legale Ranchino,22/6/2023,"Rome, Latium",Italy,Law Practice,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+97,Ligas Gerais Industria E Comercio,22/6/2023,"Matozinhos, Minas Gerais",Brasil,Mining,1,0,0,0,0,0,1,0,0,0,0,0,0,,,,,8Base
+98,Stone Fox Ventures,22/6/2023,"Wyoming, Michigan",United States,Industrial Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+99,Hornbill,22/6/2023,London,United Kingdom,Software Development,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+100,"DANIEL C. HARRIS, O.D",22/6/2023,"Cincinnati, OH",United States,Optometry,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+101,Law Society of South Africa,21/6/2023,Pretoria,South Africa,Legal Services,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+102,Transprensa,19/6/2023,"Cra. 5 #19-53, COMUNA 3, Cali, Valle del Cauca",Colombia,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,8Base
+103,Ampla DivisÃƒÂ³rias,19/6/2023,"Belo Horizonte, Minas Gerais",Brasil,Architecture and Planning,1,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+104,RJP MEDICAL LTDA,19/6/2023,Belo Horizonte,Brasil,,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+105,SINTTEL,19/6/2023,"Brasilia, Distrito Federal",Brasil,Non-profit Organizations,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+106,CLONARTE,19/6/2023,"Belo Horizonte, MG",Brasil,Printing Services,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+107,PREMIER HOSPITAL DIA,19/6/2023,"Belo Horizonte, Minas Gerais",Brasil,Hospitals and Health Care,1,0,0,1,0,0,0,0,0,0,0,0,0,,,,,8Base
+108,TECHCERT,19/6/2023,Dehiwala,Sri Lanka,Computer and Network Security,1,1,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+109,LUZBOA S.A,19/6/2023,Viseu,Portugal,Utilities,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+110,MAXIMUM PRIME ALIMENTOS EIRELI,19/6/2023,"Juiz De Fora, Minas Gerais",Brasil,Restaurants,1,0,0,0,0,0,0,0,0,0,1,0,0,,,,,8Base
+111,Bibliotheek Gouda,11/6/2023,Gouda,Nederland,Libraries,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+112,Good Oil Company,1/6/2023,"Winamac, Indiana",United States,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+113,Malkasian Accountancy,9/5/2023,"Sacramento, California",United States,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+114,SiComputer is a leader in the Italian information technology.,29/4/2023,"Via della Dogana, 8/2 48022 Lugo (RA) Italy",Italy,Computer Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+115,Asbestos-Inspections-Solution-Management,2/4/2023,Texas,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+116,Just us lawyers,1/4/2023,"Kelvin Grove, Queensland",Australia,Legal Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+117,Csc Baixo Sul Assessoria e Consultoria Empresarial e Contabil LTDA,24/3/2023,ItuberÃ¡ / BA,Brasil,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+118,Artconta - Contabilidade e. AssistÃƒÂªncia Fiscal,24/3/2023,"Salvador, Bahia",Brasil,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+119,CONTASS,24/3/2023,"Montes Claros, Minas Gerais",Brasil,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+120,General de Alimentos Nisa C.A. (GENICA),16/3/2023,"Maracaibo, Zulia",Venezuela,Food & Beverages,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+121,Zenex,15/3/2023,"Santa Clara, CA",United States,Staffing and Recruiting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+122,Lake Cable,12/3/2023,"Bensenville, IL",United States,"Appliances, Electrical, and Electronics Manufacturing",0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+123,Midway Ford,12/3/2023,"Roseville, MN",United States,Motor Vehicle Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+124,Thayer Academy,7/3/2023,"Braintree, MA",United States,Primary and Secondary Education,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+125,HELPHONE,5/3/2023,"Artica, Navarra",Spain,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+126,SITARA,10/2/2023,"Woodside, ny",United States,Retail,0,0,0,0,0,0,1,0,0,0,0,0,0,,,,,8Base
+127,Veal and Prasad,2/3/2023,Hillcrest,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+128,COMPAGNIE REGIONALE D'ALIMENTS (COREAL),23/2/2023,YFFINIAC,France,Food Production,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+129,IMASA,13/2/2023,"Oviedo, Asturias",Spain,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+130,"MRO SUPPORT, INC",5/2/2023,"Boca Raton, Florida",United States,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+131,Richard W. Fuller CPA,25/1/2023,"Glens Fall, NY",United States,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+132,Neighborhood Progress Fund,27/1/2023,PHILADELPHIA,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+133,Print Globe,27/1/2023,"Austin, TX",United States,Advertising Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+134,China Export &amp; Credit Insurance Corporation,24/1/2023,"Beijing, China",China,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+135,Conklin Benham,24/1/2023,"Bingham Farms, MI",United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+136,FORMA ESPACOS IMOBILIARIOS LTDA,14/1/2023,"Bento Goncalves, Rio Grande Do Sul",Brasil,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+137,Ayers Mechanical Group,10/1/2023,"Van Wert, Ohio",United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,8Base
+0,Hughes Gill Cochrane Tinetti,14/10/2023,"Walnut Creek, CA",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+1,Saltire Energy,14/10/2023," Aberdeen, Aberdeenshire",United Kingdom,Oil and Gas,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+2,Centek industries,13/10/2023," Thomasville, Georgia",United States,Consumer Goods,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+3,NachtExpress Austria GmbH,13/10/2023,"Schwechat, NiederÃ¶sterreich",Austria,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+4,WCM Europe,13/10/2023," Basildon, Essex",United Kingdom,Motor Vehicle Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+5,Starr Finley,13/10/2023," San Francisco, CA",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+6,Metro Transit,12/10/2023,"St. Louis, MO",United States,"Transportation, Logistics, Supply Chain and Storage",1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+7,Stavanger Municipality,8/10/2023,Stavanger,Norway,Government Agency,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+8,CHARMANT Group,8/10/2023," Sabae City, Fukui Pref.",United States,"Retail, Apparel and Fashion",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+9,Cinepolis USA,8/10/2023," Dallas, Texas",United States,Entertainment Providers,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+10,Filtration Control,8/10/2023,BRACKMILLS,United Kingdom,Motor Vehicle Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+11,Security Instrument,8/10/2023," Wilmington, Delaware",United States,Security and Investigations,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+12,Roof Management,8/10/2023,"  Marysville, Ohio",United States,Real Estate,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+13,Wexas,2/10/2023,"London, United Kingdom",United Kingdom,Travel,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+14,Plumbase,2/10/2023," Milton Keynes, Buckinghamshire ",United Kingdom,Wholesale Building Materials,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+15,Kessler Collins,2/10/2023,"Dallas, Texas",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+16,Terralogic,2/10/2023," San Jose, CA",United States,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+17,Van Eck Transport,2/10/2023,Veenendaal,Netherlands,Truck Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+18,BAMO,2/10/2023," San Francisco, CA",United States,Architecture and Planning,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+19,Amanzi Marble & Granite,2/10/2023," Kernersville, North Carolina",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+20,Webb Landscape,5/10/2023,"  Bellevue, Idaho",United States,Landscaping Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+21,Robuck Homes,2/10/2023,"Raleigh, NC",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+22,Jacobson,2/10/2023,"Elizabeth, New Jersey",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+23,PASCHAL - Werk G Maier,22/9/2023," Steinach, Deutschland",Germany,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+24,TSC,22/9/2023,"Houston, Texas",United States,Oil and Gas,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+25,Rea Magnet Wire,26/9/2023," Fort Wayne, IN",United States,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+26,First Line,22/9/2023,"Oxfordshire, United Kingdom",United Kingdom,Automotive Components,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+27,Vucke,22/9/2023,"Kosice, Slovak Republic",Slovakia,Tourism,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+28,Carpet One,18/9/2023,"North Bay, Ontario",Canada,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+29,Dpc & S,18/9/2023,"Arizona, United States",United States,Non-profit Organization Management,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+30,Majestic Spice,8/9/2023," Los Angeles, California",United States,Food Production,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+31,Bordelon Marine,8/9/2023," Houma, Louisiana",United States,Maritime Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+32,Master Interiors,8/9/2023,"Delaware, United States",United States,Interior Design,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+33,Markentrainer Werbeagentur,9/9/2023,"St. Leon-Rot, 68789, DE",Germany,Automation Machinery Manufacturing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+34,Kikkerland Design,9/9/2023," New York, NY",United States,Design Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+35,Firmdale Hotels,5/9/2023,London,United Kingdom,Hospitality,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+36,"Alfagomma, Argus Fluidhandling Ltd",26/8/2023,"Vimercate, Italy",United States,Industrial Machinery Manufacturing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+37,Oneonline,24/8/2023,"Utah, United States",United States,Private Equity,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+38,Legends Limousine,24/8/2023,"  Brooklyn, New York",United States,Ground Passenger Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+39,Bolton Group,24/8/2023,Milan,Italy,Industria manifatturiera,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+40,Stanford Transportation Inc,24/8/2023," Bakersfield, California",United States,Truck Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+41,BTC Power,24/8/2023," Santa Ana, California",United States,"Appliances,n Electrical,n and Electronics Manufacturing",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+42,Miami Management,24/8/2023,"Florida, United States",United States,Management Company,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+43,DSA Law Pty Ltd,24/8/2023," Melbourne, Victoria",Australia,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+44,ABS Auto Auctions,30/8/2023,"California, United States",United States,Auction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+45,EAI,14/8/2023,United States,United States,Oil and Gas,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+46,Algorry Zappia & Associates,16/8/2023," New South Wales, Australia",Australia,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+47,Top Light,14/8/2023,"Spenge, Germany",Germany,Electric Lighting Equipment Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+48,"Birch, Horton, Bittner & Cherot",6/8/2023," Anchorage, Alaska",United States,Law Practice,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+49,Aapd,6/8/2023,Australia,Australia,"Technology, Information and Media",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+50,"Garage Living, The Dispenser USA",6/8/2023,Ontario,Canada,Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+51,Xplain,5/8/2023,"Interlaken, Switzerland",Switzerland,IT Services and IT Consulting,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,PlayNews
+52,Grupo MH,29/7/2023," Barcelona, Spain",Spain,Facilities Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+53,Scharco Elektronik,29/7/2023," Wuppertal, North Rhine-Westphalia",Germany,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+54,John Mulder Heating & Air Conditioning,29/7/2023," British Columbia, Canada",Canada,Utilities,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+55,Centennial Management,25/7/2023,"  Florida, United States",United States,Financial Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+56,Woodbine Hospitality,25/7/2023," Syracuse, New York",United States,Hospitality,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+57,ECS Technology Group,25/7/2023," Mansfield, TX",United States,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+58,Fernmoor Homes,25/7/2023," Jackson, NJ",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+59,Kensington Publishing,25/7/2023," New York, United States",United States,Book and Periodical Publishing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+60,Texas Heat Treating,15/7/2023," Round Rock, Texas",United States,Machinery Manufacturing,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+61,Lawer SpA,13/7/2023," Piedmont, Italy",Italy,Industrial Automation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+62,Indiana Dimension,13/7/2023,"Logansport, IN",United States,Paper and Forest Product Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+63,Star Island Resort,13/7/2023," Kissimmee, FL",United States,Hospitality,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+64,Lazer Tow,13/7/2023,"Grandview, Missouri",United States,Individual and Family Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+65,Intoximeters,11/7/2023," St.Louis, MO",United States,Consumer Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+66,Safety Network,12/7/2023," Granite Bay, California",United States,Construction,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+67,Capacity LLC,12/7/2023," North Brunswick, NJ",United States,"Transportation,n Logistics, Supply Chain and Storage",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+68,Betty Lou's,12/7/2023," McMinnville, Oregon",United States,Food Production,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+69,MUJI Europe Holdings Limited,12/7/2023," London, London",United States,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+70,Geneva Software,12/7/2023," Herndon, VA",United States,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+71,Uniquify,12/7/2023," San Jose, CA",United States,Semiconductor Manufacturing,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+72,NST Attorneys at Law,12/7/2023," Memphis, TN",United States,Legal Services,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,PlayNews
+73,Cambridge Group of Clubs,3/7/2023," Toronto, Ontario",Canada,Wellness and Fitness Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+74,Algotech,3/7/2023,Prague 8 - KarlÃ­n,Czech Republic,IT Services and IT Consulting,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+75,Wolfs Block Management Limited,27/6/2023,"Birmingham, United Kingdom",United Kingdom,Real Estate,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+76,Lorclon,27/6/2023,"London, United Kingdom",United Kingdom,Civil Engineering,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+77,Allpro Consulting Group,27/6/2023," Dallas, Texas",United States,Telecommunications,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+78,LuÃ­s Simoes,27/6/2023,"Loures, Lisbon, Portugal",Portugal,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+79,Federation Francaise de Rugby,27/6/2023," Marcoussis, France",France,Sports devant spectateurs,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+80,PWI Engineering,27/6/2023," Cherry Hill, NJ",United States,Mechanical Or Industrial Engineering,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+81,Summit Hut,27/6/2023," Tucson, Arizona",United States,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+82,Dancie Perugini Ware Public Relations,27/6/2023," Houston, Texas",United States,Public Relations and Communications Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+83,Peter Mark,27/6/2023," Leinster, Ireland",Ireland,Retail Apparel and Fashion,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+84,Twai,27/6/2023," Southfield, Michigan",United States,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+85,Pacte Novation,27/6/2023,ISSY LES MOULINEAUX,France,IT Services and IT Consulting,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+86,Dameron Alloy Foundries,28/6/2023,"Compton, California",United States,Mining,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+87,Mesa Cold Storage,27/6/2023,"Tolleson, Arizona",United States,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+88,Salins Group,27/6/2023," Clichy, France",France,Mining,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+89,Novasoft,27/6/2023,Dubai,Dubai,IT Services and IT Consulting,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+90,Nubus,27/6/2023," Schaumburg, USA",United States,IT Services and IT Consulting,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+91,Shows & Artists,11/6/2023,"MÃ¼nchen, Bayern",Germany,Events Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+92,NORANET - CZ,11/6/2023,"Prague, Czechia",Czech Republic,Telecommunications,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+93,Abeko,11/6/2023,"Beverwijk, Netherlands",Netherlands,Civil Engineering,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+94,Buffalo Niagara Association,11/6/2023," Amherst, NY",United States,Real Estate,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+95,BMD Systemhaus,11/6/2023,"Steyr, OberÃ¶sterreich",Austria,Software Development,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+96,CS Cargo Group,14/6/2023,Prague 4,Czech Republic,Truck Transportation,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+97,Alberta Newsprint,11/6/2023," Whitecourt, Alberta",Canada,Paper and Forest Product Manufacturing,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+98,Fortress Paper,11/6/2023," Thurso, QC",Canada,Paper & Forest Products,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+99,Globalcaja,11/6/2023," Albacete, Albacete",Spain,Financial Services,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+100,Soroc,2/6/2023," Woodbridge, ON",Canada,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+101,Aria Online,1/6/2023,"Louisiana, United States",United States,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+102,Optimus Steel,1/6/2023," Vidor, Texas",United States,Mining,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+103,Studioline Photography,1/6/2023,"DÃ¤nischenhagen, Schleswig-Holstein",Germany,Photography,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+104,Grupo Corporacion Control,1/6/2023,"Monterrey, Nuevo LeÃ³n",Mexico,Retail,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+105,Mayberry Investments,1/6/2023,Kingston,Jamaica,Investment Banking,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+106,Paragon Software Lanka,1/6/2023,Nugegoda,Sri Lanka,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+107,Black Cat Networks,26/5/2023,Singen,Germany,Information Technology & Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+108,Royal Centre,31/5/2023,"Vancouver, Canada",Canada,Retails,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+109,SOWITEC,25/5/2023,"SonnenbÃ¼hl, Deutschland",Germany,Renewables & Environment,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+110,Germany,26/5/2023,Berlin,Germany,International Trade and Development,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+111,JP Maguire & Associates,19/5/2023," Waterbury, Connecticut",United States,Construction,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,PlayNews
+112,Sauerbruch Hutton,19/5/2023,"Berlin, Berlin",Germany,Architecture and Planning,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,PlayNews
+113,KLC Network Services,18/5/2023,"Herndon, Virginia",United States,Defense and Space Manufacturing,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,PlayNews
+114,Vocalcom,11/5/2023,Paris,France,Software Development,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+115,Negma Business Solutions,11/5/2023," Dallas, Texas",United States,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+116,Libra Virtua,11/5/2023,Hungary,Hungary,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,PlayNews
+117,City of Lowell,11/5/2023," Lowell, Massachusetts",United States,Government Administration,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+118,Nova Group,11/5/2023,South Australia,Australia,Business Consulting and Services,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+119,UECC,2/5/2023,Oslo,Norway,Maritime Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+120,Groupe Gambetta,2/5/2023,CHOLET,France,Real Estate,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+121,Structab AB (MegTax),28/4/2023,Halmstad,Sweden,Information Technology & Services,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+122,Corrib Oil,28/4/2023,Ireland,Ireland,Retail,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+123,Coldiretti,28/4/2023,Rome,Italy,Food Production,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+124,Huissiers,28/4/2023,Singapore,France,Photography,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+125,Bang IT Solutions,28/4/2023," Sydney, NSW",Australia,Information Technology & Services,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+126,PESA Bydgoszcz,14/4/2023,Bydgoszcz,Poland,Industrial Machinery Manufacturing,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+127,CH Media,3/5/2023,"Aarau, Aargau",Switzerland,Media Production,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+128,Schirm,21/4/2023,"SchÃ¶nebeck, Saxony-Anhalt",Germany,Chemical Manufacturing,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+129,Vleeswarenfabriek Jac Michiels,21/4/2023,Antwerpen,Belgium,Food and Beverage Manufacturing,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+130,Legion Aero,21/4/2023,United States,United States,Airlines and Aviation,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+131,PKF Antares,21/4/2023," Calgary, Alberta",Canada,Accounting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+132,Palo Alto County Sheriff,29/4/2023," Iowa, United States",United States,Government Administration,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+133,Jablite,8/4/2023," Hindley Green, England",United Kingdom,Construction,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+134,Pizza 73,7/4/2023,"Alberta, Canada",Canada,Food and Beverage Services,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+135,Kk Mehta Cpa Associates,7/4/2023," Albany, New York",United States,Accounting,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+136,Guyana Goldfields,6/4/2023," Toronto, Ontario",Canada,Mining,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+137,Lysander Associates,6/4/2023,Godalming,United Kingdom,Construction,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+138,Optica,6/4/2023," Washington, DC",United States,Non-profit Organizations,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+139,draftPros,28/3/2023," Miami Lakes, Florida",United States,Telecommunications,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+140,TaxAssist Accountants,28/3/2023," Norwich, Norfolk",United Kingdom,Accounting,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+141,Norman Shutters,28/3/2023,"Albion, Queensland",United States,Wholesale,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+142,Pine Tree Commercial Realty,28/3/2023," Northbrook, IL",United States,Real Estate,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+143,Berga Recycling,28/3/2023,"Laval, Canada",Canada,Wholesale Import and Export,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+144,Stanley Steemer,28/3/2023,"Dublin, OH",United States,Consumer Services,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+145,Royal Dirkzwager,16/3/2023," Maassluis, South Holland",Netherlands,Maritime Transportation,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+146,Russell Finex,18/3/2023," Feltham, MIddx",United Kingdom,Mechanical Or Industrial Engineering,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+147,Secure Wrap,19/3/2023," Miami, FL",United States,Consumer Services,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+148,Leemock,20/3/2023,"Seoul, South Korea",United States,Legal Services,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+149,Real Pro,20/3/2023,"Fort Lauderdale, Florida",United States,Real Estate,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+150,Oakland,4/3/2023," Oakland, California",United States,Government Administration,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,PlayNews
+151,InPro electric,25/2/2023,Wolfsburg,Germany,Automation Machinery Manufacturing,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+152,Energie Pool Schweiz,20/2/2023,"Zurich, ZÃ¼rich",Switzerland,Utilities,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+153,A10,14/2/2023,"San Jose, California",United States,Computer Networking Products,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+154,Microgame SpA,15/2/2023,"Benevento, Italy",Italy,Software Development,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+155,ACS,14/2/2023,"Verona, Wisconsin",United States,Construction,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+156,Cave Beblenheim,12/2/2023,"Beblenheim, Grand Est",France,Beverage Manufacturing,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+157,Helicar,2/2/2023,Prague,Czech Republic,Truck Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+158,Arnold Clark,17/1/2023," Edinburgh, United Kingdom",United Kingdom,Motor Vehicle Manufacturing,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,PlayNews
+159,DAYTON PROGRESS,17/1/2023,United States,United Kingdom,Machinery Manufacturing,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+160,CDER,8/1/2023,"ChÃ¢lons-en-Champagne, Grand Est",France,Financial Services,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+161,SUNY Polytechnic Institute,4/1/2023,"Utica, ny",United States,Higher Education,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+162,Furetank,4/1/2023," Donso, Vaestra Goetaland, Sweden",Sweden,Maritime Transportation,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+163,Sirius Shipping,4/1/2023," Donso, Vaestra Goetaland, Sweden",Sweden,Maritime Transportation,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+164,H-Hotels,4/1/2023,"Bad Arolsen, Deutschland",Germany,Hospitality,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+165,OPUS IT Services,4/1/2023," Singapore , Singapore",Singapore,IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,PlayNews
+166,Stratacache,4/1/2023," Dayton, Ohio ",United States,Software Development,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+167,Tarntank Ship Management,4/1/2023,"Skagen, Denmark",Sweden,Maritime Transportation,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,PlayNews
+0,Somagic,3/10/2023,"La GenÃƒÂ¨te, SaÃƒÂ´ne-et-Loire",France,Consumer Goods,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+1,Windak,2/10/2023,"Peetri, Harjumaa",Estonia,Industrial Automation,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Medusa
+2,Karam Chand Thapar & Bros Coal Sales,2/10/2023,"Kolkata, West Bengal",India,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+3,Acoustic Center,25/9/2023,PARIS,France,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Medusa
+4,Philippine Health Insurance,23/9/2023,"Citystate Centre, 709 Shaw Boulevard, Oranbo, Pasig",Philippines,Hospitals and Health Care,1,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1,Medusa
+5,"Franktronics, Inc",23/9/2023,"HAYES, Virginia",United States,Information Technology & Services,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,Medusa
+6,Gulf American Lines,20/9/2023,"Berkeley Heights, New Jersey",United States,Transportation/Trucking/Railroad,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+7,Chait,20/9/2023,"LOS ANGELES, CA  91605",United States,Architecture and Planning,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
+8,Auckland Transport,18/9/2023,"Auckland, Auckland",New Zealand,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Medusa
+9,Steripharma,11/9/2023,Casablanca,Morocco,Pharmaceutical Manufacturing,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+10,Wave Hill,11/9/2023,"Bronx, New York",United States,"Museums, Historical Sites, and Zoos",1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+11,Jules B,4/9/2023,"Newcastle Upon Tyne, Tyne & Wear",United Kingdom,Retail Apparel and Fashion,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+12,Betton France,4/9/2023,"PLACE CHARLES DE GAULLE, Betton, Bretagne 35831, FR",France,Government Administration,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,Medusa
+13,Skynet,30/8/2023,"6630 Fm 1463 Rd 255 Step 500, Katy, Texas, 77494",United States,Internet Marketplace Platforms,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Medusa
+14,Aranui Cruises,30/8/2023,"PAPEETE, TAHITI",France,Travel Arrangements,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+15,Axis Elevators,25/8/2023,"Unit G1. Blackfriars Foundry Annexe. 65 Glasshill Street. London,  SE1 0QR. United Kingdom, GB",United Kingdom,Industrial Machinery Manufacturing,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Medusa
+16,Durham Fasteners,25/8/2023,"Pickering, ON",Canada,Wholesale Import and Export,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Medusa
+17,LEN Italia,25/8/2023,Via Golfo dei Poeti 1/A - 43126 Parma,Italy,Professional Training and Coaching,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
+18,Sartrouville France,19/8/2023,Sartrouville,France,Government Administration,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
+19,The International Civil Defense Organization,19/8/2023,Geneva,Switzerland,Government Relations Services,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,Medusa
+20,Novi Pazar put ad,19/8/2023,"36300 Novi Pazar, Serbia",Serbia,Civil Engineering,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,Medusa
+21,Postel SpA,15/8/2023,Roma,Italy,IT Services and IT Consulting,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
+22,Borets (Levare.com),14/8/2023,"Level 8, Burj Daman Dubai International Financial Centre",United Arab Emirates,Oil and Gas,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,Medusa
+23,CB Energy Australlia,14/8/2023,"Beenleigh, Queensland",Australia,"Electric Power Transmission, Control, and Distribution",1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,Medusa
+24,Emerson School District,8/8/2023,"Emerson, Bergen County, New Jersey, 07630",United States,Primary and Secondary Education,1,1,0,1,0,1,1,1,1,0,0,1,0,0,0,0,1,Medusa
+25,St Landry Parish School Board,31/7/2023,"Opelusas, Louisiana",United States,Education Administration Programs,1,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,Medusa
+26,Ace Micromatic Group,31/7/2023,"Bangalore, Karnataka",India,Machinery Manufacturing,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,Medusa
+27,The Sinbad Club,25/7/2023,"10 Elmenya Street, Cairo, Cairo, HELIOPOLIS",Egypt,Hospitality,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
+28,Cafe Britt,23/7/2023,"2960 NW 72nd Ave, Miami, Florida, 33122",United States,Manufacturing,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,1,1,Medusa
+29,Sun Pain Management,23/7/2023,"Phoenix, Arizona",United States,Medical Practices,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
+30,DTD Express,18/7/2023,"Leicesteer, Leicestershire",United Kingdom,Consumer Services,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
+31,Nini Collection Ltd (Nini's Jewels),18/7/2023,"Westheimer Rd Ste 330, Houston, Texas, 77056",United States,Retail Luxury Goods and Jewelry,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,Medusa
+32,Tracker de Colombia SAS,7/7/2023,CARRERA 7 156 78 TORRE 2 OFICINAS 1202 Y 1203 BOGOTA,Colombia,Information Technology & Services,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
+33,Yunus Emre Institute Turkey,4/7/2023,Ankara,Turkey,Non-profit Organizations,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,Medusa
+34,Luna Hotels & Resorts,3/7/2023,"Lote H1 Avenida Da Marina, Vilamoura, Faro, 8125-401",Portugal,Hospitality,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
+35,Mutuelle LMP,3/7/2023,"Versailles, ÃƒÅ½le-de-France",France,Insurance,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,1,1,Medusa
+36,Universitas Matthiae Belii association,25/6/2023,"12 NarodnÃ¡, Majer, Banskobystricky, 974 01",Slovakia,Higher Education,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,Medusa
+37,Real Estate Systems Integrator,25/6/2023,"560 Lincoln Rd Ste 203, Miami Beach, Florida, 33139",United States,"Technology, Information and Internet",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Medusa
+38,Kramer Enterprises,23/6/2023,"Fort Atkinson, WI 53190",United States,Building Construction,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,Medusa
+39,Comision Nacional de Valores,11/6/2023,25 de Mayo 175 - CABA,Argentina,Capital Markets,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
+40,GAE Construction,11/6/2023,JUBILEE INDUSTRIAL ESTATE ASHINGTON NE63 8UB,United Kingdom,Building Construction,1,1,0,1,1,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
+41,Tour Partner Group,7/6/2023,"66-68 College Rd Fl 5, London, Essex, CO1 1BE",United Kingdom,Travel Arrangements,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+42,Concremat constructions,5/6/2023,"Rio de Janeiro, RJ",Brazil,Civil Engineering,1,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,Medusa
+43,Farmacias Los Hidalgos,5/6/2023,Avenue 27 de Febrero No. 241,Dominican Republic,Wellness and Fitness Services,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,Medusa
+44,BilgeAdam Software,29/5/2023,"Level 39, One Canada Square, Canary Wharf, London, E14 5AB",United Kingdom,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,1,1,0,1,0,0,1,Medusa
+45,Fiduagraria,27/5/2023,Bogota,Colombia,Financial Services,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,Medusa
+46,Trabzonspor Football Club,24/5/2023,Trabzon,Turkey,Sports Teams and Clubs,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+47,Leland Campbell LLP law firm,23/5/2023,"Yorkton, Saskatchewan",Canada,Legal Services,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,Medusa
+48,Amaszonas S.A.,23/5/2023,"La Paz, NA",United States,Airlines and Aviation,1,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,Medusa
+49,SIGMA,22/5/2023,"Quebec, Canada",Canada,Pharmaceutical Manufacturing,0,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,Medusa
+50,Al Tamimi Law Firm,19/5/2023,Dubai,United Arab Emirates,Law Practice,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+51,Wallick Communities,19/5/2023,"New Albany , OH",United States,Real Estate,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,Medusa
+52,BAMSI,19/5/2023,"Brockton, Ma",United States,Individual and Family Services,1,1,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,Medusa
+53,HostAfrica,13/5/2023,"Somerset West, Cape Town",South Africa,IT Services and IT Consulting,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,Medusa
+54,Cooperativa de Ahorro y CrÃƒÂ©dito Ahorrocoop Ltda,10/5/2023,"Talca, Talca",Chile,Financial Services,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,0,Medusa
+55,Sonda (Duplicate with update),5/5/2023,"Santiago,Chile",Chile,IT Services and IT Consulting,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,Medusa
+56,The Crown Princess Mary Cancer Centre,4/5/2023,Westmead,Australia,Hospitals and Health Care,0,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+57,Polat Yol Yap,2/5/2023,"Ã„Â°stanbul, KadÃ„Â±kÃƒÂ¶y",Turkey,Construction,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+58,Alto Calore Servizi S.p.A.,2/5/2023,"AVELLINO, Avellino",Italy,Consumer Services,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1,0,Medusa
+59,Bevan Group,26/4/2023,"Wednesbury, West Midlands",United Kingdom,Truck Transportation,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,Medusa
+60,Magnolia Care Center,25/4/2023,"San Jose, California",United States,Hospitals and Health Care,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,Medusa
+61,Bentham & Holroyd Ltd,24/4/2023,"Bradford, West Workshire",United Kingdom,Industrial Machinery Manufacturing,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,Medusa
+62,WestcoastSmile Dental Studio,23/4/2023,"Vancouver, Canada",Canada,Hospitals and Health Care,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,Medusa
+63,Uniondale School District,17/4/2023,"Uniondale, New York",United States,Education Administration Programs,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,Medusa
+64,Arandell Corp,15/4/2023,"Menomonee Falls, WI",United States,Printing Services,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,Medusa
+65,"Allimand, France",15/4/2023,"Rives, Auvergne-RhÃƒÂ´ne-Alpes",France,Machinery Manufacturing,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,Medusa
+66,"Scantibodies Laboratory, Inc.",10/4/2023,"Santee, California",United States,Biotechnology,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,Medusa
+67,Atlantic International University,7/4/2023,"Honolulu, Hawaii",United States,Higher Education,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,Medusa
+68,Open University of Cyprus,6/4/2023,Nicosia,Cyprus,Higher Education,0,1,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,Medusa
+69,Sonda,3/4/2023,Santiago,Costa Rica,Information Technology & Services,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,1,0,Medusa
+70,Gujarat Mineral,24/3/2023,"AHMEDABAD, Gujarat",India,Mining,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
+71,Atlas Security,21/3/2023,"Abu Dhabi, Abu Dhabi",United Arab Emirates,IT Services and IT Consulting,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,1,0,Medusa
+72,National Institute of Ocean Technology,16/3/2023,"Tamil Nadu, Chennai",India,Engineering Services,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Medusa
+73,Bishop Luffa School,13/3/2023,"West Sussex, England",United Kingdom,Primary and Secondary Education,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,Medusa
+74,National Business Furniture,9/3/2023,"Milwaukee, WI",United States,Furniture and Home Furnishings Manufacturing,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
+75,Garbarino SAICeI,9/3/2023,Buenos Aires,Argentina,Retail,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,Medusa
+76,Minneapolis Public Schools,7/3/2023,"Minneapolis, Minnesota",United States,Education Administration Programs,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,Medusa
+77,The Institute of Space Technology,6/3/2023,Islamabad,Pakistan,Higher Education,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Medusa
+78,Kenya Airports Authority,1/3/2023,"Nairobi, Nairobi",Kenya,Aviation and Aerospace Component Manufacturing,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,Medusa
+79,Bank of Africa,25/2/2023,"Casablanca, Casablanca - Settat",Morocco,Banking,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Medusa
+80,"Moose, Martin, Haynes & Lundy",22/2/2023,North Carolina,United States,Financial Services,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Medusa
+81,RAYAB Consulting Engineers,22/2/2023,Tehran,Iran,Civil Engineering,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Medusa
+82,International Center of Photography,19/2/2023,"New York, New York",United States,Photography,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Medusa
+83,AP Emissions Technologies,17/2/2023,"Goldsboro, NC",United States,Motor Vehicle Manufacturing,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,Medusa
+84,Foamtec International,16/2/2023,"Waco, Texas",United States,Environmental Services,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,Medusa
+85,PetroChina Indonesia,15/2/2023,Jakarta,Indonesia,Oil and Gas,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
+86,Tonga Communications,11/2/2023,Nukualofa,Tonga,Telecommunications,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Medusa
+87,Diethelm Keller Aviation Pte Ltd,9/2/2023,Singapore,Singapore,Airlines and Aviation,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,Medusa
+88,Eureka Casino Resort,4/2/2023,"Mesquite, NV",United States,Gambling Facilities and Casinos,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+89,EnCom,3/2/2023,Center City - California,United States,IT Services and IT Consulting,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+90,PFA Systems,3/2/2023,"Newberry, Florida",United States,Truck Transportation,1,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,Medusa
+91,Elim Clinic,3/2/2023,"Johannesburg, Gauteng",South Africa,Non-profit Organization Management,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Medusa
+92,Elektro Richter,3/2/2023,"Hildburghausen, Thuringia",Germany,"Appliances, Electrical, and Electronics Manufacturing",0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+93,European Window,2/2/2023,"Melboune, Victoria",Australia,Wholesale Building Materials,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+94,EightPixelsSquare,25/1/2023,Derby,United Kingdom,Software Development,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Medusa
+95,Aglobis,20/1/2023,Zug,Switzeland,"Transportation, Logistics, Supply Chain and Storage",1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Medusa
+96,Integerity Tax,11/1/2023,"Long Beach, California",United States,Accounting,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Medusa
+97,Grace Church International,11/1/2023,"Wichita Falls, Texas",United States,Religious Institutions,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Medusa
+0,sirva.com,2/10/2023,NA,United States,Real Estate,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+1,cdwg.com,11/10/2023,NA,Canada,IT Services and IT Consulting,,,,,,,,,,,,,,,,,,Lockbit
+2,cdwg.com,11/10/2023,NA,Canada,IT Services and IT Consulting,,,,,,,,,,,,,,,,,,Lockbit
+3,foremostgroups.com,9/10/2023,NA,United States,Wholesale,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+4,fdf.org.uk,28/9/2023,NA,United Kingdom,Food and Beverage Services,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+5,starplast.ft,1/10/2023,NA,France,Manufacturing,,,,,,,,,,,,,,,,,,Lockbit
+6,atlantatech.edu,1/10/2023,NA,"Atlanta, Georgia",Education ,,,,,,,,,,,,,,,,,,Lockbit
+7,cfsigroup.ca,11/9/2023,NA,Canada,Construction,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+8,aquinas.qld.edu.au,1/9/2023,NA,"Queensland, Australia",Education,,,,,,,,,,,,,,,,,,Lockbit
+9,picosoft.biz,6/10/2023,NA,Tunisia,Technology Information and Media,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+10,bm.co.th,6/10/2023,NA,Thailand,Machinery Manufacturing,,,,,,,,,,,,,,,,,,Lockbit
+11,eemotors.com,6/10/2023,NA,United States,Wholesale,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+12,kendrion.com,29/8/2023,NA,Netherlands,Professional Services,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+13,ckgroup.com.tw,1/10/2023,NA,Taiwan,Construction,,,,,,,,,,,,,,,,,,Lockbit
+14,fdf.org.uk,28/9/2023,NA,United Kingdom,Food and Beverage Services,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+15,fdf.org.uk,28/9/2023,NA,United Kingdom,Food and Beverage Services,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+16,rexgroup.co.uk,28/9/2023,NA,United Kingdom,Construction,,,,,,,,,,,,,,,,,,Lockbit
+17,ezpaybuildings.net,28/9/2023,NA,United States,Financial Services,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+18,palaciodosleiloes.com.br,22/9/2023,NA,Brasil,Administrative,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+19,scmh.org.tw,26/7/2023,NA,Taiwan,Hospitals and Health Care,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+20,pelmorex.com,22/9/2023,NA,Canada,Information Services,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+21,payrollselectservices.com,20/9/2023,NA,United States,Financial Services,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Lockbit
+22,fersan.com.tr,17/9/2023,NA,Turkey,Food & Beverages,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+23,crosscity.com.au,6/6/2023,NA,Australia,"Transportation, Logistics, Supply Chain and Storage",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+24,floraalpina.ch,14/5/2023,NA,Vitzau,Accomodation and Food Services,,,,,,,,,,,,,,,,,,Lockbit
+25,osg.co.jp,14/4/2023,NA,United States,IT Services and IT Consulting,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+26,lhh.com.my,7/6/2023,NA,Malaysia,Wholesale,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+27,ewwanfried.de,7/6/2023,NA,Deutschland,Renewables & Environment,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+28,arcc.org,7/6/2023,NA,United States,Education,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+29,aluminumsandcastingsfoundry.com,7/6/2023,NA,United States,Primary Metal Manufacturing,,,,,,,,,,,,,,,,,,Lockbit
+30,metronottevigilanza.it,6/6/2023,NA,Italy,Security,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+31,trois-i.com,6/6/2023,NA,London,Financial Services,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+32,ykk.com,26/7/2023,NA,United States,Textile Manufacturing,,,,,,,,,,,,,,,,,,Lockbit
+33,ohiohistory.org,26/7/2023,NA,United States,"Museums, Historical Sites, and Zoos",,,,,,,,,,,,,,,,,,Lockbit
+34,blackjewel l.l.c.,13/7/2023,NA,United States,Manufacturing,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,1,1,Lockbit
+35,persingerlaw.com,1/8/2023,NA,United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+36,mipe.com,4/8/2023,NA,United States,Construction,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+37,eyedoc.com.na,14/7/2023,NA,Namimbia,Healthcare,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+38,wings.travel,9/8/2023,NA,United States,Travel Arrangements,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+39,2plan.com,9/8/2023,NA,United Kingdom,Financial Services,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+40,chula.ac.th,9/8/2023,NA,Thailand,Education,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+41,siampremier.co.th,13/8/2023,NA,Thailand,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+42,zain.com,27/8/2023,NA,Ã¿ÃŸÅ¸Ã‘Å¸Ã‰Å¸Ã Å¸Ã¤Ã¿â„¢,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+43,gsaenz.com.mx,29/8/2023,NA,Brasil,Food & Beverages,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+44,motsaot.co.il,29/8/2023,NA,Israel,Wholesale,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+45,michalovich.co.il,29/8/2023,NA,Israel,Construction,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+46,glat.zapweb.co.il,29/8/2023,NA,Israel,Food and Beverage Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+47,ipsenlogistics.com,29/8/2023,NA,"Morocco, Algeria","Transportation, Logistics, Supply Chain and Storage",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+48,commercialfluidpower.com,29/8/2023,NA,United States,Wholesale,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+49,neolaser.es,29/8/2023,NA,â—ŠÃ´â—ŠÂ©â—ŠÂ®â—ŠÃªâ—ŠÃº,Medical Equipment Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+50,lamaisonmercier.com,30/8/2023,NA,France,Accomodation and Food Services,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+51,aeroportlleida.cat,30/8/2023,NA,Spain,Aviation & Aerospace,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+52,mehmetceylanyapi.com.tr,30/8/2023,NA,Turkey,Retail,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+53,energyinsight.co.za,30/8/2023,NA,United States,Manufacturing,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+54,tlip2.com,31/8/2023,NA,Vietnam,Real Estate,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+55,piramidal.com.br,31/8/2023,NA,Brasil,Wholesale,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+56,antioch.edu,31/8/2023,NA,United States,Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+57,syntech.com.sg,31/8/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+58,chevalerias.com,31/8/2023,NA,France,Agriculture,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+59,faithfamilyacademy.org,1/9/2023,NA,United States,Education Administration Programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+60,dasholding.ae,2/9/2023,NA,United Arab Emirates,Investment Management,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+61,sbhc.us,2/9/2023,NA,United States,Pharmaceutical Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+62,eljayoil.com,2/9/2023,NA,United States,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+63,scottpartners.com,2/9/2023,NA,Australia,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+64,beamconstruction.com,6/9/2023,NA,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+65,stavinvest.cz,7/9/2023,NA,Belgium,Food and Beverage Manufacturing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+66,perfectlaw.com,8/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+67,milbermakris.com,8/9/2023,NA,United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+68,pelicanwoodcliff.com,15/9/2023,NA,Canada,Real Estate,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+69,carthagehospital.com,14/9/2023,NA,United States,Hospitals and Health Care,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+70,clearcreek.org,13/9/2023,NA,United States,Consumer Services,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+71,sinloc.com,12/9/2023,NA,Italy,Investment Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+72,deeroaks.com,11/9/2023,NA,United States,Mental Health Care,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+73,co.grant.mn.us,11/9/2023,NA,United States,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+74,sd69.org,8/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+75,monaco-technologies.com,8/9/2023,NA,Monaco,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+76,hanwha.com,8/9/2023,NA,South Korea,Chemical Manufacturing,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+77,gosslaw.com,3/9/2023,NA,United States,Legal Services,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,Lockbit
+78,marianoshoes.com,3/9/2023,NA,Portugal,Retail Luxury Goods and Jewelry,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+79,toua.net,7/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+80,ragasa.com.mx,6/9/2023,NA,Mexico,Manufacturing,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+81,qsoftnet.com,6/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+82,meroso.be,6/9/2023,NA,BelgiâˆšÂ´ / Belgique / Belgien,Food and Beverage Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+83,concrejato.com.br,6/9/2023,NA,Brasil,Obras de infra-estrutura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+84,protosign.it,6/9/2023,NA,India,Design Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+85,nobleweb.com,6/9/2023,NA,United States,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+86,gormanusa.com,6/9/2023,NA,United States,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+87,onyx-fire.com,6/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+88,esprigas.com,29/8/2023,NA,United States,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+89,cciamp.com,1/9/2023,NA,France,Administration publique,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+90,glprop.com,2/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+91,ramlowstein.com,2/9/2023,NA,United States,Architecture and Planning,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+92,neolife.com,2/9/2023,NA,United States,Wellness and Fitness Services,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+93,seasonsdarlingharbour.com.au,2/9/2023,NA,Australia,Hospitality,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Lockbit
+94,nerolac.com,2/9/2023,NA,India,Consumer Goods,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+95,gh2.com,2/9/2023,NA,United States,Architecture and Planning,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+96,designlink.us,2/9/2023,NA,United States,Architecture and Planning,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+97,attorneydanwinder.com,2/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+98,sterncoengineers.com,2/9/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+99,cciamp.com,1/9/2023,NA,France,Administration publique,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+100,konkconsulting.com,1/9/2023,NA,Portugal,Software Development,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+101,hamilton-techservices.com,1/9/2023,NA,United States,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+102,mayair.com.my,31/8/2023,NA,Canada,Environmental Services,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+103,vodatech.com.tr,31/8/2023,NA,,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+104,deschamps.fr,31/8/2023,NA,France,Defense and Space Manufacturing,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,Lockbit
+105,abzarsara.com,31/8/2023,NA,Ã¿ÃŸâ‚¬Ã¥Ã¿Â±Ã¿ÃŸÅ¸Ãœ,Wholesale,1,1,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,Lockbit
+106,biso.at,31/8/2023,NA,Danmark,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+107,millwgs.com,31/8/2023,NA,Malaysia,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+108,cc-gorgesardeche.fr,31/8/2023,NA,France,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+109,godbeylaw.com,31/8/2023,NA,Ohio,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+110,skystar.it,31/8/2023,NA,Indonesia,Pimpinan Modal Usaha dan Ekuitas Swasta,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+111,zep.it,31/8/2023,NA,United States,Chemical Manufacturing,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+112,rydershealth.com,30/8/2023,NA,United States,Hospitals and Health Care,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+113,losh.com,30/8/2023,NA,United States,Telecommunications,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+114,alpepipesystems.com,30/8/2023,NA,âˆšÃ±sterreich,Wholesale,1,1,0,0,0,1,1,0,0,1,1,,0,0,0,0,0,Lockbit
+115,optoflux.com,30/8/2023,NA,Deutschland,Plastics Manufacturing,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+116,grebe-korbach.de,30/8/2023,NA,Germany ,Chemical Manufacturing,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+117,mariocoelho.com,30/8/2023,NA,Portugal,,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+118,tavlit.co.il,30/8/2023,NA,Israel,Machinery Manufacturing,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+119,nieul-sur-mer.fr,30/8/2023,NA,France,Retail,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+120,feuille-erable.fr,30/8/2023,NA,France,Collecte des dâˆšÂ©chets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+121,dollinger-pierre.fr,30/8/2023,NA,France,Furniture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+122,locaparc.fr,30/8/2023,NA,France,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+123,bocca-sacs.com,30/8/2023,NA,France,Commerce de gros,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+124,potenciamaquinaria.com,30/8/2023,NA,spain,Equipment Rental Services,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+125,inouemfg.com,30/8/2023,NA,Japan,Industrial Machinery Manufacturing,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+126,annals.edu.sg,30/8/2023,NA,Singapore,Medical Practices,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+127,otltd.co.uk,30/8/2023,NA,United Kingdom,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+128,acolea.org,30/8/2023,NA,France,Organismes civiques et sociaux,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+129,guillerm-habitat.fr,30/8/2023,NA,France,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+130,auto-pieces.fr,30/8/2023,NA,Belgien,vehicle provider,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+131,emec.com.eg,30/8/2023,NA,Egypt,Civil Engineering,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+132,texline-global.com,30/8/2023,NA,India,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+133,texline-global.com,30/8/2023,NA,India,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+134,csem.qc.ca,30/8/2023,NA,Schweiz/Suisse/Svizzera/Svizra,Forschung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+135,lhvisionclinic.com,30/8/2023,NA,Canada,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+136,tuvsud.com,29/8/2023,NA,Deutschland,International Trade and Development,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+137,uprepschool.org,29/8/2023,NA,United States,Primary and Secondary Education,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+138,jamaicainn.com,29/8/2023,NA,United States,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+139,beniculturali.it,29/8/2023,NA,Italy,Government Administration,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Lockbit
+140,sherwin-electric.com,29/8/2023,NA,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+141,wkclawfirm.com,29/8/2023,NA,United States,Law Practice,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+142,greenside-sch.org,29/8/2023,NA,United Kingdom,Education Administration Programs,1,1,0,0,0,1,,0,1,0,0,0,0,0,0,0,0,Lockbit
+143,renaultinantwerpen.be,29/8/2023,NA,Belgium,vehicle provider,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+144,casa-andina.com,29/8/2023,NA,peru,Hospitality,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+145,ukseung.co.kr,29/8/2023,NA,korea,Chemical Manufacturing,,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+146,mergerecords.com,29/8/2023,NA,Carolina,Musicians,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+147,recamlaser.com,29/8/2023,NA,spain,Machinery Manufacturing,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+148,carolfoxassociates.com,29/8/2023,NA,United States,Public Relations and Communications Services,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+149,cloverbrook.com,29/8/2023,NA,United Kingdom,Textile Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+150,immoselekt.be,29/8/2023,NA,Belgien,Real Estate,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+151,fimadev.fr,29/8/2023,NA,France,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+152,younghomes.com,29/8/2023,NA,United States,Furniture,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+153,cm.gov.nc.tr,29/8/2023,NA,Nederland,Information Technology & Services,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Lockbit
+154,distribuidoradavidsa.com,29/8/2023,NA,Panama,Motor Vehicle Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+155,mergerecords.com,29/8/2023,NA,United States,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+156,senacrs.com.br,25/8/2023,NA,Brasil,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+157,qintess.com,23/8/2023,NA,Brasil,Education Administration Programs,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Lockbit
+158,newsupri.com.br,23/8/2023,NA,Brasil,IT Services and IT Consulting,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+159,jhilburn.com,27/8/2023,NA,United States,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+160,grupomartex.com,27/8/2023,NA,Mexico,Textile Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+161,purever.com,27/8/2023,NA,United States,Business Supplies & Equipment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+162,ylresin.com,28/1/2023,NA,China,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+163,iledefrance-nature.fr,23/8/2023,NA,France,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+164,apdparcel.com.au,23/8/2023,NA,Australia,Freight and Package Transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+165,decrolyamericano.edu.gt,23/8/2023,NA,Guatemala,Education Administration Programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+166,stockwellharris.com,22/8/2023,NA,United States,Legal Services,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+167,phitoformulas.com.br,19/8/2023,NA,Brasil,Medical Practices,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Lockbit
+168,macuspana.gob.mx,19/8/2023,NA,spain,Government Administration,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+169,umchealth.com,17/8/2023,NA,United States,Hospitals and Health Care,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Lockbit
+170,sgl.co.th,17/8/2023,NA,Deutschland,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+171,kriegerklatt.com,17/8/2023,NA,United States,Architecture and Planning,0,,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,Lockbit
+172,mybps.us,17/8/2023,NA,United States,Accounting,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+173,sfjazz.org,17/8/2023,NA,United States,Performing Arts,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+174,smart-swgcrc.org,17/8/2023,NA,United States,Education,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Lockbit
+175,qbcqatar.com.qa,14/8/2023,NA,Qatar,Construction,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+176,leecorpinc.com,14/8/2023,NA,United States,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+177,econsult.com,14/8/2023,NA,United States,Legal Services,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+178,luterkort.se,13/8/2023,NA,Sweden,Legal Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+179,majan.com,13/8/2023,NA,United Arab Emirates,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+180,rappenglitz.de,13/8/2023,NA,Germany,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+181,stmarysschool.co.za,13/8/2023,NA,Malaysia,Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+182,meaf.com,13/8/2023,NA,Nederland,Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+183,roxcel.com.tr,13/8/2023,NA,Thailand,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+184,zaun.co.uk,13/8/2023,NA,United Kingdom,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+185,difccourts.ae,13/8/2023,NA,United Arab Emirates,Legal Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+186,sekuro.com.tr,9/8/2023,NA,Turkey,Packaging and Containers Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+187,asfcustomers.com,9/8/2023,NA,United States,Financial Services,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+188,csem.qc.ca,9/8/2023,NA,Canada,Telecommunications,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+189,janus-engineering.com,9/8/2023,NA,United States,IT Services and IT Consulting,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+190,janus-engineering.com,9/8/2023,NA,United States,IT Services and IT Consulting,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+191,ricks-motorcycles.com,9/8/2023,NA,Germany,"	Transportation Equipment Manufacturing",1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+192,janus-engineering.com,9/8/2023,NA,United States,IT Services and IT Consulting,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+193,octoso.de,9/8/2023,NA,Germany,Professional Services,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+194,cbcstjohns.co.za,9/8/2023,NA,South Africa,Education Administration Programs,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+195,fashions-uk.com,9/8/2023,NA,United Kingdom,Retail,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+196,el-cerrito.org,9/8/2023,NA,United States,Government Administration,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+197,etisaleg.com,9/8/2023,NA,Egypt,Computers and Electronics Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+198,independenceia.org,9/8/2023,NA,United States,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+199,wuppermann.com,9/8/2023,NA,Deutschland,Mining,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+200,unitycouncil.org,9/8/2023,NA,United States,Non-profit Organizations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+201,scottevest.com,4/8/2023,NA,United States,Retail Apparel and Fashion,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+202,iqcontrols.com,4/8/2023,NA,United States,Construction,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Lockbit
+203,armortex.com,4/8/2023,NA,United States,Wholesale Building Materials,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+204,tetco.com,4/8/2023,NA,United States,Repair and Maintenance,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+205,pointpleasant.k12.nj.us,3/8/2023,NA,United States,Higher Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+206,floodlaw.com,3/8/2023,NA,United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+207,admsc.com,3/8/2023,NA,Qatar,Facilities Services,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+208,fec-corp.com,2/8/2023,NA,United States,Aviation and Aerospace Component Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+209,constructioncrd.com,2/8/2023,NA,Canada,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+210,unicorpusa.com,2/8/2023,NA,United States,Building Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+211,gerb.bg,1/8/2023,NA,Deutschland,Hoch- und Tiefbau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+212,obrelli.it,31/7/2023,NA,Italy,Construction,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+213,nbcc.org,31/7/2023,NA,United States,Professional Training and Coaching,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+214,paretophone.com,31/7/2023,NA,Australia,Non-profit Organizations,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+215,llombart.de,31/7/2023,NA,Germany,Market Research,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+216,westoaksschool.co.uk,31/7/2023,NA,United Kingdom,Education Administration Programs,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+217,haynesintl.com,26/7/2023,NA,United States,Primary Metal Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+218,twv-staderland.de,26/7/2023,NA,Deutschland,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+219,ebpsupply.com,24/7/2023,NA,United States,Business Supplies & Equipment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+220,panoramaeyecare.com,21/7/2023,NA,United States,Hospitals and Health Care,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+221,cityserve-mech.co.uk,20/7/2023,NA,United Kingdom,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+222,suninsurance.com.fj,18/7/2023,NA,New Zealand / Aotearoa,Insurance Agencies and Brokerages,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+223,johnreilly.co.uk,17/7/2023,NA,United Kingdom,Civil Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+224,hopetech.com,17/7/2023,NA,England,Sporting Goods Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+225,equmedia.es,15/7/2023,NA,United States,Advertising Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+226,magnumphotos.com,15/7/2023,NA,United States,Photography,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+227,co.langlade.wi.us,15/7/2023,NA,United States,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+228,energym.co.il,15/7/2023,NA,United Kingdom,Wellness and Fitness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+229,province.namur.be,15/7/2023,NA,United States,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+230,hgc.com.hk,15/7/2023,NA,China,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+231,greatlakesmbpm.com,15/7/2023,NA,United States,Medical Practices,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+232,konrad-mr.de,15/7/2023,NA,Germany,Electric Power Generation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+233,affinityhealthservices.ne,NA,NA,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+234,selmi.com.br,11/7/2023,NA,Brazil,Business Supplies & Equipment,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+235,sommer.eu,11/7/2023,NA,Brazil,Design Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+236,panoramaeyecare.com,11/7/2023,NA,United States,Medical Practices,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,Lockbit
+237,roys.co.uk,9/7/2023,NA,United Kingdom,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+238,buckprop.com,9/7/2023,NA,United States,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+239,siegfried.com.mx,6/7/2023,NA,Schweiz/Suisse/Svizzera/Svizra,Pharmaceutical Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+240,gacegypt.net,6/7/2023,NA,Egypt,Maritime,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+241,cls-group.com,6/7/2023,NA,United States,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+242,chasc.org,6/7/2023,NA,United States,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+243,betalandservices.com,6/7/2023,NA,United States,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+244,recamlaser.com,5/7/2023,NA,EspaâˆšÂ±a,Minerâˆšâ‰ a,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+245,eurosupport.com,5/7/2023,NA,Italy,Financial Services,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+246,mitr.com,5/7/2023,NA,Thailand,Food and Beverage Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+247,guestgroup.com.au,3/7/2023,NA,Australia,Furniture and Home Furnishings Manufacturing,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+248,oneexchangecorp.com,3/7/2023,NA,United States,Oil and Gas,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+249,snjb.net,3/7/2023,NA,United States,Construction,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+250,tedpella.com,3/7/2023,NA,United States,Nanotechnology Research,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+251,bancodevenezuela.com,3/7/2023,NA,Venezuela,Banking,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,Lockbit
+252,nagase.co.jp,3/7/2023,NA,Japan,Chemical Manufacturing,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+253,mundo-r.com,3/7/2023,NA,Spain,Manufacturing,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+254,shakeys.com,29/6/2023,NA,Philippines,Restaurants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+255,stimgroup.it,28/6/2023,NA,Italy,Fabbricazione di macchinari industriali,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Lockbit
+256,aimtron.com,28/6/2023,NA,United States,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+257,ibafrance.fr,28/6/2023,NA,France,Recreational Facilities,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+258,nagase.co.jp,24/6/2023,NA,Japan,Chemical Manufacturing,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+259,prioritydispatch.net,23/6/2023,NA,United States,Public Safety,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+260,grantierra.com,23/6/2023,NA,Canada,Oil and Gas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+261,cornu.ch,20/6/2023,NA,Switzerland,Food and Beverage Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+262,bbrook.org,20/6/2023,NA,United States,Higher Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+263,absolutecal.co.uk,19/6/2023,NA,United Kingdom,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+264,tilg.at,19/6/2023,NA,United States,Human Resources Services,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,Lockbit
+265,aquidneckclub.com,19/6/2023,NA,United States,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+266,gizavc.com,15/6/2023,NA,Israel,Venture Capital and Private Equity Principals,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+267,airtac.com,15/6/2023,NA,China,Industrial Machinery Manufacturing,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,Lockbit
+268,euskaltel.com,15/6/2023,NA,Spain,"Telecommunications
+",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+269,ste-usa.com,15/6/2023,NA,United States,Industrial Machinery Manufacturing,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+270,flybtr.com,15/6/2023,NA,United States,Airlines and Aviation,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+271,granules.com,14/6/2023,NA,India,Pharmaceutical Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+272,primeretailservices.com,14/6/2023,NA,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+273,surfsidefoods.com,14/6/2023,NA,United States,Food and Beverage Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+274,gslelectric.com,13/6/2023,NA,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+275,eriematerials.com,13/6/2023,NA,United States,Building Materials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+276,ai-thermal.com,12/6/2023,NA,Australia,Motor Vehicle Manufacturing,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,Lockbit
+277,pneusbeaucerons.com,12/6/2023,NA,Canada,Consumer Services,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+278,gruppomercurio.com,9/6/2023,NA,Italy,Truck Transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+279,wsisd.net,9/6/2023,NA,United States,Primary and Secondary Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+280,knipmeijerenblok.nl,7/6/2023,NA,Netherlands,IT System Installation and Disposal,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Lockbit
+281,irda.com.my,7/6/2023,NA,Malaysia,Perhubungan Kerajaan,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+282,aek.mk,7/6/2023,NA,Å’Ã¯Å’ÂªÅ’ÂªÅ’Â¨Å“Ã‡,Spectator Sports,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+283,manfil.com.br,7/6/2023,NA,Brasil,Retail,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+284,mundocuervo.com,7/6/2023,NA,MâˆšÂ©xico,Entertainment Providers,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+285,conseildelentente.org,7/6/2023,NA,France,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+286,newhorizonsmedical.org,7/6/2023,NA,United States,Medical Practices,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+287,realcomp.com,7/6/2023,NA,United States,Real Estate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+288,screenline.co.za,6/6/2023,NA,South Africa,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+289,pittsburg.k12.ca.us,6/6/2023,NA,United States,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+290,pentechsolution.com.my,6/6/2023,NA,Malaysia,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+291,progen.com.br,6/6/2023,NA,Brazil,Civil Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+292,birdair.com,6/6/2023,NA,United States,Construction,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,Lockbit
+293,mariohernandez.com.co,6/6/2023,NA,Colombia,Apparel Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+294,payday.com.pa,6/6/2023,NA,United States,Human Resources,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,Lockbit
+295,dalvikurbyggd.is,6/6/2023,NA,Iceland,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+296,ourrelentlesschurch.com,6/6/2023,NA,United States,Religious Institutions,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+297,vcclawservices.com,6/6/2023,NA,Hong Kong,Law Practice,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+298,summerweine.at,6/6/2023,NA,Austria,Food and Beverage Services,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,Lockbit
+299,baffetmateriaux.fr,6/6/2023,NA,France,Wholesale Building Materials,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Lockbit
+300,bintangindokaryagemilang.co.id,6/6/2023,NA,Indonesia,Manufacturing,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+301,saragroup.in,6/6/2023,NA,India,Manufacturing,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+302,wjtowell.com,6/6/2023,NA,Oman,Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+303,jeloin.se,6/6/2023,NA,Sweden,Computer Networking,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+304,iprac.com,6/6/2023,NA,Malaysia,Equipment Rental Services,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+305,stimgroup.it,6/6/2023,NA,Italy,Industrial Machinery Manufacturing,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+306,icae.net,6/6/2023,NA,,,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+307,villemandeure.fr,6/6/2023,NA,France,Government Administration,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+308,borwafs.co.za,6/6/2023,NA,South Africa,Financial Services,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+309,jacquart.fr,6/6/2023,NA,France,Furniture,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+310,tmd.go.th,6/6/2023,NA,Thailand,Government Administration,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,Lockbit
+311,etships.com,5/6/2023,NA,United States,Truck Transportation,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+312,newarka.edu,3/6/2023,NA,United Kingdom,Education Administration Programs,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+313,fredfeet.com,3/6/2023,NA,United States,Medical Practices,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+314,uhsp.edu,3/6/2023,NA,United States,Higher Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+315,nosm.ca,3/6/2023,NA,Canada,Higher Education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+316,harwoodlloyd.com,2/6/2023,NA,United States,Law Practice,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+317,packageconcepts.com,2/6/2023,NA,United States,Packaging and Containers Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+318,fsd.se,1/6/2023,NA,Sweden,Construction,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+319,voyageursdumonde.fr,28/5/2023,NA,France,Travel Arrangements,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+320,arnoldoilco.com,26/5/2023,NA,United States,Motor Vehicle Manufacturing,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+321,ultimateimageprinting.com,26/5/2023,NA,United States,Printing Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+322,fams.net,26/5/2023,NA,United States,Financial Services,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,Lockbit
+323,kyocera-avx.com,26/5/2023,NA,United States,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+324,globalinfovision.com,24/5/2023,NA,India,Information Technology & Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+325,joysonsafety.com,23/5/2023,NA,United States,Motor Vehicle Manufacturing,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+326,spectre.dk,23/5/2023,NA,Denmark,Design Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+327,rmc-canada.com,22/5/2023,NA,Canda,Office Administration,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+328,diasporacs.org,21/5/2023,NA,United States,Non-profit Organizations,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,Lockbit
+329,abe-brands.de,21/5/2023,NA,Germany,Retail Office Equipment,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+330,ebdlab.com,21/5/2023,NA,United States,Medical Equipment Manufacturing,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+331,csagh.org,19/5/2023,NA,United States,Primary and Secondary Education,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Lockbit
+332,antea.es,18/5/2023,NA,Spain,Environmental Services,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+333,metalnet.nl,18/5/2023,NA,Netherlands,Machinery Manufacturing,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+334,shoreregional.org,18/5/2023,NA,United States,Education,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+335,enovationcontrols.com,NA,NA,United States,"Appliances, Electrical, and Electronics Manufacturing",0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+336,plastictecnic.com,17/5/2023,NA,Malaysia,Plastics Manufacturing,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+337,tec-mex.com.mx,11/5/2023,NA,Mexico City,IT Services and IT Consulting,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+338,fabeckarchitectes.lu,25/4/2023,NA,Luxembourg,Architecture and Planning,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+339,ddmontaza.hr,25/4/2023,NA,Croatia,Industrial Machinery Manufacturing,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+340,midipapierspeints.fr,24/4/2023,NA,France,Wholesale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+341,sunray.com.sg,16/5/2023,NA,Singapore,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+342,chinadailyhk.com,16/5/2023,NA,Hong Kong,Newspaper Publishing,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+343,bankbsi.co.id,15/5/2023,NA,Indonesia,Banking,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+344,norcorp.com,15/5/2023,NA,United States,Printing Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+345,mundo-r.com,15/5/2023,NA,Spain,Telecommunications,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+346,tool-temp.net,15/5/2023,NA,United Kingdom,Machinery Manufacturing,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+347,pikenursery.com,14/5/2023,NA,United States,Retail,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+348,troteclaser.com,14/5/2023,NA,Austria,Machinery Manufacturing,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+349,weberweber.at,12/5/2023,NA,Austria,Insurance,1,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0,Lockbit
+350,prolinerrescue.com,12/5/2023,NA,United States,Motor Vehicle Manufacturing,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+351,viseg.com,11/5/2023,NA,Colombia,Manufacturing,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+352,vuteq.mx,11/5/2023,NA,Japanese,Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+353,goforcloud.com,24/4/2023,NA,Belgium,IT Services and IT Consulting,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+354,gocontec.com,10/5/2023,NA,United States,"Transportation, Logistics, Supply Chain and Storage",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+355,mbwswim.com,9/5/2023,NA,United States,Apparel & Fashion,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+356,interfides.de,9/5/2023,NA,Germany,Professional Services,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+357,hk-finance.pl,9/5/2023,NA,Poland,Accounting,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+358,namibmills.com,7/5/2023,NA,Namibia,Food and Beverage Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+359,layherna.com,4/5/2023,NA,United States,Construction,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+360,fullertonindia.com,3/5/2023,NA,India,Financial Services,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+361,triaflex.at,3/5/2023,NA,Austria ,Furniture and Home Furnishings Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+362,cydsa.com,3/5/2023,NA,Mexico City,Chemical Manufacturing,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+363,multimedica.it,26/4/2023,NA,Italy,Hospitals and Health Care,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+364,hasenauer-anlagenbau.at,2/5/2023,NA,Austria,Engineering Services,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+365,cloud51.com,2/5/2023,NA,,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+366,tvh.com,28/4/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+367,baughmanco.com,28/4/2023,NA,United States,Civil Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+368,stuertz.com,22/4/2023,NA,Germany,Machinery Manufacturing,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+369,olympia.org,26/4/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+370,keystonesmiles.org,26/4/2023,NA,United States,Non-profit Organizations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+371,bg2i.fr,26/4/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+372,cdcbmestihl.com,26/4/2023,NA,,Wholesale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+373,fsdc.org.hk,26/4/2023,NA,,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+374,silbon.es,26/4/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+375,imanor.gov.ma,25/4/2023,NA,Morocco,Chemical Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+376,gruponutresa.com,24/4/2023,NA,Colombia,Food and Beverage Services,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,Lockbit
+377,logicalsolutions.bc.ca,24/4/2023,NA,Canada,"Appliances, Electrical, and Electronics Manufacturing",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+378,conver-pack.com,24/4/2023,NA,United States,Packaging and Containers Manufacturing,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+379,abro.se,24/4/2023,NA,Sweden,Wholesale Alcoholic Beverages,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+380,baffetmateriaux.fr,24/4/2023,NA,France,Wholesale Building Materials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+381,tiger.jp,24/4/2023,NA,Japan,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+382,kse.org.kw,24/4/2023,NA,Kuwait,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+383,yateemgroup.com,24/4/2023,NA,United Arab Emirates,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+384,apolloscientific.co.uk,24/4/2023,NA,England,Wholesale Chemical and Allied Products,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+385,gpglobal.com,24/4/2023,NA,United Arab Emirates,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+386,esinsa.com,24/4/2023,NA,Guatemala,Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+387,bigc.co.th,24/4/2023,NA,Thailand,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+388,garrottbros.com,23/4/2023,NA,United States,Construction,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+389,tf-amd.com.my,6/4/2023,NA,Malaysia,Semiconductor Manufacturing,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+390,soapro.ao,21/4/2023,NA,Angola,Civil Engineering,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+391,pkffinconta.ro,21/4/2023,NA,Romania,Financial Services,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+392,ibp.com.br,21/4/2023,NA,Brasil,Financial Services,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+393,soshin.co.jp,21/4/2023,NA,Japan,Manufacturing,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+394,hammondlumber.com,21/4/2023,NA,United States,Wholesale Building Materials,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+395,tubosreunidosgroup.com,20/4/2023,NA,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+396,telepizza.com,20/4/2023,NA,EspaâˆšÂ±a,Hospitality,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+397,intuview.com,19/4/2023,NA,â—ŠÃ´â—ŠÂ©â—ŠÂ®â—ŠÃªâ—ŠÃº,Software Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+398,sommer.eu,19/4/2023,NA,United Kingdom,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+399,sbhc.us,19/4/2023,NA,United States,Pharmaceutical Manufacturing,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+400,islandinsurance.ca,19/4/2023,NA,United States,Insurance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+401,mangiainc.com,19/4/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+402,thesoftwareconsultinggroup.com,18/4/2023,NA,Canada,Business Consulting and Services,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+403,mitchcointernational.com,17/4/2023,NA,United States,Food and Beverage Services,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Lockbit
+404,hkiff.org.hk,17/4/2023,NA,,"Movies, Videos, and Sound",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+405,joriszorg.nl,17/4/2023,NA,Nederland,Ziekenhuizen en gezondheidszorg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+406,pinelandschool.org,17/4/2023,NA,United States,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+407,psenergy.com,17/4/2023,NA,United States,Oil and Gas,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+408,brl.fr,17/4/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+409,hacla.org,15/4/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+410,sandycove.org,14/4/2023,NA,,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+411,elsan.care,14/4/2023,NA,France,Hospitals and Health Care,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+412,moci.gov.kw,14/4/2023,NA,BelgiâˆšÂ´ / Belgique / Belgien,Restaurants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+413,vanderkaay.com,14/4/2023,NA,United States,Financial Services,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+414,aristopharma.com,14/4/2023,NA,Bangladesh,Pharmaceutical Manufacturing,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+415,crystalcreamery.com,14/4/2023,NA,United States,Food Production,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+416,dmos.com,14/4/2023,NA,Deutschland,Semiconductor Manufacturing,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+417,homeandhearthealth.com,13/4/2023,NA,,Hospitals and Health Care,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+418,techhard.ae,10/3/2023,NA,United Arab Emirates,Manufacturing,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+419,ksrsac.karnataka.gov.in,21/3/2023,NA,,,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+420,fameline.com,13/4/2023,NA,Å’Ã¶Å“Ã§Å“Ã„Å“Ã…Å’Ã¸Å“Ã‡ - KÆ’Â±brÆ’Â±s,Maritime,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+421,darktrace.com,13/4/2023,NA,United Kingdom,Computer and Network Security,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+422,fosfa.cz,13/4/2023,NA,United States,International Trade and Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+423,bcncruiseport.com,13/4/2023,NA,EspaâˆšÂ±a,Maritime Transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+424,teleferico.com,13/4/2023,NA,EspaâˆšÂ±a,Restaurants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+425,conseildelentente.org,11/4/2023,NA,France,Business Consulting and Services,1,1,,,,1,1,,,,,,,,,,,Lockbit
+426,servex-us.com,11/4/2023,NA,United States,Advertising Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+427,comacchio.com,11/4/2023,NA,Italy,Produzione di macchinari,1,1,,1,,1,,,,,,,,,,,,Lockbit
+428,grouplease.co.th,11/4/2023,NA,â€¡âˆÃµâ€¡âˆÂ£â€¡âˆâˆžâ€¡Ï€Ã„â€¡âˆÃ³â€¡âˆÂ®â€¡Ï€Ã‘â€¡âˆÃ³â€¡âˆÂ¢,Financial Services,1,1,,1,,1,1,,,,,,,,,,,Lockbit
+429,sxi.com.ph,7/4/2023,NA,Nederland,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+430,omscomponents.it,4/4/2023,NA,Italy,Fabbricazione di macchinari industriali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+431,biosonicsinc.com,4/4/2023,NA,United States,Environmental Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+432,dana-group.com,4/4/2023,NA,Ã¿ÃŸÅ¸Ã‘Ã¿â€¢Å¸Ã–Ã¿ÃŸÃ¿Â±Ã¿ÃŸÃ¿â„¢ Ã¿ÃŸÅ¸Ã‘Ã¿Ï€Ã¿Â±Ã¿Â®Å¸Ã¤Ã¿Â© Ã¿ÃŸÅ¸Ã‘Å¸Ã–Ã¿â„¢Ã¿â‰ Ã¿Ã˜Ã¿Â©,Ã¿â„¢Ã¿ÂµÅ¸ÃœÅ¸Ã¤Ã¿Ï€ Ã¿ÃŸÅ¸Ã‘Ã¿Â¢Å¸Ã‘Ã¿ÃŸÃ¿â„¢ Ã¿ÃŸÅ¸Ã‘Ã¿ÂµÅ¸ÃœÃ¿ÃŸÃ¿Ï€Å¸Ã¤Ã¿Â©,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+433,vissan.com.vn,4/4/2023,NA,,Food and Beverage Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+434,prlabs.com,4/4/2023,NA,United States,Wellness and Fitness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+435,vernegroup.com,3/4/2023,NA,EspaâˆšÂ±a,Servicios de TI y consultorâˆšâ‰ a de TI,,1,,,1,1,1,,,,,,,,,,,Lockbit
+436,revvaviation.com,3/4/2023,NA,United States,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+437,wcinet.com,3/4/2023,NA,United States,Advertising Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+438,p-and-r.com,1/4/2023,NA,,Design Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+439,ativy.com,31/3/2023,NA,Brasil,ServiâˆšÃŸos e consultoria de TI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+440,hacla.org,31/3/2023,NA,United States,Government Administration,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+441,groupe-seche.com,30/3/2023,NA,France,Banking,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+442,theus-industries.fr,30/3/2023,NA,,,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+443,tharworx.com,30/3/2023,NA,,Hospitals and Health Care,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+444,bianchiindustry.com,29/3/2023,NA,Italy,Machinery Manufacturing,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,Lockbit
+445,nts.go.kr,29/3/2023,NA,Singapore,Mechanical Or Industrial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+446,nts.go.kr,29/3/2023,NA,Singapore,Mechanical Or Industrial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+447,piramal.com,27/3/2023,NA,India,Pharmaceutical Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+448,errebielle.it,27/3/2023,NA,Italy,Furniture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+449,lqtbg.com.cn,27/3/2023,NA,China,Wine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+450,ulmacarretillas.com,27/3/2023,NA,EspaâˆšÂ±a,"Transportation, Logistics, Supply Chain and Storage",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+451,medellin.gov.co,27/3/2023,NA,India,Musicians,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+452,alliedtools.com,27/3/2023,NA,United States,Retail,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+453,sakrgroup.net,27/3/2023,NA,,Food and Beverage Services,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+454,wcso.us,27/3/2023,NA,,Government Administration,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Lockbit
+455,bocca-sacs.com,27/3/2023,NA,France,Commerce de gros,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+456,nougat-carlier.be,27/3/2023,NA,,,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+457,mangalagroup.com,27/3/2023,NA,India,Food Production,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+458,nonson.com.vn,27/3/2023,NA,Australia,Maritime Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+459,ita-moulding-process.com,26/3/2023,NA,France,Services relatifs aux bâˆšÂ¢timents,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+460,giga.com.vc,25/3/2023,NA,Singapore,Telecommunications,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+461,demechindia.com,25/3/2023,NA,India,Mechanical Or Industrial Engineering,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+462,precisionit.co.in,25/3/2023,NA,Argentina,IT Services and IT Consulting,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+463,securens.in,24/3/2023,NA,,Security and Investigations,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Lockbit
+464,bianchiindustry.com,24/3/2023,NA,Italy,Machinery Manufacturing,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,Lockbit
+465,tecnosysitalia.eu,22/3/2023,NA,Italy,IT Services and IT Consulting,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+466,kaycan.com,14/3/2023,NA,Canada,Wholesale Building Materials,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+467,cabinet-paillet.fr,21/3/2023,NA,France,Accounting,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+468,stolt-nielsen.com,21/3/2023,NA,United States,"Transportation, Logistics, Supply Chain and Storage",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+469,the3rivers.net,21/3/2023,NA,United Kingdom,Education Administration Programs,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+470,bakermech.com,21/3/2023,NA,United States,Construction,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+471,roslevauto.dk,21/3/2023,NA,,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+472,cityofallenpark.org,21/3/2023,NA,United States,Truck Transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+473,stavinvest.cz,19/3/2023,NA,Czech Republic,Construction,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+474,id-logistics.com,19/3/2023,NA,United States,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+475,hitzler-ingenieure.de,19/3/2023,NA,Germany,Baugewerbe,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+476,bbsautomation.com,19/3/2023,NA,Germany,Machinery Manufacturing,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+477,spoormaker.co.za,19/3/2023,NA,South Africa,Engineering Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+478,r-pac.com,17/3/2023,NA,United States,Packaging and Containers Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+479,gruppobeltrame.com,14/2/2023,NA,Italy,Mining,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+480,sabena-engineering.com,13/3/2023,NA,Belgium,Airlines and Aviation,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,Lockbit
+481,essendant.com,14/3/2023,NA,United States,Wholesale,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,Lockbit
+482,ktcs.com.my,16/3/2023,NA,Malaysia,Fabricated Metal Products,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+483,boothtransport.com,16/3/2023,NA,Australia,Truck Transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+484,radium.com.tw,16/3/2023,NA,United States,Broadcast Media Production and Distribution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+485,buehnen.de,16/3/2023,NA,Germany,Chemical Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+486,meatel.com,16/3/2023,NA,Lebanon,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+487,mandirisekuritas.co.id,16/3/2023,NA,Indonesia,Investment Banking,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+488,waldogeneral.com,16/3/2023,NA,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+489,perfectplacement.co.uk,16/3/2023,NA,England,Staffing and Recruiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+490,regaltax.us,16/3/2023,NA,United States,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+491,emotorsdirect.ca,14/3/2023,NA,Canada,Wholesale,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,Lockbit
+492,fiege.com,14/3/2023,NA,Deutschland,"Transport, Logistik, Lieferkette und Lagerhaltung",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+493,maximumind.com,13/3/2023,NA,United States,Industrial Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+494,plasticproductsco.com,13/3/2023,NA,United States,Plastics Manufacturing,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+495,jaureguy.com.ar,12/3/2023,NA,Argentina,Beverage wholesale and retail,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Lockbit
+496,schradercamargo.com,11/3/2023,NA,Colombia,Construction,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+497,grupohospitalarvidas.com.br,11/3/2023,NA,Brasil,Hospitais e atendimento âˆšâ€  saâˆšâˆ«de,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+498,bonta-viva.it,11/3/2023,NA,Italy,Produzione lattiero-casearia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+499,wyckoffcomfort.com,11/3/2023,NA,United States,Consumer Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+500,greggardnergm.com,11/3/2023,NA,Canada,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+501,lubrimetal.com,11/3/2023,NA,Italy,Chemical Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+502,meinet.com,11/3/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+503,brandywine-homes.com,11/3/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+504,cqservice.sk,11/3/2023,NA,Slovensko,Information Technology & Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+505,inphenix.com,11/3/2023,NA,United States,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+506,omegaservicos.com.br,11/3/2023,NA,Brasil,Security and Investigations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+507,cktc.edu,11/3/2023,NA,Ã¿ÃŸÅ¸Ã‘Ã¿â‰¥Ã¿Ï€Å¸Ã Ã¿Ã˜Å¸Ã¤Ã¿Â©,Professional Training and Coaching,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+508,favoritefoods.com,11/3/2023,NA,United States,Food and Beverage Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+509,eprinsa.es,10/3/2023,NA,Spain,Government Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+510,micos.com,10/3/2023,NA,Australia,Construction,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+511,drilmaco.com,10/3/2023,NA,Singapore,Oil and Gas,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+512,heidelbergbread.com,10/3/2023,NA,United States,Wholesale,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+513,schauenburg.com,10/3/2023,NA,Deutschland,Mining,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+514,alpes-sante-travail.org,10/3/2023,NA,France,Organismes civiques et sociaux,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+515,kisp.com,10/3/2023,NA,Canada,Design Services,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+516,pmsoffice.de,9/3/2023,NA,Deutschland,Government Administration,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+517,audio-technica.com,9/3/2023,NA,United States,Computers and Electronics Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+518,mcna.net,7/3/2023,NA,United States,Insurance,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+519,gdz.com,7/3/2023,NA,France,"Movies, Videos, and Sound",0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+520,hendrickcorp.com,6/3/2023,NA,United States,Manufacturing,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+521,greekpeak.net,13/2/2023,NA,United States,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+522,nicklaus.com,6/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+523,ascentengrs.com,2/3/2023,NA,,"Appliances, Electrical, and Electronics Manufacturing",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+524,jams.edu.jo,6/2/2023,NA,Jordan,Education ,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+525,nlsmichigan.org,2/2/2023,NA,United States,Non-profit Organizations,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+526,prlabs.com,6/2/2023,NA,United States,Wellness and Fitness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+527,bethrivkah.edu,2/2/2023,NA,Australia,Education Administration Programs,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+528,scandia.ro,2/2/2023,NA,Nederland,Apparel Manufacturing,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+529,kostika.co.il,2/2/2023,NA,Israel,Architecture and Planning,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+530,elsan.care,24/1/2023,NA,France,Healthcare,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+531,newbridge.org,16/2/2023,NA,Singapore,Human Resources,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+532,plasmasurgical.com,2/2/2023,NA,United Kingdom,Wellness and Fitness Services,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+533,tjel.net,1/3/2023,NA,Thailand,Oil and Gas,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+534,egas.no,1/3/2023,NA,Egypt,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+535,laxmi.com,1/3/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+536,indigo.ca,28/2/2023,NA,India,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+537,hafele.com,28/2/2023,NA,Singapore,Building Materials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+538,princepalace.co.th,28/2/2023,NA,,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+539,nokair.com,28/2/2023,NA,,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+540,haeco.com,28/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+541,df.senac.br,28/2/2023,NA,,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+542,georgeleslie.co.uk,28/2/2023,NA,United Kingdom,Civil Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+543,wmich.edu,28/2/2023,NA,United States,Higher Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+544,cobcreditunion.com,28/2/2023,NA,Barbados,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+545,globalcommunities.org,28/2/2023,NA,United States,International Trade and Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+546,lsa-international.com,28/2/2023,NA,,Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+547,hico-ics.com,28/2/2023,NA,âˆšÃ±sterreich,Aviation & Aerospace,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+548,rosenbauer.com,27/2/2023,NA,âˆšÃ±sterreich,Automotive,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+549,ilfsindia.com,27/2/2023,NA,,Investment Banking,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+550,royalmailgroup.com,6/2/2023,NA,United Kingdom,Truck Transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+551,skylinetrisource.com,22/2/2023,NA,United States,Advertising Services,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+552,cotteeparker.com.au,22/2/2023,NA,Australia,Architecture and Planning,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,Lockbit
+553,beacontech.net,21/2/2023,NA,,IT Services and IT Consulting,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+554,treves-group.com,21/2/2023,NA,France,Motor Vehicle Parts Manufacturing,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,Lockbit
+555,lyonhealy.com,21/2/2023,NA,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+556,carlocksystems.com,20/2/2023,NA,Nederland,Productie motorvoertuigen,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+557,womgroup.com,19/2/2023,NA,United States,Oil and Gas,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+558,anthonymartin.be,19/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+559,elliotthomes.com,19/2/2023,NA,United States,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+560,laremo.de,19/2/2023,NA,Maroc â€šÂµÃ§â€šÂµÃ©â€šÂµÃ±â€šÂµÃ®â€šÂµÃ¢â€šÂ¥Â± Ã¿ÃŸÅ¸Ã‘Å¸Ã–Ã¿âˆ«Ã¿Â±Ã¿Â®,Higher Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+561,servicesfinanciersjdf.com,19/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+562,jetboxcargo.com,19/2/2023,NA,Costa Rica,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+563,bakermechanicalinc.com,19/2/2023,NA,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+564,championfp.com,18/2/2023,NA,United States,Construction,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+565,inowai.com,18/2/2023,NA,LâˆšÂ´tzebuerg,Immobilier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+566,aguasdoporto.pt,18/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+567,diavaz.com,18/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+568,isosteo.fr,18/2/2023,NA,France,Higher Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+569,primorossi.com.br,18/2/2023,NA,Brasil,ServiâˆšÃŸos financeiros,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+570,innophaseinc.com,17/2/2023,NA,United States,Semiconductor Manufacturing,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,Lockbit
+571,hotdesk.me,17/2/2023,NA,Ã¿ÃŸÅ¸Ã‘Ã¿â€¢Å¸Ã–Ã¿ÃŸÃ¿Â±Ã¿ÃŸÃ¿â„¢ Ã¿ÃŸÅ¸Ã‘Ã¿Ï€Ã¿Â±Ã¿Â®Å¸Ã¤Ã¿Â© Ã¿ÃŸÅ¸Ã‘Å¸Ã–Ã¿â„¢Ã¿â‰ Ã¿Ã˜Ã¿Â©,"Technology, Information and Internet",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+572,fikes.com,17/2/2023,NA,United States,Facilities Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+573,cordfinancial.com,17/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+574,royallepage.ca,16/2/2023,NA,Canada,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+575,ziapueblo.org,16/2/2023,NA,United States,Government Administration,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+576,vitrox.com,16/2/2023,NA,Malaysia,"Appliances, Electrical, and Electronics Manufacturing",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+577,coreautomation.com,16/2/2023,NA,Å’Ã¯Å’ÂªÅ’ÂªÅ’Â¨Å“Ã‡,Automation Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+578,piercetransit.org,15/2/2023,NA,United States,Truck Transportation,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+579,nationallocums.co.uk,15/2/2023,NA,United Kingdom,Staffing and Recruiting,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Lockbit
+580,myerspower.com,14/2/2023,NA,United States,"Appliances, Electrical, and Electronics Manufacturing",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+581,cefcostores.com,14/2/2023,NA,United States,Retail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+582,albanesi.com.ar,14/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+583,montibello.com,14/2/2023,NA,EspaâˆšÂ±a,Fabricaciâˆšâ‰¥n de productos de cuidado personal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+584,richardsind.com,14/2/2023,NA,United States,Industrial Machinery Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+585,srf.com,14/2/2023,NA,India,Chemical Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+586,kboattorneys.com,14/2/2023,NA,United States,Law Practice,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Lockbit
+587,delawarelife.com,14/2/2023,NA,,,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+588,trudi.it,13/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+589,blackandwhitecabs.com.au,13/2/2023,NA,Australia,Travel Arrangements,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+590,semsinc.net,13/2/2023,NA,United States,Environmental Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+591,tucsoneyecare.com,13/2/2023,NA,United States,Medical Practices,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+592,laganscg.com,13/2/2023,NA,United Kingdom,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+593,mdstrucking.com,13/2/2023,NA,United States,International Trade and Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+594,menziesaviation.com,13/2/2023,NA,United Kingdom,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+595,prinovaglobal.com,13/2/2023,NA,United Kingdom,Food and Beverage Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+596,mhstech.com,12/2/2023,NA,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+597,ppinvestors.com,12/2/2023,NA,Zambia,Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+598,wilsonart.co.th,12/2/2023,NA,United States,Wholesale Building Materials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+599,olsenlawgroup.com,12/2/2023,NA,United States,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+600,lhermite-agri.com,12/2/2023,NA,France,Wholesale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+601,covermeinsurance.com,12/2/2023,NA,United States,Insurance,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+602,mrkpc.com,12/2/2023,NA,United States,Law Practice,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+603,cassaragionieri.it,9/2/2023,NA,Italy,Financial Services,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+604,arcessex.org,9/2/2023,NA,United States,Individual and Family Services,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+605,maysecc.com,7/2/2023,NA,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+606,transports-feuillet.fr,7/2/2023,NA,France,Transport routier,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Lockbit
+607,interpaving.com,7/2/2023,NA,Canada,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+608,adamjeeinsurance.com,6/2/2023,NA,Å¸Ã¦Ã¿ÃŸâ„Â©Ã¿â‰¥Ã¿â„¢Ã¿ÃŸÅ¸Ãœ,Insurance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+609,ckfinc.com,6/2/2023,NA,United States,Food and Beverage Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+610,hildinganders.com,6/2/2023,NA,Sverige,Furniture and Home Furnishings Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+611,hkri.com,6/2/2023,NA,China,Real Estate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+612,phihong.com.tw,6/2/2023,NA,Taiwan,Manufacturing,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
+613,bplawyers.co.id,5/2/2023,NA,Australia,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+614,virtuosgames.com,3/2/2023,NA,Singapore,Computer Games,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+615,urmgroup.com.au,31/1/2023,NA,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+616,guardiananalytics.com,3/2/2023,NA,United States,Computer and Network Security,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Lockbit
+617,fabricatedpipe.com,2/2/2023,NA,United States,Fabricated Metal Products,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+618,pharmagestao.com.br,1/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+619,nexuspoint.com,31/1/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+620,geraardsbergen.be,31/1/2023,NA,BelgiâˆšÂ´ / Belgique / Belgien,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+621,parkavedoors.com,31/1/2023,NA,United States,Wholesale Building Materials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+622,tcels.or.th,31/1/2023,NA,â€¡âˆÃµâ€¡âˆÂ£â€¡âˆâˆžâ€¡Ï€Ã„â€¡âˆÃ³â€¡âˆÂ®â€¡Ï€Ã‘â€¡âˆÃ³â€¡âˆÂ¢,Wellness and Fitness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+623,2cara.fr,31/1/2023,NA,France,ComptabilitâˆšÂ©,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+624,transportsn.com,30/1/2023,NA,Singapore,"Transportation, Logistics, Supply Chain and Storage",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+625,cantinatollo.it,30/1/2023,NA,Italy,Beverage Manufacturing,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+626,wealthwise.com.au,30/1/2023,NA,Australia,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+627,luacesasesores.es,30/1/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+628,fritsche.eu.com,30/1/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+629,cm-vimioso.pt,30/1/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+630,dsavocats.com,30/1/2023,NA,France,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+631,airalbania.com.al,30/1/2023,NA,ShqipâˆšÂ´ria,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+632,8x8.com,30/1/2023,NA,United States,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+633,bulldoggroupinc.com,30/1/2023,NA,United States,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+634,cplindustries.co.uk,30/1/2023,NA,United Kingdom,Oil and Coal Product Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+635,kvie.org,30/1/2023,NA,United States,Broadcast Media Production and Distribution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+636,juvaskin.com,30/1/2023,NA,United States,Medical Practices,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+637,itsservicios.com.mx,30/1/2023,NA,Polska,IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+638,qsi-q3.de,29/1/2023,NA,United States,Consumer Services,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+639,xlntinc.com,24/1/2023,NA,United States,Software Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+640,miguelmechanical.com,22/1/2023,NA,United States,Oil and Gas,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+641,ibb-business-team.de,22/1/2023,NA,Berlin,Financial Services,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+642,payroll2u.com,19/1/2023,NA,Singapore,Human Resources Services,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+643,tvk.nl,18/1/2023,NA,Netherlands,Motor Vehicle Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+644,duomed.com,18/1/2023,NA,France,Medical Equipment Manufacturing,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+645,merlinpcbgroup.com,18/1/2023,NA,United Kingdom,"Appliances, Electrical, and Electronics Manufacturing",0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,Lockbit
+646,politriz.ind.br,16/1/2023,NA,Brasil,Chemical Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+647,atcuae.ae,16/1/2023,NA,United Arab Emirates,Automotive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+648,melody.com.tr,16/1/2023,NA,Turkey,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+649,ak.com.sa,16/1/2023,NA,Saudi Arabia,Retail,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+650,fulfilmentmatters.co.uk,16/1/2023,NA,United Kingdom,"Transportation, Logistics, Supply Chain and Storage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+651,matrixschools.edu.my,14/1/2023,NA,Malaysia,Primary and Secondary Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+652,russellfinex.com,12/1/2023,NA,England,Mechanical Or Industrial Engineering,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
+653,nuxe.com,12/1/2023,NA,France,Personal Care Product Manufacturing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Lockbit
+654,versteden.com,12/1/2023,NA,Nederland,Plastic Manufacturing,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
+655,lidestrifoodanddrink.com,12/1/2023,NA,United States,Food and Beverage Services,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+656,muellergartenbau.ch,12/1/2023,NA,Schweiz/Suisse/Svizzera/Svizra,Construction,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+657,datair.com,10/1/2023,NA,United States,Software Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+658,flatironssolutions.com,9/1/2023,NA,United States,IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lockbit
+659,juarez.gob.mx,7/1/2023,NA,Mexico,Administration of Justice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+660,takamiya.co,7/1/2023,NA,Japan,Construction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+661,aliat.group,NA,NA,Vietnam,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+662,kkcsworld.com,NA,NA,United States,Construction,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit

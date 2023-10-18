@@ -1,0 +1,665 @@
+,Company_Name,Date_of_leak,Company_Country,Industry_Type,Personal Identifiable Information (PII),Financial Data,Healthcare Information,Employee and HR Data,Intellectual Property and Trade Secrets,Customer and Client Data,Legal Documents,Government and Defense Information,Educational Data,Credentials and Access Information,Databases,Website Data,Backup Data,Video and Surveillance Footage,Social Media Data,Utility and Infrastructure Data,Sensitive Communication,Ransomware_Group,Company_Address
+0,sirva.com,02/10/2023,United States,Real Estate,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+1,cdwg.com,11/10/2023,Canada,IT Services and IT Consulting,,,,,,,,,,,,,,,,,,Lockbit,NA
+2,cdwg.com,11/10/2023,Canada,IT Services and IT Consulting,,,,,,,,,,,,,,,,,,Lockbit,NA
+3,foremostgroups.com,09/10/2023,United States,Wholesale,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+4,fdf.org.uk,28/09/2023,United Kingdom,Food and Beverage Services,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+5,starplast.ft,01/10/2023,France,Manufacturing,,,,,,,,,,,,,,,,,,Lockbit,NA
+6,atlantatech.edu,01/10/2023,"Atlanta, Georgia",Education ,,,,,,,,,,,,,,,,,,Lockbit,NA
+7,cfsigroup.ca,11/09/2023,Canada,Construction,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+8,aquinas.qld.edu.au,01/09/2023,"Queensland, Australia",Education,,,,,,,,,,,,,,,,,,Lockbit,NA
+9,picosoft.biz,06/10/2023,Tunisia,Technology Information and Media,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+10,bm.co.th,06/10/2023,Thailand,Machinery Manufacturing,,,,,,,,,,,,,,,,,,Lockbit,NA
+11,eemotors.com,06/10/2023,United States,Wholesale,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+12,kendrion.com,29/08/2023,Netherlands,Professional Services,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+13,ckgroup.com.tw,01/10/2023,Taiwan,Construction,,,,,,,,,,,,,,,,,,Lockbit,NA
+14,fdf.org.uk,28/09/2023,United Kingdom,Food and Beverage Services,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+15,fdf.org.uk,28/09/2023,United Kingdom,Food and Beverage Services,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+16,rexgroup.co.uk,28/09/2023,United Kingdom,Construction,,,,,,,,,,,,,,,,,,Lockbit,NA
+17,ezpaybuildings.net,28/09/2023,United States,Financial Services,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+18,palaciodosleiloes.com.br,22/09/2023,Brasil,Administrative,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+19,scmh.org.tw,26/07/2023,Taiwan,Hospitals and Health Care,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+20,pelmorex.com,22/09/2023,Canada,Information Services,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+21,payrollselectservices.com,20/09/2023,United States,Financial Services,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+22,fersan.com.tr,17/09/2023,Turkey,Food & Beverages,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+23,crosscity.com.au,06/06/2023,Australia,"Transportation, Logistics, Supply Chain and Storage",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+24,floraalpina.ch,14/05/2023,Vitzau,Accomodation and Food Services,,,,,,,,,,,,,,,,,,Lockbit,NA
+25,osg.co.jp,14/04/2023,United States,IT Services and IT Consulting,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+26,lhh.com.my,07/06/2023,Malaysia,Wholesale,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+27,ewwanfried.de,07/06/2023,Deutschland,Renewables & Environment,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+28,arcc.org,07/06/2023,United States,Education,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+29,aluminumsandcastingsfoundry.com,07/06/2023,United States,Primary Metal Manufacturing,,,,,,,,,,,,,,,,,,Lockbit,NA
+30,metronottevigilanza.it,06/06/2023,Italy,Security,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+31,trois-i.com,06/06/2023,London,Financial Services,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+32,ykk.com,26/07/2023,United States,Textile Manufacturing,,,,,,,,,,,,,,,,,,Lockbit,NA
+33,ohiohistory.org,26/07/2023,United States,"Museums, Historical Sites, and Zoos",,,,,,,,,,,,,,,,,,Lockbit,NA
+34,blackjewel l.l.c.,13/07/2023,United States,Manufacturing,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,Lockbit,NA
+35,persingerlaw.com,01/08/2023,United States,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+36,mipe.com,04/08/2023,United States,Construction,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+37,eyedoc.com.na,14/07/2023,Namimbia,Healthcare,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+38,wings.travel,09/08/2023,United States,Travel Arrangements,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+39,2plan.com,09/08/2023,United Kingdom,Financial Services,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+40,chula.ac.th,09/08/2023,Thailand,Education,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+41,siampremier.co.th,13/08/2023,Thailand,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+42,zain.com,27/08/2023,ÿßŸÑŸÉŸàŸäÿ™,Telecommunications,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+43,gsaenz.com.mx,29/08/2023,Brasil,Food & Beverages,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+44,motsaot.co.il,29/08/2023,Israel,Wholesale,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+45,michalovich.co.il,29/08/2023,Israel,Construction,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+46,glat.zapweb.co.il,29/08/2023,Israel,Food and Beverage Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+47,ipsenlogistics.com,29/08/2023,"Morocco, Algeria","Transportation, Logistics, Supply Chain and Storage",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+48,commercialfluidpower.com,29/08/2023,United States,Wholesale,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+49,neolaser.es,29/08/2023,◊ô◊©◊®◊ê◊ú,Medical Equipment Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+50,lamaisonmercier.com,30/08/2023,France,Accomodation and Food Services,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+51,aeroportlleida.cat,30/08/2023,Spain,Aviation & Aerospace,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+52,mehmetceylanyapi.com.tr,30/08/2023,Turkey,Retail,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+53,energyinsight.co.za,30/08/2023,United States,Manufacturing,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+54,tlip2.com,31/08/2023,Vietnam,Real Estate,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+55,piramidal.com.br,31/08/2023,Brasil,Wholesale,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+56,antioch.edu,31/08/2023,United States,Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+57,syntech.com.sg,31/08/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+58,chevalerias.com,31/08/2023,France,Agriculture,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+59,faithfamilyacademy.org,01/09/2023,United States,Education Administration Programs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+60,dasholding.ae,02/09/2023,United Arab Emirates,Investment Management,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+61,sbhc.us,02/09/2023,United States,Pharmaceutical Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+62,eljayoil.com,02/09/2023,United States,Oil and Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+63,scottpartners.com,02/09/2023,Australia,Accounting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+64,beamconstruction.com,06/09/2023,United States,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+65,stavinvest.cz,07/09/2023,Belgium,Food and Beverage Manufacturing,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+66,perfectlaw.com,08/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+67,milbermakris.com,08/09/2023,United States,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+68,pelicanwoodcliff.com,15/09/2023,Canada,Real Estate,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+69,carthagehospital.com,14/09/2023,United States,Hospitals and Health Care,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+70,clearcreek.org,13/09/2023,United States,Consumer Services,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+71,sinloc.com,12/09/2023,Italia,Investment Management,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+72,deeroaks.com,11/09/2023,United States,Mental Health Care,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+73,co.grant.mn.us,11/09/2023,United States,Retail Apparel and Fashion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+74,sd69.org,08/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+75,monaco-technologies.com,08/09/2023,Monaco,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+76,hanwha.com,08/09/2023,South Korea,Chemical Manufacturing,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+77,gosslaw.com,03/09/2023,United States,Legal Services,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+78,marianoshoes.com,03/09/2023,Portugal,Retail Luxury Goods and Jewelry,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+79,toua.net,07/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+80,ragasa.com.mx,06/09/2023,Mexico,Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+81,qsoftnet.com,06/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+82,meroso.be,06/09/2023,Belgi√´ / Belgique / Belgien,Food and Beverage Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+83,concrejato.com.br,06/09/2023,Brasil,Obras de infra-estrutura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+84,protosign.it,06/09/2023,India,Design Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+85,nobleweb.com,06/09/2023,United States,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+86,gormanusa.com,06/09/2023,United States,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+87,onyx-fire.com,06/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+88,esprigas.com,29/08/2023,United States,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+89,cciamp.com,01/09/2023,France,Administration publique,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+90,glprop.com,02/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+91,ramlowstein.com,02/09/2023,United States,Architecture and Planning,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+92,neolife.com,02/09/2023,United States,Wellness and Fitness Services,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+93,seasonsdarlingharbour.com.au,02/09/2023,Australia,Hospitality,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+94,nerolac.com,02/09/2023,India,Consumer Goods,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+95,gh2.com,02/09/2023,United States,Architecture and Planning,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+96,designlink.us,02/09/2023,United States,Architecture and Planning,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+97,attorneydanwinder.com,02/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+98,sterncoengineers.com,02/09/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+99,cciamp.com,01/09/2023,France,Administration publique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+100,konkconsulting.com,01/09/2023,Portugal,Software Development,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+101,hamilton-techservices.com,01/09/2023,United States,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+102,mayair.com.my,31/08/2023,Canada,Environmental Services,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+103,vodatech.com.tr,31/08/2023,,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+104,deschamps.fr,31/08/2023,France,Defense and Space Manufacturing,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+105,abzarsara.com,31/08/2023,ÿß€åÿ±ÿßŸÜ,Wholesale,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+106,biso.at,31/08/2023,Danmark,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+107,millwgs.com,31/08/2023,Malaysia,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+108,cc-gorgesardeche.fr,31/08/2023,France,Government Administration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+109,godbeylaw.com,31/08/2023,Ohio,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+110,skystar.it,31/08/2023,Indonesia,Pimpinan Modal Usaha dan Ekuitas Swasta,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+111,zep.it,31/08/2023,United States,Chemical Manufacturing,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+112,rydershealth.com,30/08/2023,United States,Hospitals and Health Care,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+113,losh.com,30/08/2023,United States,Telecommunications,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+114,alpepipesystems.com,30/08/2023,√ñsterreich,Wholesale,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+115,optoflux.com,30/08/2023,Deutschland,Plastics Manufacturing,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+116,grebe-korbach.de,30/08/2023,Germany ,Chemical Manufacturing,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+117,mariocoelho.com,30/08/2023,Portugal,,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+118,tavlit.co.il,30/08/2023,Israel,Machinery Manufacturing,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+119,nieul-sur-mer.fr,30/08/2023,France,Retail,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+120,feuille-erable.fr,30/08/2023,France,Collecte des d√©chets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+121,dollinger-pierre.fr,30/08/2023,France,Furniture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+122,locaparc.fr,30/08/2023,France,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+123,bocca-sacs.com,30/08/2023,France,Commerce de gros,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+124,potenciamaquinaria.com,30/08/2023,spain,Equipment Rental Services,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+125,inouemfg.com,30/08/2023,Japan,Industrial Machinery Manufacturing,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+126,annals.edu.sg,30/08/2023,Singapore,Medical Practices,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+127,otltd.co.uk,30/08/2023,United Kingdom,Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+128,acolea.org,30/08/2023,France,Organismes civiques et sociaux,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+129,guillerm-habitat.fr,30/08/2023,France,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+130,auto-pieces.fr,30/08/2023,Belgien,vehicle provider,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+131,emec.com.eg,30/08/2023,Egypt,Civil Engineering,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+132,texline-global.com,30/08/2023,India,Retail Apparel and Fashion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+133,texline-global.com,30/08/2023,India,Retail Apparel and Fashion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+134,csem.qc.ca,30/08/2023,Schweiz/Suisse/Svizzera/Svizra,Forschung,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+135,lhvisionclinic.com,30/08/2023,Canada,Retail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+136,tuvsud.com,29/08/2023,Deutschland,International Trade and Development,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+137,uprepschool.org,29/08/2023,United States,Primary and Secondary Education,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+138,jamaicainn.com,29/08/2023,United States,Hospitality,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+139,beniculturali.it,29/08/2023,Italia,Government Administration,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+140,sherwin-electric.com,29/08/2023,United States,Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+141,wkclawfirm.com,29/08/2023,United States,Law Practice,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+142,greenside-sch.org,29/08/2023,United Kingdom,Education Administration Programs,1.0,1.0,0.0,0.0,0.0,1.0,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+143,renaultinantwerpen.be,29/08/2023,Belgium,vehicle provider,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+144,casa-andina.com,29/08/2023,peru,Hospitality,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+145,ukseung.co.kr,29/08/2023,korea,Chemical Manufacturing,,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+146,mergerecords.com,29/08/2023,Carolina,Musicians,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+147,recamlaser.com,29/08/2023,spain,Machinery Manufacturing,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+148,carolfoxassociates.com,29/08/2023,United States,Public Relations and Communications Services,,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+149,cloverbrook.com,29/08/2023,United Kingdom,Textile Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+150,immoselekt.be,29/08/2023,Belgien,Real Estate,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+151,fimadev.fr,29/08/2023,France,Business Consulting and Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+152,younghomes.com,29/08/2023,United States,Furniture,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+153,cm.gov.nc.tr,29/08/2023,Nederland,Information Technology & Services,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+154,distribuidoradavidsa.com,29/08/2023,Panama,Motor Vehicle Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+155,mergerecords.com,29/08/2023,United States,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+156,senacrs.com.br,25/08/2023,Brasil,,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+157,qintess.com,23/08/2023,Brasil,Education Administration Programs,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+158,newsupri.com.br,23/08/2023,Brasil,IT Services and IT Consulting,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+159,jhilburn.com,27/08/2023,United States,Retail Apparel and Fashion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+160,grupomartex.com,27/08/2023,Mexico,Textile Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+161,purever.com,27/08/2023,United States,Business Supplies & Equipment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+162,ylresin.com,28/01/2023,China,Telecommunications,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+163,iledefrance-nature.fr,23/08/2023,France,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+164,apdparcel.com.au,23/08/2023,Australia,Freight and Package Transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+165,decrolyamericano.edu.gt,23/08/2023,Guatemala,Education Administration Programs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+166,stockwellharris.com,22/08/2023,United States,Legal Services,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+167,phitoformulas.com.br,19/08/2023,Brasil,Medical Practices,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+168,macuspana.gob.mx,19/08/2023,spain,Government Administration,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+169,umchealth.com,17/08/2023,United States,Hospitals and Health Care,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+170,sgl.co.th,17/08/2023,Deutschland,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+171,kriegerklatt.com,17/08/2023,United States,Architecture and Planning,0.0,,0.0,0.0,0.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+172,mybps.us,17/08/2023,United States,Accounting,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+173,sfjazz.org,17/08/2023,United States,Performing Arts,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+174,smart-swgcrc.org,17/08/2023,United States,Education,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+175,qbcqatar.com.qa,14/08/2023,Qatar,Construction,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+176,leecorpinc.com,14/08/2023,United States,Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+177,econsult.com,14/08/2023,United States,Legal Services,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+178,luterkort.se,13/08/2023,Sweden,Legal Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+179,majan.com,13/08/2023,United Arab Emirates,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+180,rappenglitz.de,13/08/2023,germany,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+181,stmarysschool.co.za,13/08/2023,Malaysia,Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+182,meaf.com,13/08/2023,Nederland,Machinery Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+183,roxcel.com.tr,13/08/2023,Thailand,Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+184,zaun.co.uk,13/08/2023,United Kingdom,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+185,difccourts.ae,13/08/2023,United Arab Emirates,Legal Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+186,sekuro.com.tr,09/08/2023,Turkey,Packaging and Containers Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+187,asfcustomers.com,09/08/2023,United States,Financial Services,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+188,csem.qc.ca,09/08/2023,Canada,Telecommunications,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+189,janus-engineering.com,09/08/2023,United States,IT Services and IT Consulting,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+190,janus-engineering.com,09/08/2023,United States,IT Services and IT Consulting,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+191,ricks-motorcycles.com,09/08/2023,Germany,	Transportation Equipment Manufacturing,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+192,janus-engineering.com,09/08/2023,United States,IT Services and IT Consulting,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+193,octoso.de,09/08/2023,Germany,Professional Services,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+194,cbcstjohns.co.za,09/08/2023,South Africa,Education Administration Programs,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+195,fashions-uk.com,09/08/2023,United Kingdom,Retail,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+196,el-cerrito.org,09/08/2023,United States,Government Administration,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+197,etisaleg.com,09/08/2023,Egypt,Computers and Electronics Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+198,independenceia.org,09/08/2023,United States,Government Administration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+199,wuppermann.com,09/08/2023,Deutschland,Mining,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+200,unitycouncil.org,09/08/2023,United States,Non-profit Organizations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+201,scottevest.com,04/08/2023,United States,Retail Apparel and Fashion,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+202,iqcontrols.com,04/08/2023,United States,Construction,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+203,armortex.com,04/08/2023,United States,Wholesale Building Materials,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+204,tetco.com,04/08/2023,United States,Repair and Maintenance,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+205,pointpleasant.k12.nj.us,03/08/2023,United States,Higher Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+206,floodlaw.com,03/08/2023,United States,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+207,admsc.com,03/08/2023,Qatar,Facilities Services,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+208,fec-corp.com,02/08/2023,United States,Aviation and Aerospace Component Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+209,constructioncrd.com,02/08/2023,Canada,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+210,unicorpusa.com,02/08/2023,United States,Building Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+211,gerb.bg,01/08/2023,Deutschland,Hoch- und Tiefbau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+212,obrelli.it,31/07/2023,Italia,Construction,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+213,nbcc.org,31/07/2023,United States,Professional Training and Coaching,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+214,paretophone.com,31/07/2023,Australia,Non-profit Organizations,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+215,llombart.de,31/07/2023,Germany,Market Research,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+216,westoaksschool.co.uk,31/07/2023,United Kingdom,Education Administration Programs,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+217,haynesintl.com,26/07/2023,United States,Primary Metal Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+218,twv-staderland.de,26/07/2023,Deutschland,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+219,ebpsupply.com,24/07/2023,United States,Business Supplies & Equipment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+220,panoramaeyecare.com,21/07/2023,United States,Hospitals and Health Care,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+221,cityserve-mech.co.uk,20/07/2023,United Kingdom,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+222,suninsurance.com.fj,18/07/2023,New Zealand / Aotearoa,Insurance Agencies and Brokerages,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+223,johnreilly.co.uk,17/07/2023,United Kingdom,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+224,hopetech.com,17/07/2023,England,Sporting Goods Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+225,equmedia.es,15/07/2023,United States,Advertising Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+226,magnumphotos.com,15/07/2023,United States,Photography,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+227,co.langlade.wi.us,15/07/2023,United States,Retail Apparel and Fashion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+228,energym.co.il,15/07/2023,United Kingdom,Wellness and Fitness Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+229,province.namur.be,15/07/2023,United States,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+230,hgc.com.hk,15/07/2023,China,Telecommunications,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+231,greatlakesmbpm.com,15/07/2023,United States,Medical Practices,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+232,konrad-mr.de,15/07/2023,Germany,Electric Power Generation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+233,affinityhealthservices.ne,NA,United States,Business Consulting and Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+234,selmi.com.br,11/07/2023,Brazil,Business Supplies & Equipment,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+235,sommer.eu,11/07/2023,Brazil,Design Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+236,panoramaeyecare.com,11/07/2023,United States,Medical Practices,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+237,roys.co.uk,09/07/2023,United Kingdom,Retail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+238,buckprop.com,09/07/2023,United States,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+239,siegfried.com.mx,06/07/2023,Schweiz/Suisse/Svizzera/Svizra,Pharmaceutical Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+240,gacegypt.net,06/07/2023,Egypt,Maritime,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+241,cls-group.com,06/07/2023,United States,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+242,chasc.org,06/07/2023,United States,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+243,betalandservices.com,06/07/2023,United States,Oil and Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+244,recamlaser.com,05/07/2023,Espa√±a,Miner√≠a,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+245,eurosupport.com,05/07/2023,Italia,Financial Services,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+246,mitr.com,05/07/2023,Thailand,Food and Beverage Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+247,guestgroup.com.au,03/07/2023,Australia,Furniture and Home Furnishings Manufacturing,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+248,oneexchangecorp.com,03/07/2023,United States,Oil and Gas,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+249,snjb.net,03/07/2023,United States,Construction,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+250,tedpella.com,03/07/2023,United States,Nanotechnology Research,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+251,bancodevenezuela.com,03/07/2023,Venezuela,Banking,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+252,nagase.co.jp,03/07/2023,Japan,Chemical Manufacturing,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+253,mundo-r.com,03/07/2023,Spain,Manufacturing,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+254,shakeys.com,29/06/2023,Philippines,Restaurants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+255,stimgroup.it,28/06/2023,Italia,Fabbricazione di macchinari industriali,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+256,aimtron.com,28/06/2023,United States,"Appliances, Electrical, and Electronics Manufacturing",1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+257,ibafrance.fr,28/06/2023,France,Recreational Facilities,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+258,nagase.co.jp,24/06/2023,Japan,Chemical Manufacturing,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+259,prioritydispatch.net,23/06/2023,United States,Public Safety,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+260,grantierra.com,23/06/2023,Canada,Oil and Gas,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+261,cornu.ch,20/06/2023,Switzerland,Food and Beverage Retail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+262,bbrook.org,20/06/2023,United States,Higher Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+263,absolutecal.co.uk,19/06/2023,United Kingdom,"Appliances, Electrical, and Electronics Manufacturing",1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+264,tilg.at,19/06/2023,United States,Human Resources Services,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Lockbit,NA
+265,aquidneckclub.com,19/06/2023,United States,Hospitality,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+266,gizavc.com,15/06/2023,Israel,Venture Capital and Private Equity Principals,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+267,airtac.com,15/06/2023,China,Industrial Machinery Manufacturing,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+268,euskaltel.com,15/06/2023,Spain,"Telecommunications
+",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+269,ste-usa.com,15/06/2023,United States,Industrial Machinery Manufacturing,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+270,flybtr.com,15/06/2023,United States,Airlines and Aviation,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+271,granules.com,14/06/2023,India,Pharmaceutical Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+272,primeretailservices.com,14/06/2023,United States,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+273,surfsidefoods.com,14/06/2023,United States,Food and Beverage Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+274,gslelectric.com,13/06/2023,United States,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+275,eriematerials.com,13/06/2023,United States,Building Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+276,ai-thermal.com,12/06/2023,Australia,Motor Vehicle Manufacturing,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+277,pneusbeaucerons.com,12/06/2023,Canada,Consumer Services,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+278,gruppomercurio.com,09/06/2023,Italia,Truck Transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+279,wsisd.net,09/06/2023,United States,Primary and Secondary Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+280,knipmeijerenblok.nl,07/06/2023,Netherlands,IT System Installation and Disposal,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Lockbit,NA
+281,irda.com.my,07/06/2023,Malaysia,Perhubungan Kerajaan,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+282,aek.mk,07/06/2023,ŒïŒªŒªŒ¨œÇ,Spectator Sports,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+283,manfil.com.br,07/06/2023,Brasil,Retail,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+284,mundocuervo.com,07/06/2023,M√©xico,Entertainment Providers,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+285,conseildelentente.org,07/06/2023,France,Business Consulting and Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+286,newhorizonsmedical.org,07/06/2023,United States,Medical Practices,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+287,realcomp.com,07/06/2023,United States,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+288,screenline.co.za,06/06/2023,South Africa,Retail Apparel and Fashion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+289,pittsburg.k12.ca.us,06/06/2023,United States,Government Administration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+290,pentechsolution.com.my,06/06/2023,Malaysia,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+291,progen.com.br,06/06/2023,Brazil,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+292,birdair.com,06/06/2023,United States,Construction,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Lockbit,NA
+293,mariohernandez.com.co,06/06/2023,Colombia,Apparel Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+294,payday.com.pa,06/06/2023,United States,Human Resources,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Lockbit,NA
+295,dalvikurbyggd.is,06/06/2023,Iceland,Government Administration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+296,ourrelentlesschurch.com,06/06/2023,United States,Religious Institutions,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+297,vcclawservices.com,06/06/2023,Hong Kong,Law Practice,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+298,summerweine.at,06/06/2023,Austria,Food and Beverage Services,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,,Lockbit,NA
+299,baffetmateriaux.fr,06/06/2023,France,Wholesale Building Materials,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+300,bintangindokaryagemilang.co.id,06/06/2023,Indonesia,Manufacturing,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+301,saragroup.in,06/06/2023,India,Manufacturing,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+302,wjtowell.com,06/06/2023,Oman,Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+303,jeloin.se,06/06/2023,Sweden,Computer Networking,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+304,iprac.com,06/06/2023,Malaysia,Equipment Rental Services,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+305,stimgroup.it,06/06/2023,Italy,Industrial Machinery Manufacturing,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+306,icae.net,06/06/2023,,,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+307,villemandeure.fr,06/06/2023,France,Government Administration,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+308,borwafs.co.za,06/06/2023,South Africa,Financial Services,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+309,jacquart.fr,06/06/2023,France,Furniture,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+310,tmd.go.th,06/06/2023,Thailand,Government Administration,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Lockbit,NA
+311,etships.com,05/06/2023,United States,Truck Transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+312,newarka.edu,03/06/2023,United Kingdom,Education Administration Programs,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+313,fredfeet.com,03/06/2023,United States,Medical Practices,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+314,uhsp.edu,03/06/2023,United States,Higher Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+315,nosm.ca,03/06/2023,Canada,Higher Education,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+316,harwoodlloyd.com,02/06/2023,United States,Law Practice,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+317,packageconcepts.com,02/06/2023,United States,Packaging and Containers Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+318,fsd.se,01/06/2023,Sweden,Construction,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+319,voyageursdumonde.fr,28/05/2023,France,Travel Arrangements,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+320,arnoldoilco.com,26/05/2023,United States,Motor Vehicle Manufacturing,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+321,ultimateimageprinting.com,26/05/2023,United States,Printing Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+322,fams.net,26/05/2023,United States,Financial Services,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+323,kyocera-avx.com,26/05/2023,United States,"Appliances, Electrical, and Electronics Manufacturing",1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+324,globalinfovision.com,24/05/2023,India,Information Technology & Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+325,joysonsafety.com,23/05/2023,United States,Motor Vehicle Manufacturing,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+326,spectre.dk,23/05/2023,Denmark,Design Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+327,rmc-canada.com,22/05/2023,Canda,Office Administration,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+328,diasporacs.org,21/05/2023,United States,Non-profit Organizations,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+329,abe-brands.de,21/05/2023,Germany,Retail Office Equipment,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+330,ebdlab.com,21/05/2023,United States,Medical Equipment Manufacturing,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+331,csagh.org,19/05/2023,United States,Primary and Secondary Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+332,antea.es,18/05/2023,Spain,Environmental Services,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+333,metalnet.nl,18/05/2023,Netherlands,Machinery Manufacturing,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+334,shoreregional.org,18/05/2023,United States,Education,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+335,enovationcontrols.com,NA,United States,"Appliances, Electrical, and Electronics Manufacturing",0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+336,plastictecnic.com,17/05/2023,Malaysia,Plastics Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+337,tec-mex.com.mx,11/05/2023,Mexico City,IT Services and IT Consulting,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+338,fabeckarchitectes.lu,25/04/2023,Luxembourg,Architecture and Planning,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+339,ddmontaza.hr,25/04/2023,Croatia,Industrial Machinery Manufacturing,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+340,midipapierspeints.fr,24/04/2023,France,Wholesale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+341,sunray.com.sg,16/05/2023,Singapore,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+342,chinadailyhk.com,16/05/2023,Hong Kong,Newspaper Publishing,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+343,bankbsi.co.id,15/05/2023,Indonesia,Banking,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+344,norcorp.com,15/05/2023,United States,Printing Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+345,mundo-r.com,15/05/2023,Spain,Telecommunications,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+346,tool-temp.net,15/05/2023,United Kingdom,Machinery Manufacturing,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+347,pikenursery.com,14/05/2023,United States,Retail,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+348,troteclaser.com,14/05/2023,Austria,Machinery Manufacturing,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+349,weberweber.at,12/05/2023,Austria,Insurance,1.0,1.0,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+350,prolinerrescue.com,12/05/2023,United States,Motor Vehicle Manufacturing,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+351,viseg.com,11/05/2023,Colombia,Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+352,vuteq.mx,11/05/2023,Japanese,Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+353,goforcloud.com,24/04/2023,Belgium,IT Services and IT Consulting,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+354,gocontec.com,10/05/2023,United States,"Transportation, Logistics, Supply Chain and Storage",0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+355,mbwswim.com,09/05/2023,United States,Apparel & Fashion,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+356,interfides.de,09/05/2023,Germany,Professional Services,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+357,hk-finance.pl,09/05/2023,Poland,Accounting,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+358,namibmills.com,07/05/2023,Namibia,Food and Beverage Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+359,layherna.com,04/05/2023,United States,Construction,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+360,fullertonindia.com,03/05/2023,India,Financial Services,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+361,triaflex.at,03/05/2023,Austria ,Furniture and Home Furnishings Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+362,cydsa.com,03/05/2023,Mexico City,Chemical Manufacturing,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+363,multimedica.it,26/04/2023,Italy,Hospitals and Health Care,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+364,hasenauer-anlagenbau.at,02/05/2023,Austria,Engineering Services,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+365,cloud51.com,02/05/2023,,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+366,tvh.com,28/04/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+367,baughmanco.com,28/04/2023,United States,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+368,stuertz.com,22/04/2023,Germany,Machinery Manufacturing,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+369,olympia.org,26/04/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+370,keystonesmiles.org,26/04/2023,United States,Non-profit Organizations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+371,bg2i.fr,26/04/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+372,cdcbmestihl.com,26/04/2023,,Wholesale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+373,fsdc.org.hk,26/04/2023,,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+374,silbon.es,26/04/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+375,imanor.gov.ma,25/04/2023,Morocco,Chemical Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+376,gruponutresa.com,24/04/2023,Colombia,Food and Beverage Services,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+377,logicalsolutions.bc.ca,24/04/2023,Canada,"Appliances, Electrical, and Electronics Manufacturing",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+378,conver-pack.com,24/04/2023,United States,Packaging and Containers Manufacturing,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+379,abro.se,24/04/2023,Sweden,Wholesale Alcoholic Beverages,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+380,baffetmateriaux.fr,24/04/2023,France,Wholesale Building Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+381,tiger.jp,24/04/2023,Japan,Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+382,kse.org.kw,24/04/2023,Kuwait,Government Administration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+383,yateemgroup.com,24/04/2023,United Arab Emirates,Retail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+384,apolloscientific.co.uk,24/04/2023,England,Wholesale Chemical and Allied Products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+385,gpglobal.com,24/04/2023,United Arab Emirates,Oil and Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+386,esinsa.com,24/04/2023,Guatemala,Machinery Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+387,bigc.co.th,24/04/2023,Thailand,Retail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+388,garrottbros.com,23/04/2023,United States,Construction,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+389,tf-amd.com.my,06/04/2023,Malaysia,Semiconductor Manufacturing,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+390,soapro.ao,21/04/2023,Angola,Civil Engineering,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+391,pkffinconta.ro,21/04/2023,Romania,Financial Services,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+392,ibp.com.br,21/04/2023,Brasil,Financial Services,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+393,soshin.co.jp,21/04/2023,Japan,Manufacturing,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+394,hammondlumber.com,21/04/2023,United States,Wholesale Building Materials,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+395,tubosreunidosgroup.com,20/04/2023,,,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+396,telepizza.com,20/04/2023,Espa√±a,Hospitality,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+397,intuview.com,19/04/2023,◊ô◊©◊®◊ê◊ú,Software Development,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+398,sommer.eu,19/04/2023,United Kingdom,Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+399,sbhc.us,19/04/2023,United States,Pharmaceutical Manufacturing,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+400,islandinsurance.ca,19/04/2023,United States,Insurance,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+401,mangiainc.com,19/04/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+402,thesoftwareconsultinggroup.com,18/04/2023,Canada,Business Consulting and Services,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+403,mitchcointernational.com,17/04/2023,United States,Food and Beverage Services,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+404,hkiff.org.hk,17/04/2023,,"Movies, Videos, and Sound",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+405,joriszorg.nl,17/04/2023,Nederland,Ziekenhuizen en gezondheidszorg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+406,pinelandschool.org,17/04/2023,United States,,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+407,psenergy.com,17/04/2023,United States,Oil and Gas,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+408,brl.fr,17/04/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+409,hacla.org,15/04/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+410,sandycove.org,14/04/2023,,Hospitality,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+411,elsan.care,14/04/2023,France,Hospitals and Health Care,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+412,moci.gov.kw,14/04/2023,Belgi√´ / Belgique / Belgien,Restaurants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+413,vanderkaay.com,14/04/2023,United States,Financial Services,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+414,aristopharma.com,14/04/2023,Bangladesh,Pharmaceutical Manufacturing,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+415,crystalcreamery.com,14/04/2023,United States,Food Production,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+416,dmos.com,14/04/2023,Deutschland,Semiconductor Manufacturing,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+417,homeandhearthealth.com,13/04/2023,,Hospitals and Health Care,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+418,techhard.ae,10/03/2023,United Arab Emirates,Manufacturing,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+419,ksrsac.karnataka.gov.in,21/03/2023,,,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+420,fameline.com,13/04/2023,ŒöœçœÄœÅŒøœÇ - Kƒ±brƒ±s,Maritime,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+421,darktrace.com,13/04/2023,United Kingdom,Computer and Network Security,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+422,fosfa.cz,13/04/2023,United States,International Trade and Development,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+423,bcncruiseport.com,13/04/2023,Espa√±a,Maritime Transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+424,teleferico.com,13/04/2023,Espa√±a,Restaurants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+425,conseildelentente.org,11/04/2023,France,Business Consulting and Services,1.0,1.0,,,,1.0,1.0,,,,,,,,,,,Lockbit,NA
+426,servex-us.com,11/04/2023,United States,Advertising Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+427,comacchio.com,11/04/2023,Italia,Produzione di macchinari,1.0,1.0,,1.0,,1.0,,,,,,,,,,,,Lockbit,NA
+428,grouplease.co.th,11/04/2023,‡∏õ‡∏£‡∏∞‡πÄ‡∏ó‡∏®‡πÑ‡∏ó‡∏¢,Financial Services,1.0,1.0,,1.0,,1.0,1.0,,,,,,,,,,,Lockbit,NA
+429,sxi.com.ph,07/04/2023,Nederland,Airlines and Aviation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+430,omscomponents.it,04/04/2023,Italia,Fabbricazione di macchinari industriali,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+431,biosonicsinc.com,04/04/2023,United States,Environmental Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+432,dana-group.com,04/04/2023,ÿßŸÑÿ•ŸÖÿßÿ±ÿßÿ™ ÿßŸÑÿπÿ±ÿ®Ÿäÿ© ÿßŸÑŸÖÿ™ÿ≠ÿØÿ©,ÿ™ÿµŸÜŸäÿπ ÿßŸÑÿ¢ŸÑÿßÿ™ ÿßŸÑÿµŸÜÿßÿπŸäÿ©,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+433,vissan.com.vn,04/04/2023,,Food and Beverage Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+434,prlabs.com,04/04/2023,United States,Wellness and Fitness Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+435,vernegroup.com,03/04/2023,Espa√±a,Servicios de TI y consultor√≠a de TI,,1.0,,,1.0,1.0,1.0,,,,,,,,,,,Lockbit,NA
+436,revvaviation.com,03/04/2023,United States,Airlines and Aviation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+437,wcinet.com,03/04/2023,United States,Advertising Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+438,p-and-r.com,01/04/2023,,Design Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+439,ativy.com,31/03/2023,Brasil,Servi√ßos e consultoria de TI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+440,hacla.org,31/03/2023,United States,Government Administration,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+441,groupe-seche.com,30/03/2023,France,Banking,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+442,theus-industries.fr,30/03/2023,,,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+443,tharworx.com,30/03/2023,,Hospitals and Health Care,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+444,bianchiindustry.com,29/03/2023,Italia,Machinery Manufacturing,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Lockbit,NA
+445,nts.go.kr,29/03/2023,Singapore,Mechanical Or Industrial Engineering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+446,nts.go.kr,29/03/2023,Singapore,Mechanical Or Industrial Engineering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+447,piramal.com,27/03/2023,India,Pharmaceutical Manufacturing,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+448,errebielle.it,27/03/2023,Italia,Furniture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+449,lqtbg.com.cn,27/03/2023,China,Wine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+450,ulmacarretillas.com,27/03/2023,Espa√±a,"Transportation, Logistics, Supply Chain and Storage",0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+451,medellin.gov.co,27/03/2023,India,Musicians,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+452,alliedtools.com,27/03/2023,United States,Retail,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+453,sakrgroup.net,27/03/2023,,Food and Beverage Services,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+454,wcso.us,27/03/2023,,Government Administration,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+455,bocca-sacs.com,27/03/2023,France,Commerce de gros,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+456,nougat-carlier.be,27/03/2023,,,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+457,mangalagroup.com,27/03/2023,India,Food Production,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+458,nonson.com.vn,27/03/2023,Australia,Maritime Transportation,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+459,ita-moulding-process.com,26/03/2023,France,Services relatifs aux b√¢timents,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+460,giga.com.vc,25/03/2023,Singapore,Telecommunications,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+461,demechindia.com,25/03/2023,India,Mechanical Or Industrial Engineering,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+462,precisionit.co.in,25/03/2023,Argentina,IT Services and IT Consulting,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+463,securens.in,24/03/2023,,Security and Investigations,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Lockbit,NA
+464,bianchiindustry.com,24/03/2023,Italia,Machinery Manufacturing,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Lockbit,NA
+465,tecnosysitalia.eu,22/03/2023,Italia,IT Services and IT Consulting,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+466,kaycan.com,14/03/2023,Canada,Wholesale Building Materials,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+467,cabinet-paillet.fr,21/03/2023,France,Accounting,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+468,stolt-nielsen.com,21/03/2023,United States,"Transportation, Logistics, Supply Chain and Storage",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+469,the3rivers.net,21/03/2023,United Kingdom,Education Administration Programs,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+470,bakermech.com,21/03/2023,United States,Construction,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+471,roslevauto.dk,21/03/2023,,,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+472,cityofallenpark.org,21/03/2023,United States,Truck Transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+473,stavinvest.cz,19/03/2023,Czech Republic,Construction,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+474,id-logistics.com,19/03/2023,United States,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+475,hitzler-ingenieure.de,19/03/2023,Germany,Baugewerbe,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+476,bbsautomation.com,19/03/2023,Germany,Machinery Manufacturing,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+477,spoormaker.co.za,19/03/2023,South Africa,Engineering Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+478,r-pac.com,17/03/2023,United States,Packaging and Containers Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+479,gruppobeltrame.com,14/02/2023,Italy,Mining,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+480,sabena-engineering.com,13/03/2023,Belgium,Airlines and Aviation,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+481,essendant.com,14/03/2023,United States,Wholesale,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+482,ktcs.com.my,16/03/2023,Malaysia,Fabricated Metal Products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+483,boothtransport.com,16/03/2023,Australia,Truck Transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+484,radium.com.tw,16/03/2023,United States,Broadcast Media Production and Distribution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+485,buehnen.de,16/03/2023,Germany,Chemical Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+486,meatel.com,16/03/2023,Lebanon,Telecommunications,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+487,mandirisekuritas.co.id,16/03/2023,Indonesia,Investment Banking,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+488,waldogeneral.com,16/03/2023,United States,Business Consulting and Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+489,perfectplacement.co.uk,16/03/2023,England,Staffing and Recruiting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+490,regaltax.us,16/03/2023,United States,Accounting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+491,emotorsdirect.ca,14/03/2023,Canada,Wholesale,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+492,fiege.com,14/03/2023,Deutschland,"Transport, Logistik, Lieferkette und Lagerhaltung",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+493,maximumind.com,13/03/2023,United States,Industrial Machinery Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+494,plasticproductsco.com,13/03/2023,United States,Plastics Manufacturing,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+495,jaureguy.com.ar,12/03/2023,Argentina,Beverage wholesale and retail,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+496,schradercamargo.com,11/03/2023,Colombia,Construction,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+497,grupohospitalarvidas.com.br,11/03/2023,Brasil,Hospitais e atendimento √† sa√∫de,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+498,bonta-viva.it,11/03/2023,Italia,Produzione lattiero-casearia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+499,wyckoffcomfort.com,11/03/2023,United States,Consumer Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+500,greggardnergm.com,11/03/2023,Canada,Retail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+501,lubrimetal.com,11/03/2023,Italia,Chemical Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+502,meinet.com,11/03/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+503,brandywine-homes.com,11/03/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+504,cqservice.sk,11/03/2023,Slovensko,Information Technology & Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+505,inphenix.com,11/03/2023,United States,Telecommunications,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+506,omegaservicos.com.br,11/03/2023,Brasil,Security and Investigations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+507,cktc.edu,11/03/2023,ÿßŸÑÿ≥ÿπŸàÿØŸäÿ©,Professional Training and Coaching,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+508,favoritefoods.com,11/03/2023,United States,Food and Beverage Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+509,eprinsa.es,10/03/2023,Spain,Government Administration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+510,micos.com,10/03/2023,Australia,Construction,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+511,drilmaco.com,10/03/2023,Singapore,Oil and Gas,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+512,heidelbergbread.com,10/03/2023,United States,Wholesale,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+513,schauenburg.com,10/03/2023,Deutschland,Mining,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+514,alpes-sante-travail.org,10/03/2023,France,Organismes civiques et sociaux,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+515,kisp.com,10/03/2023,Canada,Design Services,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+516,pmsoffice.de,09/03/2023,Deutschland,Government Administration,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+517,audio-technica.com,09/03/2023,United States,Computers and Electronics Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+518,mcna.net,07/03/2023,United States,Insurance,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+519,gdz.com,07/03/2023,France,"Movies, Videos, and Sound",0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+520,hendrickcorp.com,06/03/2023,United States,Manufacturing,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+521,greekpeak.net,13/02/2023,United States,Hospitality,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+522,nicklaus.com,06/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+523,ascentengrs.com,02/03/2023,,"Appliances, Electrical, and Electronics Manufacturing",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+524,jams.edu.jo,06/02/2023,Jordan,Education ,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+525,nlsmichigan.org,02/02/2023,United States,Non-profit Organizations,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+526,prlabs.com,06/02/2023,United States,Wellness and Fitness Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+527,bethrivkah.edu,02/02/2023,Australia,Education Administration Programs,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+528,scandia.ro,02/02/2023,Nederland,Apparel Manufacturing,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+529,kostika.co.il,02/02/2023,Israel,Architecture and Planning,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+530,elsan.care,24/01/2023,France,Healthcare,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+531,newbridge.org,16/02/2023,Singapore,Human Resources,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+532,plasmasurgical.com,02/02/2023,United Kingdom,Wellness and Fitness Services,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+533,tjel.net,01/03/2023,Thailand,Oil and Gas,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+534,egas.no,01/03/2023,Egypt,Oil and Gas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+535,laxmi.com,01/03/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+536,indigo.ca,28/02/2023,India,Airlines and Aviation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+537,hafele.com,28/02/2023,Singapore,Building Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+538,princepalace.co.th,28/02/2023,,Hospitality,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+539,nokair.com,28/02/2023,,Airlines and Aviation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+540,haeco.com,28/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+541,df.senac.br,28/02/2023,,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+542,georgeleslie.co.uk,28/02/2023,United Kingdom,Civil Engineering,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+543,wmich.edu,28/02/2023,United States,Higher Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+544,cobcreditunion.com,28/02/2023,Barbados,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+545,globalcommunities.org,28/02/2023,United States,International Trade and Development,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+546,lsa-international.com,28/02/2023,,Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+547,hico-ics.com,28/02/2023,√ñsterreich,Aviation & Aerospace,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+548,rosenbauer.com,27/02/2023,√ñsterreich,Automotive,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+549,ilfsindia.com,27/02/2023,,Investment Banking,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+550,royalmailgroup.com,06/02/2023,United Kingdom,Truck Transportation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+551,skylinetrisource.com,22/02/2023,United States,Advertising Services,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+552,cotteeparker.com.au,22/02/2023,Australia,Architecture and Planning,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Lockbit,NA
+553,beacontech.net,21/02/2023,,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+554,treves-group.com,21/02/2023,France,Motor Vehicle Parts Manufacturing,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+555,lyonhealy.com,21/02/2023,,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+556,carlocksystems.com,20/02/2023,Nederland,Productie motorvoertuigen,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+557,womgroup.com,19/02/2023,United States,Oil and Gas,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+558,anthonymartin.be,19/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+559,elliotthomes.com,19/02/2023,United States,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+560,laremo.de,19/02/2023,Maroc ‚µç‚µé‚µñ‚µî‚µâ‚¥± ÿßŸÑŸÖÿ∫ÿ±ÿ®,Higher Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+561,servicesfinanciersjdf.com,19/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+562,jetboxcargo.com,19/02/2023,Costa Rica,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+563,bakermechanicalinc.com,19/02/2023,United States,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+564,championfp.com,18/02/2023,United States,Construction,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+565,inowai.com,18/02/2023,L√´tzebuerg,Immobilier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+566,aguasdoporto.pt,18/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+567,diavaz.com,18/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+568,isosteo.fr,18/02/2023,France,Higher Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+569,primorossi.com.br,18/02/2023,Brasil,Servi√ßos financeiros,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+570,innophaseinc.com,17/02/2023,United States,Semiconductor Manufacturing,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Lockbit,NA
+571,hotdesk.me,17/02/2023,ÿßŸÑÿ•ŸÖÿßÿ±ÿßÿ™ ÿßŸÑÿπÿ±ÿ®Ÿäÿ© ÿßŸÑŸÖÿ™ÿ≠ÿØÿ©,"Technology, Information and Internet",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+572,fikes.com,17/02/2023,United States,Facilities Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+573,cordfinancial.com,17/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+574,royallepage.ca,16/02/2023,Canada,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+575,ziapueblo.org,16/02/2023,United States,Government Administration,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+576,vitrox.com,16/02/2023,Malaysia,"Appliances, Electrical, and Electronics Manufacturing",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+577,coreautomation.com,16/02/2023,ŒïŒªŒªŒ¨œÇ,Automation Machinery Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+578,piercetransit.org,15/02/2023,United States,Truck Transportation,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+579,nationallocums.co.uk,15/02/2023,United Kingdom,Staffing and Recruiting,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+580,myerspower.com,14/02/2023,United States,"Appliances, Electrical, and Electronics Manufacturing",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+581,cefcostores.com,14/02/2023,United States,Retail,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+582,albanesi.com.ar,14/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+583,montibello.com,14/02/2023,Espa√±a,Fabricaci√≥n de productos de cuidado personal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+584,richardsind.com,14/02/2023,United States,Industrial Machinery Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+585,srf.com,14/02/2023,India,Chemical Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+586,kboattorneys.com,14/02/2023,United States,Law Practice,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+587,delawarelife.com,14/02/2023,,,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+588,trudi.it,13/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+589,blackandwhitecabs.com.au,13/02/2023,Australia,Travel Arrangements,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+590,semsinc.net,13/02/2023,United States,Environmental Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+591,tucsoneyecare.com,13/02/2023,United States,Medical Practices,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+592,laganscg.com,13/02/2023,United Kingdom,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+593,mdstrucking.com,13/02/2023,United States,International Trade and Development,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+594,menziesaviation.com,13/02/2023,United Kingdom,Airlines and Aviation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+595,prinovaglobal.com,13/02/2023,United Kingdom,Food and Beverage Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+596,mhstech.com,12/02/2023,United States,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+597,ppinvestors.com,12/02/2023,Zambia,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+598,wilsonart.co.th,12/02/2023,United States,Wholesale Building Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+599,olsenlawgroup.com,12/02/2023,United States,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+600,lhermite-agri.com,12/02/2023,France,Wholesale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+601,covermeinsurance.com,12/02/2023,United States,Insurance,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+602,mrkpc.com,12/02/2023,United States,Law Practice,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+603,cassaragionieri.it,09/02/2023,Italy,Financial Services,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+604,arcessex.org,09/02/2023,United States,Individual and Family Services,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+605,maysecc.com,07/02/2023,United States,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+606,transports-feuillet.fr,07/02/2023,France,Transport routier,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+607,interpaving.com,07/02/2023,Canada,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+608,adamjeeinsurance.com,06/02/2023,Ÿæÿß⁄©ÿ≥ÿ™ÿßŸÜ,Insurance,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+609,ckfinc.com,06/02/2023,United States,Food and Beverage Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+610,hildinganders.com,06/02/2023,Sverige,Furniture and Home Furnishings Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+611,hkri.com,06/02/2023,China,Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+612,phihong.com.tw,06/02/2023,Taiwan,Manufacturing,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+613,bplawyers.co.id,05/02/2023,Australia,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+614,virtuosgames.com,03/02/2023,Singapore,Computer Games,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+615,urmgroup.com.au,31/01/2023,United States,Business Consulting and Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+616,guardiananalytics.com,03/02/2023,United States,Computer and Network Security,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Lockbit,NA
+617,fabricatedpipe.com,02/02/2023,United States,Fabricated Metal Products,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+618,pharmagestao.com.br,01/02/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+619,nexuspoint.com,31/01/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+620,geraardsbergen.be,31/01/2023,Belgi√´ / Belgique / Belgien,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+621,parkavedoors.com,31/01/2023,United States,Wholesale Building Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+622,tcels.or.th,31/01/2023,‡∏õ‡∏£‡∏∞‡πÄ‡∏ó‡∏®‡πÑ‡∏ó‡∏¢,Wellness and Fitness Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+623,2cara.fr,31/01/2023,France,Comptabilit√©,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+624,transportsn.com,30/01/2023,Singapore,"Transportation, Logistics, Supply Chain and Storage",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+625,cantinatollo.it,30/01/2023,Italia,Beverage Manufacturing,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+626,wealthwise.com.au,30/01/2023,Australia,Financial Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+627,luacesasesores.es,30/01/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+628,fritsche.eu.com,30/01/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+629,cm-vimioso.pt,30/01/2023,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+630,dsavocats.com,30/01/2023,France,Law Practice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+631,airalbania.com.al,30/01/2023,Shqip√´ria,Airlines and Aviation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+632,8x8.com,30/01/2023,United States,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+633,bulldoggroupinc.com,30/01/2023,United States,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+634,cplindustries.co.uk,30/01/2023,United Kingdom,Oil and Coal Product Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+635,kvie.org,30/01/2023,United States,Broadcast Media Production and Distribution,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+636,juvaskin.com,30/01/2023,United States,Medical Practices,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+637,itsservicios.com.mx,30/01/2023,Polska,IT Services and IT Consulting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+638,qsi-q3.de,29/01/2023,United States,Consumer Services,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+639,xlntinc.com,24/01/2023,United States,Software Development,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+640,miguelmechanical.com,22/01/2023,United States,Oil and Gas,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+641,ibb-business-team.de,22/01/2023,Berlin,Financial Services,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+642,payroll2u.com,19/01/2023,Singapore,Human Resources Services,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+643,tvk.nl,18/01/2023,Netherlands,Motor Vehicle Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+644,duomed.com,18/01/2023,France,Medical Equipment Manufacturing,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+645,merlinpcbgroup.com,18/01/2023,United Kingdom,"Appliances, Electrical, and Electronics Manufacturing",0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+646,politriz.ind.br,16/01/2023,Brasil,Chemical Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+647,atcuae.ae,16/01/2023,United Arab Emirates,Automotive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+648,melody.com.tr,16/01/2023,Turkey,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+649,ak.com.sa,16/01/2023,Saudi Arabia,Retail,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+650,fulfilmentmatters.co.uk,16/01/2023,United Kingdom,"Transportation, Logistics, Supply Chain and Storage",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+651,matrixschools.edu.my,14/01/2023,Malaysia,Primary and Secondary Education,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+652,russellfinex.com,12/01/2023,England,Mechanical Or Industrial Engineering,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+653,nuxe.com,12/01/2023,France,Personal Care Product Manufacturing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+654,versteden.com,12/01/2023,Nederland,Plastic Manufacturing,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+655,lidestrifoodanddrink.com,12/01/2023,United States,Food and Beverage Services,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+656,muellergartenbau.ch,12/01/2023,Schweiz/Suisse/Svizzera/Svizra,Construction,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+657,datair.com,10/01/2023,United States,Software Development,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+658,flatironssolutions.com,09/01/2023,United States,IT Services and IT Consulting,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Lockbit,NA
+659,juarez.gob.mx,07/01/2023,Mexico,Administration of Justice,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+660,takamiya.co,07/01/2023,Japan,Construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+661,aliat.group,NA,Vietnam,Business Consulting and Services,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
+662,kkcsworld.com,NA,United States,Construction,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lockbit,NA
