@@ -272,7 +272,7 @@
 121,Structab AB (MegTax),28/4/2023,Halmstad,Sweden,Information Technology & Services,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
 122,Corrib Oil,28/4/2023,Ireland,Ireland,Retail,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
 123,Coldiretti,28/4/2023,Rome,Italy,Food Production,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
-124,Huissiers,28/4/2023,Singapore,France,Photography,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
+124,Huissiers,28/4/2023,France,France,Photography,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
 125,Bang IT Solutions,28/4/2023," Sydney, NSW",Australia,Information Technology & Services,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
 126,PESA Bydgoszcz,14/4/2023,Bydgoszcz,Poland,Industrial Machinery Manufacturing,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,PlayNews
 127,CH Media,3/5/2023,"Aarau, Aargau",Switzerland,Media Production,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,PlayNews
@@ -860,8 +860,8 @@
 442,theus-industries.fr,30/3/2023,NA,,,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
 443,tharworx.com,30/3/2023,NA,,Hospitals and Health Care,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 444,bianchiindustry.com,29/3/2023,NA,Italy,Machinery Manufacturing,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,Lockbit
-445,nts.go.kr,29/3/2023,NA,Singapore,Mechanical Or Industrial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-446,nts.go.kr,29/3/2023,NA,Singapore,Mechanical Or Industrial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+445,nts.go.kr,29/3/2023,NA,South Korea,Mechanical Or Industrial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+446,nts.go.kr,29/3/2023,NA,South Korea,Mechanical Or Industrial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 447,piramal.com,27/3/2023,NA,India,Pharmaceutical Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 448,errebielle.it,27/3/2023,NA,Italy,Furniture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 449,lqtbg.com.cn,27/3/2023,NA,China,Wine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
@@ -875,7 +875,7 @@
 457,mangalagroup.com,27/3/2023,NA,India,Food Production,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 458,nonson.com.vn,27/3/2023,NA,Australia,Maritime Transportation,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 459,ita-moulding-process.com,26/3/2023,NA,France,Facilities Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-460,giga.com.vc,25/3/2023,NA,Singapore,Telecommunications,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+460,giga.com.vc,25/3/2023,NA,Brazil,Wholesale,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 461,demechindia.com,25/3/2023,NA,India,Mechanical Or Industrial Engineering,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 462,precisionit.co.in,25/3/2023,NA,Argentina,IT Services and IT Consulting,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Lockbit
 463,securens.in,24/3/2023,NA,,Security and Investigations,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Lockbit
@@ -946,13 +946,13 @@
 528,scandia.ro,2/2/2023,NA,Netherlands,Apparel Manufacturing,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Lockbit
 529,kostika.co.il,2/2/2023,NA,Israel,Architecture and Planning,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
 530,elsan.care,24/1/2023,NA,France,Healthcare,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
-531,newbridge.org,16/2/2023,NA,Singapore,Human Resources,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+531,newbridge.org,16/2/2023,NA,United States,Human Resources,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
 532,plasmasurgical.com,2/2/2023,NA,United Kingdom,Wellness and Fitness Services,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
 533,tjel.net,1/3/2023,NA,Thailand,Oil and Gas,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
 534,egas.no,1/3/2023,NA,Egypt,Oil and Gas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 535,laxmi.com,1/3/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 536,indigo.ca,28/2/2023,NA,India,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-537,hafele.com,28/2/2023,NA,Singapore,Building Materials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+537,hafele.com,28/2/2023,NA,United States,Wholesale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 538,princepalace.co.th,28/2/2023,NA,,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 539,nokair.com,28/2/2023,NA,,Airlines and Aviation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 540,haeco.com,28/2/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
@@ -1039,7 +1039,7 @@
 621,parkavedoors.com,31/1/2023,NA,United States,Wholesale Building Materials,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 622,tcels.or.th,31/1/2023,NA,Thailand,Wellness and Fitness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 623,2cara.fr,31/1/2023,NA,France,Accounting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-624,transportsn.com,30/1/2023,NA,Singapore,"Transportation, Logistics, Supply Chain and Storage",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+624,transportsn.com,30/1/2023,NA,Canada,"Transportation, Logistics, Supply Chain and Storage",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 625,cantinatollo.it,30/1/2023,NA,Italy,Beverage Manufacturing,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
 626,wealthwise.com.au,30/1/2023,NA,Australia,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 627,luacesasesores.es,30/1/2023,NA,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
