@@ -576,7 +576,7 @@
 159,jhilburn.com,27/8/2023,NA,United States,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 160,grupomartex.com,27/8/2023,NA,Mexico,Textile Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 161,purever.com,27/8/2023,NA,United States,Business Supplies & Equipment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-162,ylresin.com,28/1/2023,NA,China,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+162,ylresin.com,28/1/2023,NA,Taiwan,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 163,iledefrance-nature.fr,23/8/2023,NA,France,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 164,apdparcel.com.au,23/8/2023,NA,Australia,Freight and Package Transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 165,decrolyamericano.edu.gt,23/8/2023,NA,Guatemala,Education Administration Programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
@@ -644,7 +644,7 @@
 227,co.langlade.wi.us,15/7/2023,NA,United States,Retail Apparel and Fashion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 228,energym.co.il,15/7/2023,NA,United Kingdom,Wellness and Fitness Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 229,province.namur.be,15/7/2023,NA,United States,Financial Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-230,hgc.com.hk,15/7/2023,NA,China,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+230,hgc.com.hk,15/7/2023,NA,Hong Kong,Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 231,greatlakesmbpm.com,15/7/2023,NA,United States,Medical Practices,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 232,konrad-mr.de,15/7/2023,NA,Germany,Electric Power Generation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 233,affinityhealthservices.ne,NA,NA,United States,Business Consulting and Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
@@ -681,7 +681,7 @@
 264,tilg.at,19/6/2023,NA,United States,Human Resources Services,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,Lockbit
 265,aquidneckclub.com,19/6/2023,NA,United States,Hospitality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 266,gizavc.com,15/6/2023,NA,Israel,Venture Capital and Private Equity Principals,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
-267,airtac.com,15/6/2023,NA,China,Industrial Machinery Manufacturing,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,Lockbit
+267,airtac.com,15/6/2023,NA,Taiwan,Industrial Machinery Manufacturing,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,Lockbit
 268,euskaltel.com,15/6/2023,NA,Spain,"Telecommunications
 ",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 269,ste-usa.com,15/6/2023,NA,United States,Industrial Machinery Manufacturing,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Lockbit
@@ -864,7 +864,7 @@
 446,nts.go.kr,29/3/2023,NA,South Korea,Mechanical Or Industrial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 447,piramal.com,27/3/2023,NA,India,Pharmaceutical Manufacturing,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 448,errebielle.it,27/3/2023,NA,Italy,Furniture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-449,lqtbg.com.cn,27/3/2023,NA,China,Wine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
+449,lqtbg.com.cn,27/3/2023,NA,NA,Wine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 450,ulmacarretillas.com,27/3/2023,NA,Spain,"Transportation, Logistics, Supply Chain and Storage",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 451,medellin.gov.co,27/3/2023,NA,India,Musicians,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 452,alliedtools.com,27/3/2023,NA,United States,Retail,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Lockbit
@@ -1026,7 +1026,7 @@
 608,adamjeeinsurance.com,6/2/2023,NA,Pakistan,Insurance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 609,ckfinc.com,6/2/2023,NA,United States,Food and Beverage Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 610,hildinganders.com,6/2/2023,NA,Sweden,Furniture and Home Furnishings Manufacturing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
-611,hkri.com,6/2/2023,NA,China,Real Estate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
+611,hkri.com,6/2/2023,NA,Hong Kong,Real Estate,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Lockbit
 612,phihong.com.tw,6/2/2023,NA,Taiwan,Manufacturing,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Lockbit
 613,bplawyers.co.id,5/2/2023,NA,Australia,Law Practice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
 614,virtuosgames.com,3/2/2023,NA,Singapore,Computer Games,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Lockbit
