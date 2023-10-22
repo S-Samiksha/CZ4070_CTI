@@ -2734,6 +2734,10 @@
             <format attr='cell' value='20' />
             <format attr='cell-q' value='100' />
           </style-rule>
+          <style-rule element='label'>
+            <format attr='font-family' field='[federated.0y8hjhg09fe6tf15hl8h214bqs7q].[none:Company_Country:nk]' value='Tableau Medium' />
+            <format attr='font-weight' field='[federated.0y8hjhg09fe6tf15hl8h214bqs7q].[none:Company_Country:nk]' value='bold' />
+          </style-rule>
         </style>
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
